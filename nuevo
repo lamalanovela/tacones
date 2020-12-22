@@ -274,6 +274,19 @@
 		<info>El Presidente de los EE.UU., James Marshall (Harrison Ford), regresa de un viaje oficial a Rusia a bordo del Boing 747 Presidencial, el famoso Air Force One. Un grupo terrorista ruso se apodera del avión y toma como rehenes a la familia y a los miembros del equipo presidencial.</info>
 	</item>
 	<item>
+		<title>AK-47 KALASHNIKOV</title>
+		<microhd>d22b9232f205389a5735c51f00b3d94e2e7fe167</microhd>
+		<fullhd>fd1f358acfaa791ce99d98bf9b3c63943e435fc7</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/sNOvlEsBPHpI3mekQ90ItaNzelu.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/dUasP5TGFk1dhTgtNhk5uLRPRx6.jpg</fanart>
+		<date>2020</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Película biográfica sobre el inventor y diseñador de armas pequeñas Mikhail Timofeevich Kalashnikov.</info>
+	</item>
+	<item>
 		<title>AL ESTE DEL EDEN</title>
 		<microhd>9c6908a85c757c2cbbd6b9874232dbb5ab2238fc</microhd>
 		<fullhd>NA</fullhd>
@@ -473,7 +486,7 @@
 		<microhd>65499e39262d36801201a485e5fac68834c56ff3</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>de1ab440de9b8c4dee116fa8169e28b1ebd33ec5</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/jQIrsqZlEMY3r9VneqGjYjGOFYT.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/o4Thn9ooTZAZOYrlbWgVB20weSf.jpg</fanart>
 		<date>1998</date>
@@ -623,6 +636,19 @@
 		<genre>Acción. Comedia</genre>
 		<extra>Culto</extra>
 		<info>Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se harán buenos amigos.</info>
+	</item>
+	<item>
+		<title>ARMAGEDDON</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>72f6fa36e08aa5bcf5f36b1ce471103cd6c74dfc</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/yYtlk1E28L1kQG6VcazkHhv29Ur.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/kh3KoeyQpzqScweErLqEmBjNDLr.jpg</fanart>
+		<date>1998</date>
+		<genre>Ciencia ficción. Fantástico. Drama. Acción. Romance</genre>
+		<extra>Mis</extra>
+		<info>Un asteroide del tamaño del estado de Tejas apunta directamente hacia la Tierra. Los expertos de la NASA tan sólo encuentran una posible solución: enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta. Para ello recurren a Harry S. Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el Armageddon. </info>
 	</item>
 	<item>
 		<title>ARTEMIS FOWL</title>
@@ -1019,7 +1045,7 @@
 		<microhd>NA</microhd>
 		<fullhd>f054a25f0a9946f8afe400d4ae933325f6df4c7f</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>73a8d7262f330ef5e3653a531bab2e28bdcb3c0b</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/k4rBPLRRnw2t1exdSxyXFjeYWPj.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/eIi3klFf7mp3oL5EEF4mLIDs26r.jpg</fanart>
 		<date>1982</date>
@@ -4187,6 +4213,19 @@
 		<info>Balthazar Pratt, un antiguo niño estrella obsesionado con el personaje que encarnó en los años ochenta, demuestra ser el peor enemigo al que Gru ha debido enfrentarse hasta la fecha.</info>
 	</item>
 	<item>
+		<title>GUERRA MUNDIAL Z</title>
+		<microhd>10cc85d9a0821517be364ed62e01959c8e7c0706</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>dc710abcfbc01548592e1d13c956d6b88aa00b0c</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/rQxQh36ZWtMmPveVxmSRa6qUMLh.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/upsk7nfUjf8ZSYuokwa5U5YXERm.jpg</fanart>
+		<date>2013</date>
+		<genre>Acción. Ciencia ficción. Thriller. Terror</genre>
+		<extra>Mis</extra>
+		<info>Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane (Brad Pitt), un experto investigador de las Naciones Unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia.</info>
+	</item>
+	<item>
 		<title>GUNS AKIMBO</title>
 		<microhd>5cab82c0cb540b048ae04df4c04bbac5ce86d992</microhd>
 		<fullhd>b95376794d2724edd06e6b696716852e0a10dca8</fullhd>
@@ -7058,6 +7097,19 @@
 		<genre>Infantil.</genre>
 		<extra>NA</extra>
 		<info>Max se enfrenta a nuevos e importantes cambios en su vida: su dueña Katie no sólo se ha casado, sino que también ha sido madre por primera vez. En un viaje familiar al campo conoce a un perro granjero llamado Rooster, con el que aprende a dominar sus miedos. Mientras tanto, Gidget trata de recuperar el juguete favorito de Max de un apartamento repleto de gatos. Snowball, por otro lado, se embarca en una peligrosa misión para liberar a un tigre blanco, Hu, de sus captures en un circo de animales. Secuela de 'Mascotas'</info>
+	</item>
+	<item>
+		<title>MATAR A SANTA</title>
+		<microhd>0d1d520732b37eb3c131c70a2500239a9982afe0</microhd>
+		<fullhd>a9f34d58774fbf10ea5feed3705a43055a528696</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/w85cLr1btxfTExmch6L1vKMH0ti.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/bWv6AlBqwT32fEXfeHgMGA7bEXw.jpg</fanart>
+		<date>2020</date>
+		<genre>Comedia. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>La historia se centra en un Papá Noel poco ortodoxo llamado Gibson que lucha por evitar que su negocio se hunda, al mismo tiempo que evita ser asesinado por un matón contratado por un niño de 12 años tras recibir carbón en Navidad.</info>
 	</item>
 	<item>
 		<title>MATAR O MORIR  (PEPPERMINT)</title>
@@ -10790,8 +10842,6 @@
 		<extra>NA</extra>
 		<info>A un convoy americano escoltado por la Legión española le estalla una mina al norte de Afganistán, y el inexperto Teniente Conte (Raúl Mérida) queda al mando de una dotación para proteger a los heridos hasta que los evacuen. La capitán Varela (Ariadna Gil), médico militar, acude al rescate en un helicóptero del Ejército Español, pero el terreno cede durante el aterrizaje y el helicóptero vuelca, dejando a los rescatadores atrapados junto a los legionarios en medio de la nada. El impulsivo Comandante Ledesma (Antonio Garrido) propone un arriesgado plan para rescatarlos a todos y, además, llevarse el aparato siniestrado.</info>
 	</item>
-	<item/>
-	<item/>
 	<item/>
 	<item/>
 	<item/>
