@@ -1,3 +1,5 @@
+
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -1539,7 +1541,7 @@
 		<microhd>ce94860a4c2185326a12f43e247ffbfb791a1607</microhd>
 		<fullhd>81c3c6b0c167d61bb89c675cea2b0df16b87ac3d</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>84d624d51104564151856354023e161226cb94c5</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg</fanart>
 		<date>2018</date>
@@ -2729,6 +2731,19 @@
 		<genre>Drama. Fantástico. Aventuras.Infantil</genre>
 		<extra>Estreno</extra>
 		<info>Mary Lennox (Dixie Egerickx) es un niña nacida en la India de padres británicos. Cuando ambos fallecen de repente, Mary es enviada a Inglaterra con su tío, Archibald Craven (Colin Firth), que vive en un remoto paraje en el páramo de Yorkshire. Allí comienza a descubrir secretos familiares, sobre todo después de conocer a su enfermizo primo (Edan Hayhurst), que durante años ha estado encerrado en una de las alas de la mansión. Juntos, los dos niños exploran un jardín descubierto por Mary, que les ayuda a cerrar las heridas que han sufrido en su corta existencia.</info>
+	</item>
+	<item>
+		<title>EL JINETE PALIDO</title>
+		<microhd>NA</microhd>
+		<fullhd>cb979b7da3e25d967c5928a2a6f3e28e825f94d6</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3O8N9atcWqH1xmKMPHyjiGXSDdg.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/lSH1j2uChyuxKmslXRf1AGyi43p.jpg</fanart>
+		<date>1985</date>
+		<genre>Accion</genre>
+		<extra>Mis</extra>
+		<info>Un grupo de colonos buscadores de oro se establece en un lugar de California, pero sufren el acoso de los hombres de Lahood, el propietario del resto de las explotaciones mineras. Pero un día al poblado llega un misterioso y frío predicador (Clint Eastwood) que se pone de parte de los colonos, y comienza a enfrentarse al temido cacique local.</info>
 	</item>
 	<item>
 		<title>EL JUICIO DE LOS 7 DE CHICAGO</title>
@@ -5593,7 +5608,7 @@
 	<item>
 		<title>LA JUNGLA DE CRISTAL</title>
 		<microhd>383f2dc1b655c84b4daafe3711f68977a252c474</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>19a28b70db86ebf4929fcd50ef4428baae285df6</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>1e93fc3e83f31f750ad162aa7ae35445d2ca9cb6</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/m54tK4wKjc1w2dp7QInG0munGao.jpg</thumbnail>
@@ -5619,7 +5634,7 @@
 	<item>
 		<title>LA JUNGLA DE CRISTAL: LA JUNGLA 4.0</title>
 		<microhd>a806d2752af5d2702e1c992b8f721e86ad1154f6</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>45fd28016b5f6a2d31b65caa3b0358796cf32049</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/8jC7C4dAohb2CdWrEmAPyeTMT3f.jpg</thumbnail>
@@ -5632,7 +5647,7 @@
 	<item>
 		<title>LA JUNGLA DE CRISTAL: LA VENGANZA</title>
 		<microhd>63f8facfb2409cffc4cd521dcf570724b142131e</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>dd70c1fdf059e56b8c4ccc6d061780cf655d4bf2</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/uLVcPispwVVa5LMpAWwQngFcm8.jpg</thumbnail>
@@ -5645,7 +5660,7 @@
 	<item>
 		<title>LA JUNGLA DE CRISTAL: UN BUEN DIA PARA MORIR</title>
 		<microhd>9992c78e5697373bf028c108cab6175831b6538b</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>4299ba4e8b327ef835e010f77fedba84619af08d</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>d71da1483a2db169689e425e18fd1fc979eb04e7</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/kBxvKk4COFo78sUgHzhbE5n8hMo.jpg</thumbnail>
@@ -5784,6 +5799,19 @@
 		<genre>Accion. Aventuras. Fantastico</genre>
 		<extra>NA</extra>
 		<info>A pesar de estar enterrada en una tumba en lo más profundo del desierto, una antigua princesa (Sofia Boutella) cuyo destino le fue arrebatado injustamente, se despierta en la época actual, trayendo consigo una maldición que ha crecido hasta límites insospechados con el paso de miles de años.</info>
+	</item>
+	<item>
+		<title>LA MUERTE TENIA UN PRECIO</title>
+		<microhd>NA</microhd>
+		<fullhd>95eab2b75089cff7c9eb8c6a8f91f91571d50e92</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/uz6jPSxKkR4gW8JfuzjPv599QV2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/hs6OPto38fF589ScpGhl7uSU4MI.jpg</fanart>
+		<date>1965</date>
+		<genre>Accion</genre>
+		<extra>Culto</extra>
+		<info>Dos cazadores de recompensas que buscan al mismo hombre deciden unir sus fuerzas para encontrarlo, aunque las razones que los mueven son completamente diferentes. Su título original ("Per qualche dollaro in più") ya sugiere que es la continuación natural de "Por un puñado de dólares" ("Per un pugno di dollari"), dirigida por Leone un año antes.</info>
 	</item>
 	<item>
 		<title>LA NARANJA MECANICA</title>
@@ -7229,6 +7257,19 @@
 		<info>Max se enfrenta a nuevos e importantes cambios en su vida: su dueña Katie no sólo se ha casado, sino que también ha sido madre por primera vez. En un viaje familiar al campo conoce a un perro granjero llamado Rooster, con el que aprende a dominar sus miedos. Mientras tanto, Gidget trata de recuperar el juguete favorito de Max de un apartamento repleto de gatos. Snowball, por otro lado, se embarca en una peligrosa misión para liberar a un tigre blanco, Hu, de sus captures en un circo de animales. Secuela de 'Mascotas'</info>
 	</item>
 	<item>
+		<title>MASCOTAS UNIDAS</title>
+		<microhd>43dd72944899077cbb09146d23cc6fd2669574b6</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/aLu16Bk5uJD7XyeWLDgrlugWQV8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ePkagE11fpUbTasJ2udxTJHuaWU.jpg</fanart>
+		<date>2019</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>Un astuto perro y una gatita consentida lideran a un equipo de héroes inesperados después de que su ciudad se vea asediada por el malvado alcalde y su ejército de robots.</info>
+	</item>
+	<item>
 		<title>MATAR A SANTA</title>
 		<microhd>0d1d520732b37eb3c131c70a2500239a9982afe0</microhd>
 		<fullhd>a9f34d58774fbf10ea5feed3705a43055a528696</fullhd>
@@ -8098,6 +8139,19 @@
 		<genre>Infantil.</genre>
 		<extra>NA</extra>
 		<info>Un conejo rebelde y de lo más revoltoso intenta hacerse con el control de la huerta de un granjero en esta adaptación del cuento de Beatrix Potter.</info>
+	</item>
+	<item>
+		<title>PHINEAS Y FERB, LA PELICULA: CANDACE CONTRA EL UNIVERSO</title>
+		<microhd>2aa357ee0caa7ed09420990b8882fa3751c391fe</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/i5rPRIEf88IKSCM2loRy3iN2lQc.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/lkeBhXGJFRlhI7cBWn8LQQAdZqK.jpg</fanart>
+		<date>2020</date>
+		<genre>Infantil</genre>
+		<extra>Estreno</extra>
+		<info>La famosa pareja de hermanastros inventores tiene claro lo que va a hacer durante el día de hoy: rescatar a su hermana de una abducción extraterrestre.</info>
 	</item>
 	<item>
 		<title>PIE PEQUEÑO</title>
@@ -9090,7 +9144,7 @@
 	<item>
 		<title>SIN PERDON</title>
 		<microhd>99444beaae9bcea3c7652cd3964a32ac28a17319</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>b4d7e741726cdfd24f100220c98ec4e8ca5e8e58</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>f5b49e389d17d0331a144e6fdd06270f8aa13ba9</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/bhcVwMko4DbSELZapIQv4mmdPKY.jpg</thumbnail>
@@ -11089,6 +11143,7 @@
 		<extra>NA</extra>
 		<info>A un convoy americano escoltado por la Legión española le estalla una mina al norte de Afganistán, y el inexperto Teniente Conte (Raúl Mérida) queda al mando de una dotación para proteger a los heridos hasta que los evacuen. La capitán Varela (Ariadna Gil), médico militar, acude al rescate en un helicóptero del Ejército Español, pero el terreno cede durante el aterrizaje y el helicóptero vuelca, dejando a los rescatadores atrapados junto a los legionarios en medio de la nada. El impulsivo Comandante Ledesma (Antonio Garrido) propone un arriesgado plan para rescatarlos a todos y, además, llevarse el aparato siniestrado.</info>
 	</item>
+	<item/>
 	<item/>
 	<item/>
 	<item/>
