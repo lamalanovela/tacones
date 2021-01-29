@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -142,6 +143,19 @@
 		<genre>Fantastico. Thriller. Terror. Drama</genre>
 		<extra>NA</extra>
 		<info>Un lustro después de que una misteriosa presencia sobrenatural llevara al suicidio a una gran parte de la sociedad, una de las supervivientes, Malorie Hayes (Sandra Bullock), y sus dos hijos, buscan desesperadamente el modo de salvarse río abajo, en una pequeña barca, hacia un lugar seguro.</info>
+	</item>
+	<item>
+		<title>A DESCUBIERTO</title>
+		<microhd>d5b6d70d5221654231ee731bdf698413289a9e6d</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/e6SK2CAbO3ENy52UTzP3lv32peC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg</fanart>
+		<date>2021</date>
+		<genre>Ciencia ficción. Acción</genre>
+		<extra>Estreno</extra>
+		<info>Un piloto de drones se une a un oficial androide para localizar un dispositivo que amenaza con acabar con la vida sobre el planeta. El dispositivo en cuestión se encuentra oculto en una zona altamente militarizada. </info>
 	</item>
 	<item>
 		<title>A NIGHT OF HORROR: NIGHTMARE RADIO</title>
@@ -816,7 +830,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/np8F1uaawPO58wuBE8PgSXKo5F7.jpg</fanart>
 		<date>2019</date>
 		<genre>Thriller. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un joven miembro del FBI, recién casado, es enviado a un pueblo de montaña de los Apalaches en el estado de Kentucky. Allí inicia una relación con una joven de la zona, quien se convierte en su principal informadora. Ella además verá en él un medio para escapar de su vida.</info>
 	</item>
 	<item>
@@ -1154,7 +1168,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/3Ysvp4ODDC6sucdQ9quHWkMiKED.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Catorce años después de su primera aventura, el cuarto mejor periodista de Kazajistán vuelve a Estados Unidos, pero esta vez viaja con su hija</info>
 	</item>
 	<item>
@@ -1336,7 +1350,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/1fOwb62XudDlevVyu1rqUlHUrES.jpg</fanart>
 		<date>2020</date>
 		<genre>Terror. Ciencia ficción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un hombre lucha por recuperar la memoria después de sobrevivir a un trágico accidente automovilístico. Desesperado por volver a ser él mismo mientras intenta criar a su hija, recibe un tratamiento experimental que lo ayuda a indagar en un pasado que de repente se siente demasiado oscuro para ser el suyo.</info>
 	</item>
 	<item>
@@ -1765,7 +1779,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/nou1GMynVfaiNbvjTxx2VdFHJJ.jpg</fanart>
 		<date>2019</date>
 		<genre>Bélico. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Narra la historia del paramédico William H. Pitsenbarger, que salvó él solo a más de 60 personas en la guerra del Vietnam, y de la investigación de un miembro del Pentágono, Scott Huffman (Sebastian Stan), que trabajó contra viento y marea superando todos los obstáculos para que se honrara al médico con la medalla al valor.</info>
 	</item>
 	<item>
@@ -1832,6 +1846,19 @@
 		<genre>Thriller. Drama</genre>
 		<extra>NA</extra>
 		<info>Martin es uno de los agentes del FBI más prometedores de todo Wall Street. Sin embargo, tras una disputa con sus jefes, el joven debe trasladarse a su ciudad natal y trabajar desde allí. Al poco tiempo, Martin comprende que su relocalización ha sido de todo menos una coincidencia. </info>
+	</item>
+	<item>
+		<title>CUANDO ERAMOS SOLDADOS</title>
+		<microhd>NA</microhd>
+		<fullhd>387cdbf142a046f225268e0733dd4f45a3972366</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ev3D1Y6SSvKnHZLV1RjTRJ9u2np.jpg</fanart>
+		<date>2002</date>
+		<genre>Bélico. Acción</genre>
+		<extra>Mis</extra>
+		<info>En plena guerra del Vietnam, el coronel Hal Moore (Mel Gibson) y sus soldados (unos 400 hombres) aterrizaron en noviembre de 1965 en una región conocida como "El valle de la muerte". Allí fueron recibidos por más de 2.000 soldados del Vietcong, desencadenándose una de las batallas más feroces de la guerra. </info>
 	</item>
 	<item>
 		<title>CUBE</title>
@@ -2033,7 +2060,7 @@
 		<microhd>7c26526ae9dd8580a7ad12ca9e9f88108179a781</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>1b936eef2c129b4e67064a35652d0fde108b2eca</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/t36b9yHx1JbrkcpaWPatcDLtEYu.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/ipikQozG6cAtLqhaFqRneA0LI4o.jpg</fanart>
 		<date>2014</date>
@@ -2046,7 +2073,7 @@
 		<microhd>fe8bd5b681aa45e10da3ed805566e4b8fb2aa5e5</microhd>
 		<fullhd>eb1237e757c46349cb5a8b9aa511761bd2b99e44</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>acb6155d268eca1d6fef202f0860b3f3f6ec9386</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/jY5sTxd5dROtnINsOUGQvY9CzFn.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg</fanart>
 		<date>2015</date>
@@ -2059,7 +2086,7 @@
 		<microhd>bd06b02af58e74d3113552c34226cc555d76a556</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>c05273b4d6cb00ad59c1a42295650d4b792c1926</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/vuuTnHvqW860vsCFRt6OC6lvcDI.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg</fanart>
 		<date>2016</date>
@@ -2315,6 +2342,19 @@
 		<info>Durante la guerra civil norteamericana (1861-1865), tres cazadores de recompensas buscan un tesoro que ninguno de ellos puede encontrar sin la ayuda de los otros dos. Así que colaboran entre sí para conseguir el botín.</info>
 	</item>
 	<item>
+		<title>EL BUSCAVIDAS</title>
+		<microhd>NA</microhd>
+		<fullhd>14acdd853dba1643ec36221a45052705a5568d18</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eXCqruAof7cBVxWAdVvDyh2xsp6.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg</fanart>
+		<date>1961</date>
+		<genre>Drama</genre>
+		<extra>Mis</extra>
+		<info>Eddie Felson (Newman) es un joven arrogante y amoral que frecuenta con éxito las salas de billar. Decidido a ser proclamado el mejor, busca al Gordo de Minnesota (Gleason), un legendario campeón de billar. Cuando, por fin, consigue enfrentarse con él, su falta de seguridad le hace fracasar. El amor de una solitaria mujer (Laurie) podría ayudarlo a abandonar esa clase de vida, pero Eddie no descansará hasta vencer al campeón sin importarle el precio que tenga que pagar por ello.</info>
+	</item>
+	<item>
 		<title>EL CAIRO CONFIDENCIAL</title>
 		<microhd>58d18bd718e50c3e484b4fdf61daaa9c07b6e602</microhd>
 		<fullhd>NA</fullhd>
@@ -2391,6 +2431,19 @@
 		<genre>Intriga. Thriller</genre>
 		<extra>Mis</extra>
 		<info>El detective Lincoln Rhyme (Denzel Washington) sufrió un terrible accidente durante una investigación que le dejo tetrapléjico. Sin embargo sigue siendo uno de los mejores policías de Nueva York, capaz de seguir el rastro de sus pesquisas desde la cama en la que está postrado. Sólo necesita un poco de ayuda, la de una agente que sea capaz de conectar con su intuición y llevar a la acción sus conclusiones. Junto a la oficial novata Amelia (Angelina Jolie), Rhyme hará todo lo posible por encontrar al brutal asesino que está llenando de cadáveres la ciudad: un psicópata que además está jugando al gato y al ratón con la policía, dejando pistas que Lincoln intenta descifrar.</info>
+	</item>
+	<item>
+		<title>EL COLOR DEL DINERO</title>
+		<microhd>NA</microhd>
+		<fullhd>795f6ee8fa724af5822eadd3cc8e3d8379a00754</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eGtURb1zBDPtaoo3umzM5ZH8dvH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg</fanart>
+		<date>1986</date>
+		<genre>Drama</genre>
+		<extra>Mis</extra>
+		<info>Eddie Felson, antiguo campeón de billar retirado, vive de su negocio de licores. Un día, en una sala de juego, conoce a Vincent, un joven jugador de billar, que aún no ha encontrado un oponente de su talla, y que siempre va acompañado de su novia, que es la que se encarga de las apuestas que se hacen a favor de Vincent.</info>
 	</item>
 	<item>
 		<title>EL CONVENTO</title>
@@ -2792,7 +2845,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/tUEBmT7KqteCrK15kYRgvrE34jf.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>En 1969 se celebró uno de los juicios más populares de la Historia de Estados Unidos, en el que siete individuos fueron juzgados tras ser acusados de conspirar en contra de la seguridad nacional. Este hecho traería una serie de conflictos sociales (manifestaciones, movimientos ciudadanos) que pasarían a la posteridad en una época de grandes cambios en todos los niveles del pueblo norteamericano.</info>
 	</item>
 	<item>
@@ -3442,7 +3495,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/xks5xGl0o3ykclowqO8nPLbw70b.jpg</fanart>
 		<date>2019</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Narra la historia de un joven batería de una banda de música que comienza a perder la audición.</info>
 	</item>
 	<item>
@@ -5574,7 +5627,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/eIqyISB5j99OSRZUuvdN9g2bBsS.jpg</fanart>
 		<date>2020</date>
 		<genre>Acción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Una banda de ladrones planea un golpe aprovechando la llegada de un huracán, pero se encontrarán con un problema cuando la policía trata de evacuar a todo el mundo del edificio amenazado por el huracán.</info>
 	</item>
 	<item>
@@ -5925,7 +5978,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/zAb4tFIXFI47M9C6WLTCIqzgsB0.jpg</fanart>
 		<date>2020</date>
 		<genre>Fantástico. Musical</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un mundo imaginario cobra vida en la historia de un excéntrico creador de juguetes, su aventurera nieta y una invención mágica que tiene el poder de cambiar sus vidas para siempre.</info>
 	</item>
 	<item>
@@ -6031,6 +6084,19 @@
 		<genre>Comedia</genre>
 		<extra>NA</extra>
 		<info>Tim Morris conoce a la chica de sus sueños, y la relación por SMS no podría ir mejor, así que decide dejarse llevar e invitarla al retiro que organiza su compañía en un resort en Hawái. Sin embargo, la que aparece en el aeropuerto lista para viajar es una chica con la que tuvo una cita a ciegas para el olvido. Ya es demasiado tarde: se ha estado escribiendo con “La otra Missy”.</info>
+	</item>
+	<item>
+		<title>LA POSESION DE MARY</title>
+		<microhd>d67d6de15ea508c45c9a56588777696b6a9a8568</microhd>
+		<fullhd>4e7b20abd850e60db9d16b5d42cb182270eb1cca</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3R4Oro4z904rWOecd0Qjo22PqII.jpg</fanart>
+		<date>2019</date>
+		<genre>Terror. Fantástico</genre>
+		<extra>Estreno</extra>
+		<info>Una familia que pretende abrir un negocio de transporte compra un barco que encierra un terrorífico secreto en su interior. Por desgracia para ellos, éste sólo sale a la luz cuando el buque se encuentra mar adentro. </info>
 	</item>
 	<item>
 		<title>LA PROFECIA</title>
@@ -6982,6 +7048,19 @@
 		<info>Siete desconocidos, cada uno con un secreto, se reúnen en el hotel El Royale, en el lago Tahoe, un sitio ruinoso con un oscuro pasado. En el transcurso de una fatídica noche, todos tendrán una última oportunidad de redención ... antes de que todo se vaya al infierno.</info>
 	</item>
 	<item>
+		<title>MAMA TE QUIERE</title>
+		<microhd>b4b545437d68de8caa78ed5263a4c48ccb765325</microhd>
+		<fullhd>819c581df172ec57743cfaa45e6ff9be6aabae2e</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rEeTuQSsEyM2bSG7rwvm23WJjfg.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/DnjwdbjdR2c5MFhKv5ZSRf8rDU.jpg</fanart>
+		<date>2020</date>
+		<genre>Terror. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Dicen que el amor de una madre es para siempre... pero para Chloe esto no es un consuelo, sino una amenaza. Hay algo extraño, incluso siniestro en la relación de Chloe (Kiera Allen) y su madre, Diane (Sarah Paulson). Diane ha criado a su hija completamente aislada, controlando cada uno de sus movimientos, pero Chloe pronto empezará a descubrir los oscuros secretos que guarda su madre.</info>
+	</item>
+	<item>
 		<title>MANHATTAN SIN SALIDA</title>
 		<microhd>57d1d1e235f52b0dd32bec9275af701c67296e6a</microhd>
 		<fullhd>bbad606158455c23693f8fdd53d911dd7eb44482</fullhd>
@@ -7381,7 +7460,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/bWv6AlBqwT32fEXfeHgMGA7bEXw.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>La historia se centra en un Papá Noel poco ortodoxo llamado Gibson que lucha por evitar que su negocio se hunda, al mismo tiempo que evita ser asesinado por un matón contratado por un niño de 12 años tras recibir carbón en Navidad.</info>
 	</item>
 	<item>
@@ -7524,7 +7603,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/86L8wqGMDbwURPni2t7FQ0nDjsH.jpg</fanart>
 		<date>2020</date>
 		<genre>Acción. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>El trabajo del multimillonario Donovan Chalmers (Bruce Willis) es tan valioso que contrata a mercenarios para protegerlo. Pese a ello, un grupo terrorista logra secuestrar a su hija para conseguir acercarse a él. </info>
 	</item>
 	<item>
@@ -7966,7 +8045,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/sJDc85OxYnxlJPJMznvR0Weq07N.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Madrid 2019. Un asesino en serie está sembrando el caos. Personas anónimas están siendo asesinadas imitando las primeras apariciones de los súper héroes más conocidos. Cosme es el mejor detective de su comisaría, y está a punto de jubilarse contra su voluntad. David es su relevo, y es joven e impulsivo. Ambos tendrán la misión de encajar las piezas en un juego del que desconocen las reglas. En su aventura contarán con la ayuda de Jorge Elías, hijo de Cosme, entrañable friki y dueño de una tienda de cómics y de Norma, jefa de ambos y amante del manga y del cosplay. Dicen que algunas veces hay que ponerse el traje y salir a hacer de este mundo un lugar mejor. Puede que esta sea una de ellas.</info>
 	</item>
 	<item>
@@ -8252,7 +8331,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/lkeBhXGJFRlhI7cBWn8LQQAdZqK.jpg</fanart>
 		<date>2020</date>
 		<genre>Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>La famosa pareja de hermanastros inventores tiene claro lo que va a hacer durante el día de hoy: rescatar a su hermana de una abducción extraterrestre.</info>
 	</item>
 	<item>
@@ -8460,7 +8539,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/qVygtf2vU15L2yKS4Ke44U4oMdD.jpg</fanart>
 		<date>2020</date>
 		<genre>Ciencia ficción. Acción </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>En las calles de Nueva Orleans, se empieza a correr la voz sobre una misteriosa nueva píldora que desbloquea superpoderes únicos para cada usuario. La trampa: no sabes cómo te afectará hasta que la tomes. Mientras que algunos desarrollan una piel a prueba de balas, invisibilidad y una fuerza sobrenatural, otros exhiben una reacción más mortal. Pero cuando la píldora eleva el crimen dentro de la ciudad a niveles peligrosos, un policía local (Joseph Gordon-Levitt) se une a un traficante adolescente (Dominique Fishback) y a un ex soldado alimentado por una venganza secreta (Jamie Foxx) para luchar contra el poder con poder y arriesgarse a tomar la píldora con el fin de localizar y detener al grupo responsable de crearla.</info>
 	</item>
 	<item>
@@ -9927,8 +10006,8 @@
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/jDZZl36lkxRqrLfpQRsEr2MP5Bq.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/btBvfqIMccYAaI4w8FQ9RoY08d7.jpg</fanart>
-		<date>Infantil</date>
-		<genre>2019</genre>
+		<date>2019</date>
+		<genre>Infantil</genre>
 		<extra>NA</extra>
 		<info>Después de que su nave quedase reducida a cenizas, el joven Willy pierde el contacto con sus padres, con los que había viajado a través del espacio. Su cápsula aterriza en un planeta salvaje a inexplorado. Con la ayuda de Buck, un robot de supervivencia, Willy trata de salvaguardarse hasta que alguien acuda a su rescata. Mientras tanto, tanto él como Buck y un nuevo amigo alienígena llamado Flash descubren la flora y la fauna del planeta... y algunos de sus múltiples peligros.</info>
 	</item>
@@ -9966,9 +10045,9 @@
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://es.web.img3.acsta.net/r_1920_1080/pictures/20/06/08/17/26/4789395.jpg</thumbnail>
 		<fanart>https://es.web.img3.acsta.net/r_1920_1080/pictures/20/02/22/16/28/3214574.jpg</fanart>
-		<date>NA</date>
+		<date>2019</date>
 		<genre>Acción. Drama. Thriller </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Una niña es encontrada con las extremidades amputadas. Dos detectives, Han-su y Min-tae, rivales desde siempre, se hacen cargo del caso. En un principio, la investigación se resuelve fácilmente cuando Han-su arresta al presunto sospechoso pero, aun así, pronto se convierte en un misterio cuando Min-tae levanta sospechas sobre el reciente arrestado. Mientras tanto, Han-su se topa con alguien que le insiste en que conoce al verdadero culpable.</info>
 	</item>
 	<item>
@@ -10752,6 +10831,19 @@
 		<info>Siglo XIX. En los Cárpatos está la misteriosa y mítica región de Transilvania, donde habita el Mal que se hace presente cuando el sol se pone, y donde toman forma los monstruos que protagonizan las pesadillas de los hombres. Enviado por el Vaticano, Van Helsing inicia allí su lucha contra el conde Drácula y las criaturas bajo su control.</info>
 	</item>
 	<item>
+		<title>VANGUARD</title>
+		<microhd>44823ca8c1065ff77f8fa45061d1534614f54d82</microhd>
+		<fullhd>a835b49382bf2d67c24e78fdef5cfd5a565c2eae</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rtWY1s2vB7DbSIt4rxl1zRoxQcZ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg</fanart>
+		<date>2020</date>
+		<genre>Acción</genre>
+		<extra>Estreno</extra>
+		<info>Vanguard, una compañía de guardaespaldas, es la última esperanza de supervivencia para un contable que es perseguido por la organización de mercenarios más peligrosa del planeta. </info>
+	</item>
+	<item>
 		<title>VELVET BUZZSAW</title>
 		<microhd>977ae30b3be2e4986d399a535a1581631f2f8e89</microhd>
 		<fullhd>f06793857b6b4cabe6e58c8d7bd1fcb928b0a542</fullhd>
@@ -10878,7 +10970,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/emY3Efpj4o8ySx5LgzQm99Wnfhx.jpg</fanart>
 		<date>2020</date>
 		<genre>Aventuras. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Daniel Léger es un antiguo adicto a la heroína que se ve involucrado en un negocio de drogas con la gente equivocada y por los motivos equivocados. Tras romperse el trato, Daniel acaba encerrado en una prisión tailandesa y condenado a 100 años de cárcel. Mientras trata de sobrevivir a su encarcelación en Bangkok, la noticia de su detención llama la atención de Victor Malarek, reportero del periódico canadiense "Globe and Mail", que decide empezar a perseguir a los policías encubiertos responsables de acusar erróneamente a Daniel de lo sucedido.</info>
 	</item>
 	<item>
@@ -10904,7 +10996,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/1TlKJ8NL54K5Q3DhfVFD8XEUZTq.jpg</fanart>
 		<date>2020</date>
 		<genre>Terror. Intriga</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Sara, Daniel y su hijo de 9 años, llegan a la casa en la que pretenden comenzar una nueva vida, sin saber que esa propiedad ha sido conocida desde siempre en los alrededores como "la casa de las voces". El niño, Eric, es el primero en advertir que tras cada puerta se ocultan extraños sonidos y se intuyen voces que parece que intentan comunicarse con la familia. Lo que achacan en principio a un producto de la imaginación de Eric se convierte rápidamente en una inquietante realidad también para sus padres.</info>
 	</item>
 	<item>
