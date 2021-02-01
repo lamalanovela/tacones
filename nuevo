@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -3462,7 +3461,7 @@
 	<item>
 		<title>EL SILENCIO DE LOS CORDEROS</title>
 		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>9f1c27c4fe837f0df2e306d16aaf0f0a06ac5f47</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>d8c99473b8aaafe3d7a2e9567eb5b8f1a59313f4</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/8FdQQ3cUCs9goEOr1qUFaHackoJ.jpg</thumbnail>
@@ -10220,6 +10219,19 @@
 		<info>Nuevo México, Estados Unidos. Dos trabajadores de una radio local, un operador de radio y un pinchadiscos, descubren en la década de los años 50 una frecuencia que podría cambiar su vida y la de toda la humanidad para siempre.</info>
 	</item>
 	<item>
+		<title>THE VIGIL</title>
+		<microhd>911e69ded476370d890e27783ebeb1c8af6db43a</microhd>
+		<fullhd>17fea622fca4597ed4ad4f5beca6dbd5cf2a9a9a</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rwQ7uMNLBTXGNZ4aAZ7p9Uj0BL8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kkkIZgMAQICxu9OrSs9BfiiNltE.jpg</fanart>
+		<date>2019</date>
+		<genre>Terror. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Tras aceptar convertirse en shomer nocturno (una práctica judía en la que una persona vigila el cadáver de un miembro de la comunidad recientemente fallecido), un joven que acaba de perder su fe descubre que la casa donde ejerce de vigía esconde un terrorífico secreto.</info>
+	</item>
+	<item>
 		<title>THE WALL</title>
 		<microhd>8d02e9b7d1c02ede5aa195dca1af99cc44e0e9c9</microhd>
 		<fullhd>e5c45d9f35f284aca43271b8c4dff0e1bd5760d4</fullhd>
@@ -11128,6 +11140,19 @@
 		<genre>Fantastico. Accion. Belico. Aventuras</genre>
 		<extra>NA</extra>
 		<info>Antes de ser Wonder Woman (Gal Gadot) era Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible. Diana fue criada en una isla paradisíaca protegida. Hasta que un día un piloto norteamericano (Chris Pine), que tiene un accidente y acaba en sus costas, le habla de un gran conflicto existente en el mundo [Primera Guerra Mundial]. Diana decide salir de la isla convencida de que puede detener la terrible amenaza. Mientras lucha junto a los hombres en la guerra que acabará con todas las guerras, Diana descubre todos sus poderes y su verdadero destino.</info>
+	</item>
+	<item>
+		<title>WONDER WOMAN 1984</title>
+		<microhd>ed5cab5bc5a01e324d430177db8373d616fb11ea</microhd>
+		<fullhd>2551a0952ae186f86c9cee45bc1038ec9366bf5c</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>48670e580499b3fe7526d74d0f0818d9be57a7fe</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oG8rC5WEUFEMsMeBLGJWspJ1Gp5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/m6MYSifkYciC4hpjG96zBe39cHR.jpg</fanart>
+		<date>2020</date>
+		<genre>Fantástico. Ciencia ficción. Acción </genre>
+		<extra>Estreno</extra>
+		<info>En 1984, en plena Guerra Fría, Diana Prince, conocida como Wonder Woman, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas. </info>
 	</item>
 	<item>
 		<title>X- MEN: LA DECISION FINAL</title>
