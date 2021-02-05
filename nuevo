@@ -7514,8 +7514,8 @@
 		<extra>NA</extra>
 		<info>Todo lo que tiene un comienzo tiene un final. La guerra estalla en la superficie de la tierra mientras las máquinas invaden Zion. Allí donde Reloaded significaba vida, Revolutions apunta a la muerte...</info>
 	</item>
-	<item>
-		<title>MATRIX. PROMETHEUS</title>
+	<!-- item>
+		<title>MATRIX. PROMETHEUS</title> #
 		<microhd>c5241dca7ad682371578d0cbda8ecc6a82d0dba2</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
@@ -7526,7 +7526,7 @@
 		<genre>Ciencia ficción.Saga</genre>
 		<extra>NA</extra>
 		<info>Finales del siglo XXI. Un grupo de científicos y exploradores emprende un viaje espacial de más de dos años en la nave Prometheus a un remoto planeta recién descubierto, donde su capacidad física y mental será puesta a prueba. El objetivo de la misión es encontrar respuesta al mayor de los misterios: el origen de la vida en la Tierra.</info>
-	</item>
+	</item -->
 	<item>
 		<title>MECHANIC: RESURRECTION</title>
 		<microhd>a20ae7ff71a2e9b9bd13c5f7706380161bf738e9</microhd>
