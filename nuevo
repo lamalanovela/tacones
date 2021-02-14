@@ -1,5 +1,4 @@
 
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -298,7 +297,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/dUasP5TGFk1dhTgtNhk5uLRPRx6.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Película biográfica sobre el inventor y diseñador de armas pequeñas Mikhail Timofeevich Kalashnikov.</info>
 	</item>
 	<item>
@@ -501,7 +500,7 @@
 		<microhd>NA</microhd>
 		<fullhd>3514688c10ff03eed70227862c58c133187df3db</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>657e57a0e46b5da33e9e8b964431e9d463440ac8</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/g8kCZy9In4Ujg8kmNP6IKxTiQho.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/uPSd1R7eGp0QV8CD6V6S3MYKyRC.jpg</fanart>
 		<date>2007</date>
@@ -649,7 +648,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg</fanart>
 		<date>2020</date>
 		<genre>Ciencia ficción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Año 2038: George Almore trabaja en una inteligencia artificial que parezca verdaderamente humana. Su último prototipo ya está en su fase más delicada y arriesgada, en especial, porque el objetivo de Almore debe permanecer oculto a cualquier precio: reunirse con su mujer fallecida.</info>
 	</item>
 	<item>
@@ -1728,7 +1727,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/vj2gCvD5vZDJ865izTU0J0wJBVc.jpg</fanart>
 		<date>2019</date>
 		<genre>Terror. Ciencia ficción. Intriga</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un meteorito se estrella cerca de la granja de los Gardner, liberando un organismo extraterrestre que convierte la tranquila vida rural de la familia en una pesadilla colorista y alucinógena. Uno de los relatos más emblemáticos de Lovecraft llega al cine de la mano de Nicolas Cage y Richard Stanley.</info>
 	</item>
 	<item>
@@ -2742,7 +2741,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/zvw6tGsV96tARnbgFAjDEHh682O.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia. Terror</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Pese a su devoción por el pueblo de Salem, Hubie Dubois (Sandler) reconoce que la noche de Halloween no es precisamente la más atractiva para los jóvenes desde hace unos años. En esta ocasión, no obstante, algo distinto está a punto de suceder, y sólo él podrá salvar esta mágica noche</info>
 	</item>
 	<item>
@@ -2859,7 +2858,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/8PK4X8U3C79ilzIjNTkTgjmc4js.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama. Fantástico. Aventuras.Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Mary Lennox (Dixie Egerickx) es un niña nacida en la India de padres británicos. Cuando ambos fallecen de repente, Mary es enviada a Inglaterra con su tío, Archibald Craven (Colin Firth), que vive en un remoto paraje en el páramo de Yorkshire. Allí comienza a descubrir secretos familiares, sobre todo después de conocer a su enfermizo primo (Edan Hayhurst), que durante años ha estado encerrado en una de las alas de la mansión. Juntos, los dos niños exploran un jardín descubierto por Mary, que les ayuda a cerrar las heridas que han sufrido en su corta existencia.</info>
 	</item>
 	<item>
@@ -4761,6 +4760,19 @@
 		<info>Javier Muñoz era un ejecutivo publicitario de éxito pero, tras un año en el paro, él y su familia se ven obligados a dejar el piso que ya no se pueden permitir. Un día, Javier descubre que aún conserva un juego de llaves de su antigua casa, y empieza a espiar a la joven pareja que ahora vive allí. Poco a poco, Javier empezará a infiltrarse en la vida de los nuevos propietarios, decidido a intentar recuperar la vida que ha perdido… a costa de quien sea.</info>
 	</item>
 	<item>
+		<title>HONEY BOY</title>
+		<microhd>01775da1418c9ea2ca1285713a2194908530ac80</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3BZ2rBn31kWER45ZMj7OTe9keMm.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/sOLlj8gmpojgm1zUCMds5wq9yAO.jpg</fanart>
+		<date>2019</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Otis es un niño de 12 años que descubre desde muy joven la cara oculta de Hollywood, ejerciendo de especialista en shows televisivos. Su padre es un antiguo payaso de rodeo con diversos problemas, ahora sin trabajo, que decide convertirse en su guardián. Cuando Otis no está grabando sus escenas como doble, pasa el rato con él en hoteles de poca monta situados en las afueras de las ciudades donde se alojan. La convivencia entre ambos es muy compleja, y Otis anhela que su padre se comporte como tal.</info>
+	</item>
+	<item>
 		<title>HOSTILES</title>
 		<microhd>728441ebc8af882110528ed247eaceadf5f944b8</microhd>
 		<fullhd>44e5223a07c60284237f131da90d540d96762cc8</fullhd>
@@ -5437,6 +5449,32 @@
 		<info>Tres fareros llegan a una isla despoblada. Thomas, James y Donald comienzan sus tareas en el faro hasta que un día topan con algo extraño, algo que no es exactamente lo que un farero debería vigilar. Las cosas se complican cuando avistan un barco que podría tener todas las respuestas, desatando una serie de sucesos progresivamente trágicos. Basada en la leyenda de la isla de Flannan.</info>
 	</item>
 	<item>
+		<title>KILL BIL: VOLUMEN 2</title>
+		<microhd>NA</microhd>
+		<fullhd>184dfc49a6c348b035e616b5061286f1f724be75</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/e5BEz8Jq7xR2kzWab1GllAlLUf7.jpg</fanart>
+		<date>2004</date>
+		<genre>Acción. Thriller</genre>
+		<extra>Culto</extra>
+		<info>Tras eliminar a algunos miembros de la banda que intentaron asesinarla el día de su boda, "Mamba Negra" (Uma Thurman) intenta acabar con los demás, especialmente con Bill, su antiguo jefe (David Carradine), que la había dado por muerta.</info>
+	</item>
+	<item>
+		<title>KILL BILL: VOLUMEN 1</title>
+		<microhd>NA</microhd>
+		<fullhd>3b0a673e5c2767051b42c79f87b4f68dd906f87e</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/lfj709InbmljVqAXgUk2qjnujNN.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fQ1IUeZCCLq7vI5xtylj6bHIuZF.jpg</fanart>
+		<date>2003</date>
+		<genre>Acción. Thriller</genre>
+		<extra>Culto</extra>
+		<info>El día de su boda, una asesina profesional (Thurman) sufre el ataque de algunos miembros de su propia banda, que obedecen las órdenes de Bill (David Carradine), el jefe de la organización criminal. Logra sobrevivir al ataque, aunque queda en coma. Cuatro años después despierta dominada por un gran deseo de venganza.</info>
+	</item>
+	<item>
 		<title>KILLERMAN</title>
 		<microhd>ba72e9c46b5da9128e28e9ae1e821f5d1aca25ec</microhd>
 		<fullhd>NA</fullhd>
@@ -5563,7 +5601,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/9R2FuGT0BeZl8usfsfqIcO7KK7v.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller. Acción. Terror. Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un grupo de personas, desconocidas entre sí, despiertan en un lugar deshabitado. Pronto se dan cuenta de que alguien intenta, literalmente, cazarlos como a animales.</info>
 	</item>
 	<item>
@@ -5615,7 +5653,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/jOWgFmD1H5t6nL7ChbmX8oDFUZl.jpg</fanart>
 		<date>2020</date>
 		<genre>Romance. Comedia. Estreno</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Una mujer que planea pedirle matrimonio a su novia durante las vacaciones anuales con la familia descubre que los conservadores padres de su pareja aún desconocen la orientación sexual de su hija.</info>
 	</item>
 	<item>
@@ -6039,7 +6077,7 @@
 		<microhd>e39a8c3cb2b769dc40369f05538b918d7882ac03</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>149474a13a20b2f88e40aaa6428cfa91ebdc46b5</cuatrok>
+		<cuatrok>7cbd08d3ca995e815a251ad26ddeb1a55da1aae1</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/3zENNQfzTYiMx6Ud9TKKkvIzLeB.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/crn09DUYgmFUPbOroxt1tQSoi0r.jpg</fanart>
 		<date>2018</date>
@@ -6525,7 +6563,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/oOihs7jNggpXiR3Wm122quMyubx.jpg</fanart>
 		<date>2019</date>
 		<genre>Comedia. Terror</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un músico fracasado, Dave (Alexander England), se une a la profesora infantil Miss Caroline (Lupita Nyong'o) y a una celebridad para los niños, Teddy McGiggle (Josh Gad), para intentar proteger a los pequeños escolares de un repentino brote de muertos vivientes.</info>
 	</item>
 	<item>
@@ -7049,7 +7087,7 @@
 		<info>Manolo y Candela se instalan en el madrileño barrio de Malasaña, junto a sus tres hijos y el abuelo Fermín. Atrás dejan el pueblo en busca de la prosperidad que parece ofrecerles la capital de un país que se encuentra en plena transición política. Pero hay algo que la familia Olmedo no sabe: en la casa que han comprado, no están solos...</info>
 	</item>
 	<item>
-		<title>MALCOLM &amp; MARIE</title>
+		<title>MALCOLM AND MARIE</title>
 		<microhd>5a78bcc5f2d47f58e2d0f0bc2f06ca5884461705</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
@@ -7153,7 +7191,7 @@
 		<info>Andre Davis (Chadwick Boseman) es un policía de Nueva york al que le encargan la investigación del asesinato de varios policías. Durante la búsqueda contrarreloj de los responsables, en la que se cierran por primera vez en la historia de Manhattan todos los puentes que acceden a ella, el detective descubre una conspiración en la que tendrá que discernir entre aquellos a los que caza y los sospechosos que están tratando de cazarle a él.</info>
 	</item>
 	<item>
-		<title>MANk</title>
+		<title>MANK</title>
 		<microhd>72267d9f0b25da0f108c1cf080128bd8c36d51bd</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
@@ -8037,6 +8075,19 @@
 		<info>Adelaide Wilson es una mujer que vuelve al hogar de su infancia en la costa junto a su marido, Gabe, y sus dos hijos, para una idílica escapada veraniega. Después de un tenso día en la playa con sus amigos, Adelaide y su familia vuelven a la casa donde están pasando las vacaciones. Cuando cae la noche, los Wilson descubren la silueta de cuatro figuras cogidas de la mano y en pie delante de la vivienda. "Nosotros" enfrenta a una entrañable familia estadounidense a un enemigo tan insólito como aterrador. </info>
 	</item>
 	<item>
+		<title>NOTICIAS DEL GRAN MUNDO</title>
+		<microhd>25a36b7d24509df41a7228131aca19b0072abd84</microhd>
+		<fullhd>f001dbf5422cc50d36a515290f68caa708011df5</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>409f350fc7256022b3e743825320580298aa7d3f</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eJu4WHpZ8drnChHuV0FHhey98Sh.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jjPpjUYf3o698cPx06FHZ5zqomv.jpg</fanart>
+		<date>2020</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Cinco años después del fin de la Guerra Civil estadounidense, el veterano capitán Jefferson Kyle Kidd (Tom Hanks) viaja de ciudad en ciudad narrando noticias, hablando de historias que tienen lugar en cualquier rincón del mundo. Un día, en Texas el capitán se encuentra a Johanna, una niña de diez años secuestrada seis años atrás por la tribu india Kiowa, y que durante ese tiempo fue educada como uno de ellos. Johanna, en contra de su voluntad, debe ir a vivir a casa de sus tíos carnales. El capitán Kidd acepta entregar a la niña a sus tutores legales. En el viaje, ambos recorrerán cientos de kilómetros y deberán enfrentarse a enormes dificultades, humanas y naturales, en búsqueda de un lugar al que puedan llamar “hogar”.</info>
+	</item>
+	<item>
 		<title>OBJETIVO: LA CASA BLANCA</title>
 		<microhd>c9b3ecd4332bb84e6e7d41b7c35ef1666cc53882</microhd>
 		<fullhd>b654595f2553c6ae506b7422be62cf19dfeb912e</fullhd>
@@ -8217,6 +8268,19 @@
 		<genre>Comedia. Saga</genre>
 		<extra>NA</extra>
 		<info>Con el triunfo de la asistente virtual 'Conchi', Javier (Santiago Segura) se ha convertido en líder del chat de madres y todo marcha sobre ruedas. Parece tenerlo todo bajo control, pero la noticia inesperada de la llegada de un nuevo bebé lo pone todo patas arriba. Y para rematar, llegará la suegra.</info>
+	</item>
+	<item>
+		<title>PALMER</title>
+		<microhd>ebb09917dd0faf6c1ee84c40d0ffcfd087e550b2</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/bFhsY6ReinwDYCVqwdlZjfQpSsH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/mYcgOvMrph6YZ5jbnLHrFHV1FNg.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Tras 12 años en prisión, Palmer, un exjugador de fútbol, vuelve a casa para rehacer su vida. Mientras se adapta a su nueva realidad, entabla una amistad con un niño abandonado, pero su pasado le persigue.</info>
 	</item>
 	<item>
 		<title>PAPILLON</title>
@@ -9961,6 +10025,19 @@
 		<info>Susie Bannion (Dakota Johnson) es una joven estadounidense que viaja a Berlín para cursar sus estudios de danza en una de las escuelas más prestigiosas del mundo, dirigida por Madame Blanc (Tilda Swinton). El mismo día en el que ingresa en la escuela, una de las alumnas, recientemente expulsada, es asesinada. No se trata de un hecho aislado, lo que hace sospechar a la brillante estudiante sobre la implicación de la escuela en los homicidios. Su desconfianza aumenta cuando una compañera le cuenta que antes de que Pat muriera, ésta le confesó que conocía un terrorífico secreto. Remake del clásico giallo homónimo, dirigido por Dario Argento en 1977.</info>
 	</item>
 	<item>
+		<title>SWALLOW</title>
+		<microhd>239d0e6fd8bfaf0ff44bb06f001ce4fccf16bffc</microhd>
+		<fullhd>2441de0fe336f525b1d6a36ed02d44d7e017f5d5</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/xcgD3vlbAQtr8XC7U9vxbNuDJTS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jup3DX9TiIUgsSKaucoN3YPMdo8.jpg</fanart>
+		<date>2019</date>
+		<genre>Thriller. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Hunter es un ama de casa que acaba de descubrir que está embarazada. Sin embargo, por alguna razón que desconoce se siente tentada a consumir objetos peligrosos para su salud, una obsesión que no pasa desapercibida ante los ojos de su marido y del resto de su familia. Pronto descubrirá el motivo que la empuja a querer herirse a sí misma... </info>
+	</item>
+	<item>
 		<title>T2 TRAINSPOTTING</title>
 		<microhd>2b8dee17131641a7bcb886ca00c197200ae98689</microhd>
 		<fullhd>NA</fullhd>
@@ -9985,6 +10062,19 @@
 		<genre>Infantil.</genre>
 		<extra>NA</extra>
 		<info>Tadeo Jones viaja hasta Las Vegas para asistir a la presentación del último descubrimiento de la arqueóloga Sara Lavroff: el papiro que demuestra la existencia del Collar de Midas, el mítico Rey que convertía en oro todo aquello que tocaba. Pero el feliz reencuentro se verá enturbiado cuando un malvado ricachón secuestra a Sara para poder encontrar el talismán y conseguir riquezas infinitas. Junto a sus amigos el loro Belzoni y su perro Jeff, Tadeo tendrá que hacer uso de su ingenio para rescatar a Sara, en un viaje por medio mundo, donde encontrará nuevos amigos ¡y nuevos villanos!</info>
+	</item>
+	<item>
+		<title>TAXI DRIVER</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>a5b6b3ebb98cf4295569425eb57b4ed53d21d987</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5rLzab4VD1BnJubBK3O21f2ytP2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/phfNkch8HnQtWtuDXXGfE7u2rMj.jpg</fanart>
+		<date>1976</date>
+		<genre>Drama</genre>
+		<extra>Culto</extra>
+		<info>Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle (Robert De Niro) trabaja como taxista nocturno en Nueva York. Es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de Betsy (Cybill Shepherd), una atractiva rubia que trabaja como voluntaria en una campaña política. Pero lo que realmente obsesiona a Travis es comprobar cómo la violencia, la sordidez y la desolación dominan la ciudad. Y un día decide pasar a la acción.</info>
 	</item>
 	<item>
 		<title>TE QUIERO, IMBECIL</title>
@@ -10295,7 +10385,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/aSdp2uS0jWkqdhCeyhJuCoiLZji.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller. Acción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un cazador reformado (Nikolaj Coster-Waldau) que vive separado de la sociedad en un paraje natural perdido entre la maleza se ve inmerso en el juego del gato y el ratón cuando el Sheriff local se decide a capturar al asesino de su hija</info>
 	</item>
 	<item>
@@ -10802,7 +10892,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/wRZk3s0fnmWzD46TjyrcNJWfNPM.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un estratega demócrata ayuda a un veterano retirado a postularse a la alcaldía de una pequeña y conservadora ciudad del medio oeste americano que suele votar siempre a los republicanos.</info>
 	</item>
 	<item>
