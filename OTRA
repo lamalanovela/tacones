@@ -494,6 +494,17 @@ Estreno 4ª temporada en 2021.</info>
 <fanart>https://image.tmdb.org/t/p/original/8FDb3FUNGEeiPmHG00Onlu6xVnE.jpg</fanart>
 </item>
 
+
+<item>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]EL INTERNADO: LAS CUMBRES[/COLOR]  [COLOR red]1 AL 8 [/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
+<info>Reinicio de 'El internado' cuya primera temporada constará de ocho episodios que transcurrirán en un colegio ubicado junto a un antiguo monasterio en un lugar inaccesible entre las montañas. En esta ocasión, los alumnos son chavales problemáticos y rebeldes que vivirán bajo la estricta y severa disciplina que impone el centro para reinsertarlos a la sociedad. El bosque circundante alberga antiguas leyendas, amenazas que siguen vigentes y que les sumergirán en aventuras trepidantes y terroríficas</info>
+<genre>Drama. Intriga. Thriller. Terror</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3780a55190d46422d584d2f0dee568efcf40d2e6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kl07N07l4XNjXF48oujzWXs40Dw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hvbGY8PItRa17A9QSpPCdZAD8Ge.jpg</fanart>
+</item>
+ 
+
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]EL OFICIO DEL ESPIA [/COLOR]  [COLOR red]1 AL 8 [/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
 <info>(2021). El del espionaje es un mundo muy serio. A lo largo de la historia, las herramientas y tecnologías creadas en su nombre han sido tan importantes como los propios espías.</info>
@@ -563,6 +574,16 @@ En noviembre 2020 Netflix confirmó una segunda temporada 2T.</info>
 <thumbnail>https://image.tmdb.org/t/p/original/kwMqIYOC4U9eK4NZnmmyD8pDEOi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mZuGuu62O9ojVqK1NuR3cvSlVL8.jpg</fanart>
 </item>
+
+<item>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]ESO QUE TU ME DAS[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
+<info>En 2015, al cantante Pau Donés, de 'Jarabe de Palo', le diagnostican un cáncer con el que convivió durante 5 años. Veinte días antes de morir llamó a su amigo Jordi Évole desde el hospital, y le dijo: "Me quedan muy poquitos días de vida y quiero pasarlos en mi casa del Valle de Arán. Me gustaría que subieses, pudiésemos tener una charla, que la grabes y hagas con ella lo que quieras". 'Eso que tú me das' es el resultado de esa charla.</info>
+<genre>Documental</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c70ec47dbd20c5572dc3b46a37bcb3e8c83bc99</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9ce7nx1un8VoE7kJqFDfezubUw3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8rIgGjMGCKJuul6laCaDCaKVSWK.jpg</fanart>
+</item>
+
 
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]EUPHORIA[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
@@ -677,7 +698,9 @@ Estreno 2ª temporada: 2021.</info>
 
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HERIDAS ABIERTAS[/COLOR][/B]</title>    
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HERIDAS ABIERTAS[/COLOR]   [COLOR red]2018[/COLOR][/B]</title> 
+<info> (2018). 8 episodios. Tras pasar un breve tiempo en un hospital psiquiátrico, la periodista Camille Preaker regresa a su pequeña ciudad natal para cubrir los asesinatos de dos chicas adolescentes. Durante años, Camille apenas ha hablado con Adora Crellin, su neurótica e hipocondríaca madre, que vive con su marido y con su hija Amma, hermanastra de Camille, una joven a la que apenas conoce. Instalada en su antiguo dormitorio en la mansión victoriana de su familia, Camille pronto se identifica con las jóvenes víctimas. Atrapada por sus propios demonios, debe desentrañar el rompecabezas psicológico de su propio pasado si quiere obtener una historia que escribir acerca de los crímenes.</info>
+<genre>Thriller. Drama</genre>
 <link>http://ignoreme</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1SGovj2qDdkJexvhFiXllj9EYfu.jpg</thumbnail>
 <fanart>https://s8.postimg.cc/ei53q5e91/heridas_fanart.jpg</fanart>
@@ -685,7 +708,9 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HERNAN[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HERNAN[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
+<info>(2019).La conquista de México.8 episodios. Cada episodio está contado por alguien que conoció de cerca al conquistador Hernán Cortés. ¿Cómo pudo un hombre, con unos cuantos cientos de soldados, someter a un imperio de guerreros en la cima de su gloria? 'Hernán' es la respuesta.</info>
+<genre>Drama</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/zsxZbUoxm4A1qEVTHMcijFHhkga.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/f3r3XDoQ6dpEAQuXLIz0t535lB0.jpg</fanart>
 <link>http://ignoreme</link>
@@ -693,21 +718,30 @@ Estreno 2ª temporada: 2021.</info>
 </item> 
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HERMANOS DE SANGRE[/COLOR]  [COLOR red]1 AL 10  [/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HERMANOS DE SANGRE[/COLOR]  [COLOR red]1 AL 10  [/COLOR]   [COLOR red]2001[/COLOR][/B]</title>
+<info>(2001).10 episodios. Narra la historia de la Easy Company, un batallón estadounidense del regimiento 506 de paracaidistas, que luchó en Europa durante la II Guerra Mundial. Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados... Basada en el bestseller "Band Of Brothers", de Stephen E. Ambrose.</info>
+<genre>Bélico. Drama </genre>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85d86f6fa03d71e2844751bd6ed1972f52033e56</link>
 <thumbnail>https://image.tmdb.org/t/p/original/tFdHfzPmBSuLZn8L2L09nhxkOOH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
 </item> 
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIERRO[/COLOR]  [COLOR red]1 AL 8 [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c634afcbeae55401996c3029a75e34f994a8545c</link>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIERRO[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
+<info>(2019). 2 temporadas. Candela es una jueza que acaban de destinar a El Hierro, la isla más remota del archipiélago canario. No le es ser fácil adaptarse a la vida en una comunidad que, como ella misma, tiene un fuerte carácter. Nada más llegar a la isla, Candela tiene que instruir un caso complicado: aparece asesinado Fran, un joven herrero, el mismo día en el que iba a casarse con la hija de Díaz, un oscuro empresario que enseguida se convierte en el principal sospechoso del crimen. Candela y Díaz están en lados opuestos de la ley, pero tienen un objetivo común: descubrir la verdad sobre el crimen.
+
+La segunda temporada comienza poco tiempo después de donde acabó la primera, se centra en un caso de custodia de menores llevado por la jueza Candela que se complica de forma inesperada, y continúan varios de los personajes de la isla de la primera temporada. </info>
+<genre>Thriller. Drama</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/55pQbuTUmWZWwfianUaEewqj8pK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vOYCFbDMYNIhh4rFIWwZXLupR8C.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/L2d6K4KZ</externallink>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIGH FIDELITY[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIGH FIDELITY[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
+<info> (2020). 10 episodios. Una fan de la música y la cultura pop regenta una tienda de discos en Brooklyn. Nueva adaptación de la novela de Nick Hornby "High Fidelity" pero ambientada en Nueva York.</info>
+<genre>Comedia</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/madLyTMDfOT2wr3V6My3pQ7siMO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8CEDxn4FbunIeq0S68HUWExIul1.jpg</fanart>
 <link>http://ignoreme</link>
@@ -715,7 +749,9 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIGH SCORE: EL MUNDO DE LOS VIDEOJUEGOS[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIGH SCORE: EL MUNDO DE LOS VIDEOJUEGOS[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
+<info>6 episodios. Historia de los videojuegos clásicos, desde Pac-Man hasta Doom, narrada por Charles Martinet.</info>
+<genre>Documental</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/ooN2RcOSi2tpfL1P6wCRI7LGq8I.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6iCMnvcqY8ogqyhsl3S8P07ye9M.jpg</fanart>
 <link>http://ignoreme</link>
@@ -723,7 +759,9 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIJOS DE LA ANARQUIA[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HIJOS DE LA ANARQUIA[/COLOR]   [COLOR red]2008[/COLOR][/B]</title>
+<info>(2008-2014). 7 temporadas. 92 episodios. Serie centrada sobre un club de moteros (MC) que operan ilegalmente en la ciudad ficticia de Charming (California). La historia se centra en el protagonista Jackson "Jax" Teller (Charlie Hunnam), un joven miembro de la organización, con rango de vicepresidente, que comienza a cuestionarse sus propios actos y los de su club.</info>
+<genre>Drama</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/zhplXNf1qwXyk40fTV4eWqVhuYk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/n6CJ6zI1Piu4ZsRnXG1E05kLaXT.jpg</fanart>
 <link>http://ignoreme</link>
@@ -731,7 +769,15 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HOMELAND[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HOMELAND[/COLOR]   [COLOR red]2011[/COLOR][/B]</title>
+<info>(2011-2020). 8 temporadas. 96 episodios. El sargento de la Marina Nicholas Brody (Damian Lewis) regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison (Claire Danes), una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando... Basada en la serie israelí "Prisoners of War", creada por Gideon Raff.
+
+La 6ª temporada está ambientada en Nueva York, ciudad a la que Carrie se ha mudado tras vivir en Berlín. Ahora la ex agente de la CIA trabaja en un organización que ayuda a musulmanes que viven en los Estados Unidos.
+
+En la 7ª temporada, Carrie ha dejado su trabajo en la Casa Blanca y vive con su hermana Maggie, mientras el país vive con gran convulsión el inicio de la presidencia de Elizabeth Keane. (FILMAFFINITY)
+
+La 8ª y última temporada se estrenó en Showtime el 9 febrero del 2020.</info>
+<genre>Thriller. Intriga</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/pvkaJSdiOUhdxbBd24LXwZQjCnU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/O3CIiulG6MkBwfVCGYigkKatD1.jpg</fanart>
 <link>http://ignoreme</link>
@@ -740,21 +786,30 @@ Estreno 2ª temporada: 2021.</info>
 
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]INES DEL ALMA MIA[/COLOR]  [COLOR red]1 AL 8 [/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]INES DEL ALMA MIA[/COLOR]  [COLOR red]1 AL 8 [/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
+<info>2020). 8 episodios. Inés Suárez partió en 1537 para las Indias en busca de su marido y terminó por convertirse en una conquistadora que nunca volvió a España y que encontró allí al amor de su vida, el famoso conquistador español Pedro de Valdivia. Juntos protagonizarán un romance inolvidable mientras se embarcan en una aventura que les convertirá en los principales artífices del nacimiento de una nación. Las hazañas vividas junto a su amado la llevarán hasta el lejano y desconocido Chile.</info>
+<genre>Drama</genre>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04b5d81f525f795a68d037828eb4c4f121863f10</link>
 <thumbnail>https://image.tmdb.org/t/p/original/q3lUWZSxNo7TWNxHwqHs0PQTkGA.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/q3lUWZSxNo7TWNxHwqHs0PQTkGA.jpg</fanart>
 </item>
 
 <item>
- <title>[B][COLOR red]•[/COLOR]  [COLOR white]JARABE CONTRA EL CANCER[/COLOR][/B]</title>      
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]JARABE CONTRA EL CANCER[/COLOR]   [COLOR red]2017[/COLOR][/B]</title> 
+<info>Pau Donés (Jarabe de palo) lo tiene claro: mientras que el cuerpo aguante, seguirá haciendo una vida lo más normal posible. Sin dramas y con realismo.
+Desde que el cantante supo en agosto de 2015 que tenía un cáncer de colon avanzado, decidió dar visibilidad a los tratamientos a los que era sometido y a sus propias reflexiones, grabándolas en autofilmado. El objetivo: desestigmatizar y desdramatizar la enfermedad, consiguiendo, entre otras cosas, que todo ello no le impida seguir con su actividad diaria e incluso preparar un nuevo disco y una nueva gira.
+El documental retrata, a través de los testimonios del propio cantante, otros dos enfermos y una enfermera del gran hospital público donde son atendidos, la lucha diaria contra la enfermedad que viven tantas personas, tanto enfermos, como profesionales.
+El cantante trata así también de reivindicar el trabajo abnegado y a menudo poco reconocido de los profesionales de la sanidad pública.</info>
+<genre>Documental</genre> 
 <urlsolve>https://www.dailymotion.com/video/x5upjo2</urlsolve>
 <thumbnail>https://image.tmdb.org/t/p/original/spbhM1qaxATHFmePzCspTxJuq4L.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8hEDMLJK6PnqOcb2KMtePPVZTgL.jpg</fanart>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]JUEGO DE TRONOS[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]JUEGO DE TRONOS[/COLOR]   [COLOR red]2011[/COLOR][/B]</title>
+<info>(2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de "los otros", seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono. </info>
+<genre>Aventuras. Drama. Fantástico. Acción. Intriga </genre>
 <thumbnail>https://image.tmdb.org/t/p/original/j24NiYZHsuLEdyYqUunlVCapC04.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/95mqtO1ZHvtnsqoMXAqBk8EjuRu.jpg</fanart>
 <link>http://ignoreme</link>
@@ -762,7 +817,11 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]JUSTO ANTES DE CRISTO[/COLOR][/B]</title> 
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]JUSTO ANTES DE CRISTO[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
+<info>(2019-2020). 2 temporadas. Año 31 a. de C. Manio Sempronio, un acomodado patricio, mata sin querer a un senador y es condenado a muerte. Incapaz de acabar con su propia vida, pide que le conmuten la pena por cualquier cosa, lo que sea. Así es enviado como legionario a Tracia, la tierra donde su padre, El Magnífico, forjó su leyenda como militar. A la carga de recuperar el honor familiar, hay que sumarle que le acompaña su esclavo Agorastocles: un amigo, un hermano... Otra carga. Éste tiene ambiciones propias que, como todo esclavo, sólo puede vivir a través de su amo.
+
+En Tracia reina la calma desde hace décadas. El campamento es gobernado por el General de la Legión, un anciano al cuidado de su hija Valeria, mujer acostumbrada a los tejemanejes de Roma que lleva a su padre por donde quiere. La llegada de Manio, desesperado por ser un héroe, pondrá patas arriba, en un tiempo record, tanto la estabilidad militar de la zona como la vida cotidiana de todos los allí destinados..</info>
+<genre>Comedia</genre>
 <link>http://ignoreme</link>
 <thumbnail>https://image.tmdb.org/t/p/original/c6x4aR9FJPV2gHJMZDz8LKS2Rf7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zb2OYMUm2bgDe7hBFnFsEMGpmh6.jpg</fanart>
@@ -770,7 +829,9 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]KILLING EVE[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]KILLING EVE[/COLOR]   [COLOR red]2011[/COLOR][/B]</title>
+<info></info>
+<genre></genre>
 <thumbnail>https://image.tmdb.org/t/p/original/cmLJFWOklp4PpUkUfeCFIKntbTH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jHyGUhWBMif5AD6mImr6anYyTlJ.jpg</fanart>
 <link>http://ignoreme</link>
@@ -778,7 +839,9 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA CASA DE PAPEL[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA CASA DE PAPEL[/COLOR]   [COLOR red]2018[/COLOR][/B]</title>
+<info>(2018). 3 temporadas. Una asesina y una detective se enfrentan en una persecución a nivel internacional en la que ambas mujeres se obsesionarán la una con la otra. Por un lado está Villanelle (Jodie Comer), una asesina psicópata sumida en el lujo de su profesión, y por otro lado, Eve Polastri (Sandra Oh), una agente del MI6. Cansada y aburrida de pasarse los días sentada en su escritorio, la perspicaz criminóloga Eve busca más acción en su vida profesional y un día se encuentra al mando de un grupo secreto cuyo objetivo es dar caza a Villanelle. </info>
+<genre>Thriller. Drama. Comedia</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/2d0ESa56OesIFAOAl8ZZi0mHlxC.jpg</thumbnail>
 <fanart>https://i.imgur.com/qGsEj4s.jpg</fanart>
 <link>http://ignoreme</link>
@@ -786,15 +849,30 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA CAZA: MONTEPERDIDO Y TRAMUNTANA[/COLOR][/B]</title>
-<thumbnail>https://www.themoviedb.org/t/p/original/aa9jV65UGGKuli8pIdgVunwHgNJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7M0S10827RkcX6GeY8JEVcUpx8.jpg</fanart>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA CAZA: MONTEPERDIDO [/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
+<info>Hace cinco años, dos niñas de once años, Ana y Lucía, desaparecieron en Monteperdido, un pueblo del Pirineo. Tras una extensa búsqueda, el caso nunca se resolvió y los vecinos quedaron marcados por la tragedia. Ahora, una de las niñas, Ana, ha regresado. Las autoridades se volcarán con el caso para encontrar a Lucía, pero los habitantes de Monteperdido, incluso las familias de las niñas atrapadas en sus secretos y mentiras, no se lo pondrán nada fácil a los investigadores. Algo tienen claro: el monstruo está entre ellos y los agentes iniciarán una caza que pondrá en peligro sus propias vidas.</info>
+<genre>Drama</genre>
+<thumbnail>https://www.themoviedb.org/t/p/original/bmU4ZWzGGGV0c4ebv7v1ThqQr9c.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5pYAtLLxVgkQRRrmkR6VvmhUuXP.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/x7KW3dRc</externallink>
+<externallink>https://pastebin.com/raw/7U9HH8A1</externallink>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA CONJURA CONTRA AMERICA[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA CAZA: TRAMUNTANA [/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
+<info>Ambientada en la sierra mallorquina, la sargento Sara Campos deberá investigar la muerte de Bernat Cervera, una de las personas más queridas del ficticio pueblo de Tramuntana, asesinado ante los ojos de tres adolescentes. Secuela de 'La caza. Monteperdido'</info>
+<genre>Drama</genre>
+<thumbnail>https://www.themoviedb.org/t/p/original/aa9jV65UGGKuli8pIdgVunwHgNJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7M0S10827RkcX6GeY8JEVcUpx8.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/ZDG7HBph</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA CONJURA CONTRA AMERICA[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
+<info>(2020). 6 episodios. Historia alternativa de América desde la Segunda Guerra Mundial. En 1940, Charles Lindbergh es elegido Presidente de los EE.UU. Poco después negocia un acuerdo cordial con Adolf Hitler, embarcando al nuevo gobierno en una escalada progresiva de antisemitismo. Para un niño que crece en Newark, en el seno de una familia judía, la elección de Lindbergh es la primera de una serie de rupturas que amenazan con destruir su pequeña y segura esquina de América, y con ella a toda su familia.</info>
+<genre>Drama</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/okkxwAgl2DVUfpTc5sqT26A4g7O.jpg</fanart>
 <link>http://ignoreme</link>
@@ -802,7 +880,9 @@ Estreno 2ª temporada: 2021.</info>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA EXTRAORDINARIA PLAYLIST DE ZOEY[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA EXTRAORDINARIA PLAYLIST DE ZOEY[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
+<info>2 Temporadas.Zoey's Extraordinary Playlist es una serie de televisión de comedia dramático-musical estadounidense creada por Austin Winsberg que se estrenó en Estados Unidos el 7 de enero de 2020 en NBC. La serie está protagonizada por Jane Levy como Zoey Clarke, una programadora informática que descubre que tiene la capacidad de escuchar los pensamientos más íntimos de la gente en forma de canciones. Cada episodio presenta múltiples números de canciones y bailes que desarrollan la historia.</info>
+<genre>Comedia. Musical</genre>
 <thumbnail>https://www.themoviedb.org/t/p/original/6TbP8W61rMePIxcwUzmEMHSXzHg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/o30DDroDcQJaAHPGIzv2JxhxzIt.jpg</fanart>
 <link>http://ignoreme</link>
@@ -811,14 +891,20 @@ Estreno 2ª temporada: 2021.</info>
 
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA LINEA INVISIBLE[/COLOR]  [COLOR red]1 AL 6 [/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA LINEA INVISIBLE[/COLOR]  [COLOR red]1 AL 6 [/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
+<info>(2020). 6 episodios. Miniserie sobre los comienzos de ETA. El 7 de junio de 1968, el líder de ETA, Txabi Etxebarrieta, cruzaba "la línea invisible" asesinando a la primera de las 853 víctimas de la organización terrorista, el guardia civil gallego José Antonio Pardines, de sólo 25 ańos de edad. Pocas horas después, el propio Txabi Etxebarrieta era abatido en un enfrentamiento con la guardia civil, convirtiéndose así en el primer terrorista en matar y el primero en morir en la historia de ETA. Tras la muerte de su líder, los compañeros de Txabi decidieron vengarle asesinando a su principal perseguidor, el inspector Melitón Manzanas. No eran conscientes de que estaban a punto de abrir un camino plagado de dolor y venganza, de miedo y terror, que marcaría los siguientes cincuenta años de la historia de España</info>
+<genre>Drama. Thriller</genre>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c04bde6434c61c705376e06aeefe9ccf898a350d</link>
 <thumbnail>https://image.tmdb.org/t/p/original/8v3Z5gUpAg5nEgoqzsUjWvJCxcv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cDP3JBEAzRhfqF0yMybPA4HrXBb.jpg</fanart>
 </item>
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA PESTE[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LA PESTE[/COLOR]   [COLOR red]2017[/COLOR][/B]</title>
+<info>(2017-2019). 2 temporadas. 12 episodios. En la segunda mitad el Siglo XVI, Sevilla era la metrópoli del mundo occidental. Puerta de acceso de América en Europa. Ciudad donde la riqueza florecía con facilidad gracias al comercio internacional, al oro, la plata; a la convivencia de nacionales y extranjeros: cristianos, judíos conversos, moriscos, esclavos, libertos, pícaros, ladrones, prostitutas, nobles y plebeyos. Pero también era una ciudad de sombras por la desigualdad, las hambrunas y epidemias.
+
+En medio de un brote de peste, varios miembros destacados de la sociedad sevillana aparecen asesinados. Mateo, condenado por la Inquisición, debe resolver esta serie de crímenes diabólicos para lograr el perdón del Santo Oficio y así salvar su vida. Una investigación a vida o muerte en un entorno de represión pública y hedonismo privado; de misticismo y caos; de conventos relajados y burdeles reglamentados; de cárceles como escondite; de hospitales como tumbas; de traiciones y lealtades.</info>
+<genre>Thriller</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/jFBSKRerBqcvGHnDQZykrgTlzRh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1cDUGdFL6QObHkdPLES2DICUx6m.jpg</fanart>
 <link>http://ignoreme</link>
@@ -1522,13 +1608,13 @@ item>
 <externallink>https://pastebin.com/raw/7UjW1uWr</externallink>
 </item>
 
-item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]TRUST[/COLOR][/B]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/5refQIjaOyBPuQqmrBp0C9TXPS6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ah273q0QzVqQyrh21LWUMKSnZTi.jpg</fanart>
-<link>http://ignoreme</link>
- <externallink>https://pastebin.com/raw/EXuixuKm</externallink>
-
+<item>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]TRIBUS DE EUROPA[/COLOR]  [COLOR red]1 AL 10 [/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
+<info>(2020-).6 Episodios. En 2074, tres hermanos luchan por cambiar el destino de Europa, gobernada ahora por diferentes tribus desde que una catástrofe global fracturara el continente en innumerables microestados enfrentados entre sí.</info>
+<genre></genre>
+<thumbnail>https://www.themoviedb.org/t/p/original/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1bztL5ZgA9m8OSxO51TBYyoVO8P.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:380e96c07fbae4ce31516afce87dc117f592b3ae</link>
 </item>
 
 
