@@ -1,5 +1,4 @@
 
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -1147,6 +1146,19 @@
 		<info>Treinta años después de los eventos del primer film, un nuevo blade runner, K (Ryan Gosling) descubre un secreto profundamente oculto que podría acabar con el caos que impera en la sociedad. El descubrimiento de K le lleva a iniciar la búsqueda de Rick Deckard (Harrison Ford), un blade runner al que se le perdió la pista hace 30 años.</info>
 	</item>
 	<item>
+		<title>BLANCANIEVES Y LOS SIETE ENANITOS</title>
+		<microhd>0982e07a275bcd1ed7baac3135f4fb3ed8de33b5</microhd>
+		<fullhd>df524e51493a4db2ef0de07d8bad82c3117e03b4</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/jDpFqbbB2tQ1dPmPf1sV4sWqwvm.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/pmZiChyJs5Y0tz7sMAiZNNIo9z4.jpg</fanart>
+		<date>1937</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>La malvada madrastra de Blancanieves decide deshacerse de ella porque no puede soportar que la belleza de la joven sea superior a la suya. Sin embargo, Blancanieves consigue salvarse y se refugia en la cabaña de los siete enanitos. A pesar de todo, su cruel madrastra consigue encontrarla y la envenena con una manzana. Pero la princesa no está muerta, sólo dormida, a la espera de que un Príncipe Azul la rescate.</info>
+	</item>
+	<item>
 		<title>BLISS</title>
 		<microhd>NA</microhd>
 		<fullhd>145d6cc13e370240147e68eda065a189bb05610d</fullhd>
@@ -1635,7 +1647,7 @@
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://i.imgur.com/mnb3gjC.png</thumbnail>
 		<fanart>https://i.imgur.com/Yro2TTg.jpg</fanart>
-		<date>Varios</date>
+		<date>VARIOS</date>
 		<genre>Accion. Belico. Drama. Thriller.</genre>
 		<extra>Mis</extra>
 		<info>«Clint» Eastwood Jr. (San Francisco, California; 31 de mayo de 1930) es un actor, director, productor, músico y compositor estadounidense. Su primer papel relevante fue como secundario en el reparto de la serie de televisión Rawhide (1959-1965). Alcanzó la fama interpretando al Hombre sin nombre en los spaghetti western conocidos como Trilogía del dólar que dirigió Sergio Leone en la década de 1960 —Por un puñado de dólares, La muerte tenía un precio y El bueno, el feo y el malo— y a Harry Callahan en la serie de películas de Harry el Sucio durante los años 1970 y 1980. </info>
@@ -1717,6 +1729,45 @@
 		<genre>Drama</genre>
 		<extra>Culto</extra>
 		<info>Un importante magnate estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras, de dos sindicatos y de una inimaginable colección de obras de arte, muere en Xanadú, su fabuloso castillo de estilo oriental. La última palabra que pronuncia antes de expirar, ”Rosebud”, cuyo significado es un enigma, despierta una enorme curiosidad tanto en la prensa como entre la población. Así, un grupo de periodistas emprende una investigación para desentrañar el misterio.</info>
+	</item>
+	<item>
+		<title>CLASICOS DE DISNEY 2 PARTE  (SD)</title>
+		<microhd>6cf13a5f9612744a005536bc384aff77179c7c7d</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://i.imgur.com/bmdR8q2.png</thumbnail>
+		<fanart>https://i.imgur.com/Ps4ZxJc.jpg</fanart>
+		<date>VARIOS</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>CLASICOS DE DISNEY</info>
+	</item>
+	<item>
+		<title>CLASICOS DE DISNEY 3 PARTE (SD)</title>
+		<microhd>99c49a2d781f101c6cc3926496879a7144184518</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://i.imgur.com/bmdR8q2.png</thumbnail>
+		<fanart>https://i.imgur.com/Ps4ZxJc.jpg</fanart>
+		<date>VARIOS</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>CLASICOS DE DISNEY</info>
+	</item>
+	<item>
+		<title>CLASICOS DISNEY 1 PARTE ( SD)</title>
+		<microhd>a60b98fe0c394aec7af66d6f80a538411ba06178</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://i.imgur.com/bmdR8q2.png</thumbnail>
+		<fanart>https://i.imgur.com/Ps4ZxJc.jpg</fanart>
+		<date>VARIOS</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>CLASICOS DE DISNEY</info>
 	</item>
 	<item>
 		<title>COCO</title>
@@ -4489,6 +4540,19 @@
 		<info>Walt Kowalski (Clint Eastwood), un veterano de la guerra de Corea (1950-1953), es un obrero jubilado del sector del automóvil que ha enviudado recientemente. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y cascarrabias, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor, especialmente la llegada de multitud de inmigrantes asiáticos a su barrio. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas</info>
 	</item>
 	<item>
+		<title>GREASE</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>4aca7a3240761549e30f46adb84f07aba366e736</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/9L4p8N1nQmAdAAfiaWlLuYs7dZt.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/koSWhCzMJfJOramu4KD0ZZifqpi.jpg</fanart>
+		<date>1978</date>
+		<genre>Musical. Romance. Comedia</genre>
+		<extra>Culto</extra>
+		<info>Verano de 1959. Sandy (Olivia Newton John) y Danny (John Travolta) han pasado un romántico y maravilloso verano juntos, pero, cuando las vacaciones se acaban, sus caminos se separan. Inesperadamente, vuelven a verse en el instituto Rydell, pero la actitud de Danny ya no es la misma: ya no es el chico encantador y atento que encandiló a Sandy; ahora es engreído e insensible.</info>
+	</item>
+	<item>
 		<title>GREEN BOOK</title>
 		<microhd>d96e41946f20c2400e3cb06b8660d074cf79430d</microhd>
 		<fullhd>NA</fullhd>
@@ -4919,8 +4983,8 @@
 	</item>
 	<item>
 		<title>HOTEL TRANSILVANIA</title>
-		<microhd>7248a674f28863966c6ea4718f09b00b74c0b371</microhd>
-		<fullhd>NA</fullhd>
+		<microhd>NA</microhd>
+		<fullhd>7fb1006d67523c7f4d57eb90549cc642cfb60dd5</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/2YYH5i78lNNlllz7mlj6tEjWaSZ.jpg</thumbnail>
@@ -4932,8 +4996,8 @@
 	</item>
 	<item>
 		<title>HOTEL TRANSILVANIA 2</title>
-		<microhd>NA</microhd>
-		<fullhd>5a38ccaaf8b398e1547bed8eddc0756dfbfa19ea</fullhd>
+		<microhd>726d54b01f263842a2bec801d2d52b9c3b8312f2</microhd>
+		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg</thumbnail>
@@ -5673,6 +5737,19 @@
 	</item>
 	<item>
 		<title>LA BELLA Y LA BESTIA</title>
+		<microhd>8f48bbf414a35ae33b8a17296f6c15c7515ef7d3</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3mNA9xRqd5WfDj1hBpbbniFcI2T.jpg</fanart>
+		<date>1991</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un príncipe encantado. Para romper el hechizo, deberá ganarse el amor de una preciosa dama antes de que caiga el último pétalo de una rosa encantada.</info>
+	</item>
+	<item>
+		<title>LA BELLA Y LA BESTIA</title>
 		<microhd>4bfed8eb986c8bcfe920ed561ff803232a9af715</microhd>
 		<fullhd>f1b89cf58f40ac7cedc85e13961f7f022fd56548</fullhd>
 		<tresd>5c723692afc0dc0365eb0b0c08b3b955890f7a9f</tresd>
@@ -5722,6 +5799,19 @@
 		<genre>Thriller. Acción. Terror. Comedia</genre>
 		<extra>NA</extra>
 		<info>Un grupo de personas, desconocidas entre sí, despiertan en un lugar deshabitado. Pronto se dan cuenta de que alguien intenta, literalmente, cazarlos como a animales.</info>
+	</item>
+	<item>
+		<title>LA CENICIENTA. TRILOGIA</title>
+		<microhd>a3697388c698e647df32ceb4ab5bad3b3d1e733d</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/vqzeSm5Agvio7DahhKXaySUbUUW.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg</fanart>
+		<date>1950 - 2007</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>Cenicienta era una hermosa y bondadosa joven, a quien su cruel madrastra y sus dos hermanastras obligaban a ocuparse de las labores más duras del palacio, como si fuera la última de las criadas. Sucedió que el hijo del Rey celebró un gran baile. Cenicienta ayudó a sus egoístas hermanastras a vestirse y peinarse para la fiesta. Cuando se hubieron marchado, la pobre niña se echó a llorar amargamente porque también le hubiera gustado ir al baile. Pero hete aquí que su hada madrina le hizo una carroza con una calabaza, convirtió seis ratoncitos en otros tantos caballos, una rata en un grueso cochero, y seis lagartos en elegantes lacayos. Después tocó a Cenicienta con su varita mágica y sus harapos se convirtieron en un vestido resplandeciente, y sus alpargatas en preciosos zapatitos de cristal. Pero el hada advirtió a Cenicienta que a medianoche, todo volvería a ser como antes. Cuando llegó a la fiesta, su radiante belleza causó asombro y admiración. El Príncipe no se apartó de ella ni un solo instante. Poco antes de la doce, Cenicienta se retiró. Al día siguiente, seguían los festejos principescos y todo se repitió de igual manera que la víspera. Pero la pobre Cenicienta, tan feliz con su Príncipe, se olvidó de que a las doce terminaba el hechizo. Cuando oyó la primera campanada de la medianoche, echó a correr y perdió uno de sus zapatos de cristal.</info>
 	</item>
 	<item>
 		<title>LA CHAQUETA METALICA</title>
