@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -2771,6 +2772,19 @@
 		<info>Con la ayuda de un grupo de prisioneros españoles que lideran la organización clandestina del campo de concentración de Mauthausen, Francesc Boix (Mario Casas), un preso que trabaja en el laboratorio fotográfico, arriesga su vida al planear la evasión de unos negativos que demostrarán al mundo las atrocidades cometidas por los nazis. Miles de imágenes que muestran desde dentro toda la crueldad de un sistema perverso. Las fotografías que lograron salvar Boix y sus compañeros fueron determinantes para condenar a altos cargos nazis en los juicios de Núremberg en 1946. Boix fue el único español que asistió como testigo.</info>
 	</item>
 	<item>
+		<title>EL GANGSTER,EL POLICIA Y EL DIABLO</title>
+		<microhd>a83f4de36133824f95fabe64a8a04b6449fa74a5</microhd>
+		<fullhd>4c72b25653a21f644ee96f0d7de3a3794fcacaab</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/o9rByfNAkGJuXOSQLQ6UpUfGTOQ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tEBmjclGd6oVxin8axu4ELf10bl.jpg</fanart>
+		<date>2019</date>
+		<genre>Thriller. Acción. Drama. Cine negro</genre>
+		<extra>Estreno</extra>
+		<info>Un jefe de la mafia (Ma Dong-Seok) y un oficial de policía responsable de un sanguinario comando (Kim Mu-Yeol) tendrán que dejar a un lado sus diferencias para unirse en la persecución de un asesino de nombre K (Kim Sung-Kyun).</info>
+	</item>
+	<item>
 		<title>EL GOLPE</title>
 		<microhd>3b60383e1d4dd96db3eb46cbea207c2b200752c9</microhd>
 		<fullhd>NA</fullhd>
@@ -3471,6 +3485,19 @@
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>El encuentro con un activista medioambiental y su esposa embarazada (Amanda Seyfried) radicaliza poco a poco la ideología de un pastor evangélico (Ethan Hawke), un antiguo capellán del ejército, todavía marcado por la muerte de su hijo en Irak, que dirige una pequeña iglesia en el norte del estado de Nueva York.</info>
+	</item>
+	<item>
+		<title>EL REY DE ZAMUNDA</title>
+		<microhd>fe0fedbe8f51026a6d41b325575658ddf3581f9d</microhd>
+		<fullhd>69902466ac7f65cc3158bb4e8dcf8864b7016376</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>b92d8d6690c526c85faea4221e51e61fecc43007</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/d0GwE6T6rHf4qPD8U8tihwVJKUR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg</fanart>
+		<date>2021</date>
+		<genre>Comedia </genre>
+		<extra>Estreno</extra>
+		<info>Akeem vuelve a América cuando descubre que tiene un hijo que llevaba buscando mucho tiempo, para así lograr que se convierta en el rey de Zamunda.</info>
 	</item>
 	<item>
 		<title>EL REY LEON</title>
@@ -8647,6 +8674,19 @@
 		<info>Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles. </info>
 	</item>
 	<item>
+		<title>PASAJERO OCULTO</title>
+		<microhd>d156505dfb2f15b8097f6e09a2f662752b23d652</microhd>
+		<fullhd>231e09026fa76c426f97826c198bf424d2ae5c71</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1kbcCfbHie6qtDYc8KdM7Q4r2ip.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/eCzgK2kMLBMgRCPDB9MthT4aw14.jpg</fanart>
+		<date>2020</date>
+		<genre>Bélico. Fantástico. Acción. Terror </genre>
+		<extra>Estreno</extra>
+		<info>Año 1943. En plena Segunda Guerra Mundial, la oficial de vuelo Maude Garrett se une a la tripulación masculina de un bombardero B-17 llevando consigo un paquete ultrasecreto. Durante el vuelo desde Nueva Zelanda hasta Samoa, sucesos extraños comienzan a incitar cierta paranoia en torno a su verdadera misión, y lo cierto es que la tripulación tiene mucho que temer: acechando en las sombras, algo siniestro, una presencia maligna está destrozando el interior del avión. Atrapada entre la emboscada japonesa que se avecina y el mal que les acecha en el interior del avión, Maude debe sobrepasar sus límites para intentar salvar a la tripulación y proteger su misteriosa carga. </info>
+	</item>
+	<item>
 		<title>PATTON</title>
 		<microhd>NA</microhd>
 		<fullhd>a784b62a240a5acd624abcefe3cd8e8cb3092ca0</fullhd>
@@ -12004,4 +12044,4 @@
 	<item/>
 	<item/>
 	<item/>
-</items>P
+</items>
