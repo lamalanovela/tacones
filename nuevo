@@ -154,7 +154,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg</fanart>
 		<date>2021</date>
 		<genre>Ciencia ficción. Acción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un piloto de drones se une a un oficial androide para localizar un dispositivo que amenaza con acabar con la vida sobre el planeta. El dispositivo en cuestión se encuentra oculto en una zona altamente militarizada. </info>
 	</item>
 	<item>
@@ -717,6 +717,19 @@
 		<info>Artemis Fowl, un joven criminal irlandés, rapta a Holly Short, un hada, con la intención de pedir un rescate que le permita salvar a su padre. Una vez logra cumplir sus intenciones, se embarca en una aventura que le llevará a luchar contra el maléfico hada Opal Koboi. Adaptación del libro de Eoin Colfer.</info>
 	</item>
 	<item>
+		<title>ARTICO</title>
+		<microhd>2e913269428e406d92f386eabc65ced5f8a71659</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/s75CDPm61dDM7C5STW884J6uFk1.jpg</fanart>
+		<date>2018</date>
+		<genre>Aventuras. Drama</genre>
+		<extra>Estreno</extra>
+		<info>En el Ártico, la temperatura puede bajar hasta -70° C. En este desierto helado y hostil alejado de todo, un hombre lucha por sobrevivir. A su alrededor, la inmensidad blanca, y los restos de un avión que le ha servido de refugio, vestigio de un accidente ya muy lejano. Con el tiempo, ha aprendido a luchar contra el frío y las tormentas, a cuidarse de los osos polares y a buscar comida. </info>
+	</item>
+	<item>
 		<title>ASESINATO EN EL ORIENT EXPRESS</title>
 		<microhd>7b9e90aae1948c85e38b4be2d04b991052ce4f8c</microhd>
 		<fullhd>NA</fullhd>
@@ -908,7 +921,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg</fanart>
 		<date>2021</date>
 		<genre>Ciencia ficción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un grupo de astronautas se encuentran en una estación espacial. Tae Ho es un piloto de la nave 'Spaceship Victory' en la que la Capitana, Park Tigre y el robot son parte de la tripulación.</info>
 	</item>
 	<item>
@@ -1092,6 +1105,19 @@
 		<genre>Thriller. Drama</genre>
 		<extra>Estreno</extra>
 		<info>Carlos, un alto ejecutivo a punto de convertirse en socio de una gran empresa, recibe el encargo de mediar en el secuestro del ingeniero de una petrolera americana en África. El incidente está poniendo en peligro la firma de un contrato millonario.</info>
+	</item>
+	<item>
+		<title>BLACK HAWK DERRIBADO</title>
+		<microhd>NA</microhd>
+		<fullhd>148fe31eacdf716ced1346391fd7b35742794eb3</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5czqI9tmuLjJTSs3e22cdmjNKD3.jpg</fanart>
+		<date>2001</date>
+		<genre>Bélico. Acción </genre>
+		<extra>Mis</extra>
+		<info>Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas, pero su principal objetivo es capturar al caudillo Aidid y acabar de raíz con la guerra. La misión se complica cuando dos helicópteros Black Hawk son derribados. Entonces lo único que importa es rescatar a los soldados que han quedado atrapados o han resultado heridos en el accidente. </info>
 	</item>
 	<item>
 		<title>BLACK PANTHER</title>
@@ -1614,6 +1640,175 @@
 		<info>El doctor Louis Creed (Clarke) se muda con su mujer Racher (Seimetz) y sus dos hijos pequeños de Boston a un pueblecito de Maine, cerca del nuevo hogar de la familia descubrirá un terreno misterioso escondido entre los árboles. Cuando la tragedia llega, Louis hablará con su nuevo vecino, Jud Crandall (Lithgow), desencadenando una peligrosa reacción en cadena que desatará un mal de horribles consecuencias.</info>
 	</item>
 	<item>
+		<title>CHARLOT: AVENTURERO</title>
+		<microhd>35a5e7efa80a14ee17fd28294dcdf03f22c9da05</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/vE0WN1oPHB1ePVu94d50fcDOhnt.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>2019</date>
+		<genre>Comedia. Aventura</genre>
+		<extra>Mis</extra>
+		<info>El audaz convicto no. 23, conocido como la Anguila, se escapa de prisión y, después de burlar a sus ineptos perseguidores, salva la vida de tres personas en peligro: una hermosa chica, su madre y un pretendiente molesto, solo para agotarse y acabar casi ahogado. Una vez que ha recuperado sus fuerzas en casa del juez Brown, participa en una fiesta de clase alta donde compite con el pretendiente por el favor de la encantadora señorita Brown. Pero los guardias de la prisión siguen tras él.</info>
+	</item>
+	<item>
+		<title>CHARLOT: EL EMIGRANTE</title>
+		<microhd>5b37c78787a0e2aa456dc62e4554166d4070ca1b</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/f4xP9DvXKqpYKo0Fth5tKyZY8ej.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1917</date>
+		<genre>Comedia. Romance</genre>
+		<extra>Mis</extra>
+		<info>Charlot es un inmigrante que llega a los Estados Unidos en barco desde Europa. Acusado falsamente del robo a una chica, termina trabando amistad con ella, ya que en realidad quería ayudarla dejándole dinero en el bolsillo. En la segunda parte de la película, Charlot deberá hacer frente a un irascible camarero capaz de dar miedo con su simple presencia. </info>
+	</item>
+	<item>
+		<title>CHARLOT: EN EL PARQUE</title>
+		<microhd>8b9b177e465af73e2571f5ad47e29cf85d1e95f3</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/9k2anjoLGTIEOdijzt1B9PpppE1.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1915</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>Charlot es testigo de cómo un vagabundo roba el bolso a una chica en el parque.</info>
+	</item>
+	<item>
+		<title>CHARLOT: EN LA CALLE DE LA PAZ</title>
+		<microhd>e3df6194aa3932f934fe45ff40599fea301dbefe</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/aGnx73mmAFP6ssWYpMIV7yekg7g.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1917</date>
+		<genre>Comedia </genre>
+		<extra>Mis</extra>
+		<info>Charlot se presenta para guardia municipal y consigue el trabajo. Lo malo es que tendrá que encontrar el valor suficiente para enfrentarse a los delincuentes.</info>
+	</item>
+	<item>
+		<title>CHARLOT: EN LA TIENDA</title>
+		<microhd>ed295c0ecf09a57b3b135d5b1cbbd6808aac61d4</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/dwyIg2mgBgaHQEeBnUHNzCkze1g.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1916</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>Charlot descubre en un bazar que el encargado de la tienda es exactamente igual a él.</info>
+	</item>
+	<item>
+		<title>CHARLOT: HEROE DEL PATIN</title>
+		<microhd>aa78dd30f9530b665c74d6556f24d0633d281d33</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oaKKcsUChu117urmWBz9Os23Ad9.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1916</date>
+		<genre>Comedia. Romance </genre>
+		<extra>Mis</extra>
+		<info>Charlot trabaja como camarero en un restaurante y sufre un percance con Mr. Stout, un cliente testarudo y gordinflón. Tras acabar su jornada se dirige hacia un local de patinaje donde casualmente se encuentra con Stout, y ambos competirán por la atención de una guapa joven que también ha ido a patinar.</info>
+	</item>
+	<item>
+		<title>CHARLOT: MALEANTE</title>
+		<microhd>e979aab30e179c46558077826cfa54cc83cda737</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/Ao9V2glJ1BtLUy6RPTRxj4fxJIK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1916</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>Charlot, recién salido de prisión, escucha las palabras de un reformador y resiste la tentación de participar en un robo que no ofrecía riesgos. Luego se da cuenta que el predicador tiene malas intenciones por lo que renuncia de improviso a su propósito de enmienda. En el curso de una tropelía una hermosa joven le tienta a volver al buen camino, para lo cual le perdona, le hace arrepentirse y le protege, pero la policía está siempre allí y es mejor no confiarse. </info>
+	</item>
+	<item>
+		<title>CHARLOT: NOCTAMBULO</title>
+		<microhd>5c694e80fe50088d59694b2d46d7885f23fbf634</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/7TgRnVZWeGPYZKzcJkYKigAshq6.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1916</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>Charlot llega en taxi a su casa después de una noche de juerga. Borracho como una cuba, no encuentra en sus bolsillos la llave de la puerta de entrada, por lo que se cuela por la ventana, pero nada más entrar, encuentra al fin la llave, por lo que vuelve a salir por la ventana para entrar por la puerta. Este es sólo el principio de una serie de enredos... </info>
+	</item>
+	<item>
+		<title>CHARLOT: PERFECTA DAMA</title>
+		<microhd>4f55fa9d0fac1982afbb95d21852c064ac4bf3fb</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/etBt9JT2dwiCbU78Tty0JfMgpJb.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1915</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>La cosa empieza en el parque, con un distinguido y aburrido caballero haciendo el "calavera", hasta que se topa con Charlot, lo que provoca varios desastres cuando juega a la gallinita ciega, incluido un chapuzón en el estanque</info>
+	</item>
+	<item>
+		<title>CHARLOT: PRESTAMISTA</title>
+		<microhd>b36a33271956f26a653fc316ea42445e23721685</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/gBKc0hxfrlLr2YQLnq16fzadusM.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1916</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>En una tienda Charlot atiende a clientes, ordena los objetos y en la trastienda se entretiene haciendo sufrir al otro empleado. Pero el juego tiene dos tonos distintos según esté o no presente el patrón...</info>
+	</item>
+	<item>
+		<title>CHARLOT: RAPTA A SU NOVIA</title>
+		<microhd>c756262e5556cf377598b5bcfec821740f554349</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oG6gsvH0vDmu2GkiOOPPBdVwBJ7.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1915</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>El padre de Edna, una rica heredera, quiere que se case con un adinerado conde. Charlot, el verdadero amor de Edna, suplanta al conde en la cena, pero aparece el verdadero y Charlot es expulsado. Más tarde, Edna y Charlot huyen perseguidos por el padre, el conde y tres policías.</info>
+	</item>
+	<item>
+		<title>CHARLOT: TRAMOYISTA DE CINE</title>
+		<microhd>d0b40c4f6b63adcd0abda6a1e5ce85af8915dd23</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/u1AYvWE0JYjGjg7XCNAevkJZrMR.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1916</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>Charlot trabaja en una producción cinematográfica como tramoyista, haciendo de las suyas, mientras lucha contra su tiránico jefe y ayuda a una joven a encontrar trabajo dentro de la película.</info>
+	</item>
+	<item>
+		<title>CHARLOT: Y LOS ATRACADORES</title>
+		<microhd>0e057395a522a56c0e71ccb205ecc3c1efd570bf</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/v60H0PghKY7J56RktHNGgJ3itAv.jpg</thumbnail>
+		<fanart>https://i.imgur.com/v3JBjfv.jpg</fanart>
+		<date>1915</date>
+		<genre>Comedia</genre>
+		<extra>Mis</extra>
+		<info>Charlot está encargado del cuidado de las oficinas en un banco. Limpia todo y contra todos y ama a la inaccesible secretaria. Hay en el ardor con que limpia y ama una suerte de heroísmo... </info>
+	</item>
+	<item>
 		<title>CHERRY</title>
 		<microhd>d3c180f3629363ae51507f4282a8ffda80a25685</microhd>
 		<fullhd>20e839502e9c32daaa221a6fbeed35bb05b3f481</fullhd>
@@ -2132,19 +2327,6 @@
 		<genre>Bélico. Drama</genre>
 		<extra>NA</extra>
 		<info>Cuatro excombatientes afroamericanos -Paul (Delroy Lindo), Otis (Clarke Peters), Eddie (Norm Lewis) y Melvin (Isiah Whitlock, Jr.)- regresan a Vietnam en busca de los restos del jefe de su escuadrón, caído en combate (Chadwick Boseman), y la promesa de un tesoro escondido. Junto al hijo de Paul (Jonathan Majors), se enfrentarán a obstáculos naturales y humanos, y constatarán los estragos causados por la inmoralidad de la guerra de Vietnam.</info>
-	</item>
-	<item>
-		<title>DEADPOOL 2</title>
-		<microhd>25ea06c4ad91438cc1934cb0e76be00182cd1357</microhd>
-		<fullhd>f024f6a29264e9ef8bbf11d7e758d53447dfffaf</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://image.tmdb.org/t/p/original/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg</thumbnail>
-		<fanart>https://image.tmdb.org/t/p/original/lRPH3X1q0Pp3s27df1BveqwLBA8.jpg</fanart>
-		<date>2018</date>
-		<genre>Accion. Fantastico. Comedia</genre>
-		<extra>NA</extra>
-		<info>Wade Wilson (Ryan Reynolds), mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso con Deadpool 2 y en esta ocasión su misión será salvar a un chico llamado Russell (Julian Dennison) de las manos de un poderoso rival llamado Cable (Josh Brolin). En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force. Secuela de la exitosa película (recaudó más de 780 millones de dólares en todo el mundo) parodia de los superhéroes mutantes del 2016, también protagonizada por Reynolds.</info>
 	</item>
 	<item>
 		<title>DEADWOOD</title>
@@ -4770,7 +4952,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller. Acción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Cuando el mundo es consciente de que el asteroide más grande de la historia va a impactar en la Tierra y aniquilar todo rastro de vida, los gobiernos de todo el mundo realizan un sorteo en el cual los afortunados podrán sobrevivir en refugios secretos. Esta decisión desata un caos a nivel mundial. Muchos tendrán que emprender un peligroso viaje donde se enfrentarán a los más imponentes peligros de la naturaleza, lo que les obligará a encontrar la manera de mantenerse unidos mientras encuentran la forma de sobrevivir.</info>
 	</item>
 	<item>
@@ -6360,6 +6542,19 @@
 		<info>Luke Jackson, un joven rebelde e impulsivo, es condenado a dos años de prisión tras causar graves destrozos estando borracho. En la cárcel, su indomable carácter chocará de frente con las rígidas normas de la institución, así como con el de otros presos, especialmente el brutal Dragline, que era el líder de los convictos hasta su llegada. Pero Luke es un veterano de guerra que no está dispuesto a ceder, y tendrá que pagar un alto precio por seguir siendo quien es.</info>
 	</item>
 	<item>
+		<title>LA LIGA DE LA JUSTICIA DE ZACK SNYDER</title>
+		<microhd>d9dc35ae6419cdcb9f766cb514067e38189a5010</microhd>
+		<fullhd>75213fbbbea08ad9ed33cd8dffe85af1e7432efa</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>be38eba58218c4810342d6dfa65e253d6d182912</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9WoLTsRgrupkvCgs3bhsl2EjLhs.jpg</fanart>
+		<date>2021</date>
+		<genre>Fantástico. Acción </genre>
+		<extra>Estreno</extra>
+		<info>Con la determinación de asegurar que el sacrificio definitivo de Superman (Henry Cavill) no fue en vano, Bruce Wayne (Ben Affleck) une fuerzas con Diana Prince (Gal Gadot) para reclutar a un equipo de metahumanos que protejan el mundo de una amenaza inminente de proporciones catastróficas. La tarea es más difícil de lo que Bruce imaginaba, ya que cada uno de los reclutas deberá enfrentarse a sus propios demonios para trascender aquello que los detenía, para unirse y formar de manera definitiva una liga de héroes sin precedentes. Ahora unidos, Batman, la Mujer Maravilla, Aquaman (Jason Momoa), Cyborg (Ray Fisher) y Flash (Ezra Miller) deberán salvar al planeta de la amenaza de Steppenwolf, DeSaad y Darkseid, antes de que sea demasiado tarde.Versión extendida de "Justice League" (2017), que representará una versión fiel a la visión original de la obra de Zack Snyder, que fue apartado de la producción de la misma tras una tragedia personal y reemplazado por Joss Whedon.</info>
+	</item>
+	<item>
 		<title>LA LLAMADA DE LO SALVAJE</title>
 		<microhd>411fa08ed451b6437c74e62e262ba5feb0b9f722</microhd>
 		<fullhd>b91541565ab8fd7c1f0388ee5317801b563b100e</fullhd>
@@ -6715,7 +6910,7 @@
 		<microhd>f652c4526cb0399ada470d9d102f42c5ea282520</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>c45bd7f865d123a7be26dcafa6d673952ddb079b</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/rNwemYHVqgG5xFGFJpMtCWe3GVM.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg</fanart>
 		<date>2017</date>
@@ -7034,6 +7229,19 @@
 		<genre>Thriller</genre>
 		<extra>Culto</extra>
 		<info>Eddie convence a tres amigos para jugarse sus ahorros en una partida de cartas contra Harry el Hacha, un mafioso del barrio. La partida está amañada, y Eddie no sólo pierde todo el dinero sino que contrae una deuda de medio millón de libras, que debe pagar en el plazo de una semana. El mafioso pretende quedarse con el local de su padre para resarcirse de la deuda, pero los cuatro amigos planean saldarla de una forma mucho más arriesgada.</info>
+	</item>
+	<item>
+		<title>LOCO POR ELLA</title>
+		<microhd>0c54536909017e3b0ce07236d3df9874204db237</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/mVcOR5f1bKhqSWWxViOfmOJ7aqc.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/y7b78soqvJq4aQ8G0Zt72inSQoE.jpg</fanart>
+		<date>2021</date>
+		<genre>Romance. Comedia. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Tras conocer y pasar una noche con Carla (Susana Abaitua), la chica de sus sueños, Adri (Álvaro Cervantes) descubre que se ha escapado de un hospital psiquiátrico. Locamente enamorado y dispuesto a hacer lo que sea para volver a verla, Adri se interna como un paciente más con el fin de conquistar a Carla y, de paso, escribir el mejor reportaje de su vida para la revista Load. Pero, una vez dentro, no solo descubre que su historia de amor no es como él esperaba, sino que no va a ser tan fácil salir de allí. Con la ayuda de Saúl (Luis Zahera), su compañero de habitación, Adri comenzará un viaje de aprendizaje que lo acercará al resto de pacientes y a Carla, y lo obligará a replantearse no solo su objetivo inicial sino su visión del mundo.</info>
 	</item>
 	<item>
 		<title>LOCURA PADRE</title>
@@ -7539,7 +7747,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/kiruQFdPZDph4NiMYQNW5hiD41G.jpg</fanart>
 		<date>2021</date>
 		<genre>Drama. Romance </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>La relación de un director de cine y su novia es puesta a prueba cuando regresan a casa tras el estreno de su película y esperan las reacciones de los críticos.</info>
 	</item>
 	<item>
@@ -8648,6 +8856,19 @@
 		<info>Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.</info>
 	</item>
 	<item>
+		<title>OPHELIA</title>
+		<microhd>6b8d2a3db4db89851280a49d83334567d9373038</microhd>
+		<fullhd>e3ed856ed8a78eb3661002c9fb9d4176afb7ff8f</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/7ItW1N2L2YIWVlZh1cg2Ylh3i8f.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9FEYwpe506UivecUhIiCUmrac7U.jpg</fanart>
+		<date>2018</date>
+		<genre>Drama. Romance</genre>
+		<extra>Estreno</extra>
+		<info>Ophelia (Daisy Ridley), es una joven adolescente e impetuosa que reside en el castillo de Elsinore como una de las personas de confianza de la Reina Gertrude (Naomi Watts). Su personalidad no pasa desapercibida ante los ojos del Príncipe Hamlet (George MacKay), a quien conquista rápidamente. Ambos se enzarzan en un apasionado romance secreto mientras su reino se encuentra al borde de entrar en guerra, plagado de traición y de intrigas palaciegas. Cuando el padre de Hamlet es asesinado, llevando al príncipe a una sed implacable de venganza, Ophelia trata de contener a las altas esferas del poder danés mientras que lucha por decidir entre ser fiel a su corazón o huir para conservar su propia vida. Versión de Hamlet desde la perspectiva de Ofelia.</info>
+	</item>
+	<item>
 		<title>ORIGENES SECRETOS</title>
 		<microhd>4c53b23876459119935c8b9fe0cf8784bea6625d</microhd>
 		<fullhd>NA</fullhd>
@@ -8815,6 +9036,19 @@
 		<genre>Comedia. Drama</genre>
 		<extra>NA</extra>
 		<info>Un antiguo luchador de lucha libre y su familia se ganan la vida actuando a lo largo del país, pero sus hijos sueñan con poder vivir del Wrestling.</info>
+	</item>
+	<item>
+		<title>PEQUEÑOS DETALLES</title>
+		<microhd>09192f945844fa036cd9d76c12fa68b3f464698a</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/j62o61KqXrYeThdmNOtm3UplUSl.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ha6qfRxIZhYMUjNkYV7xEPMcxTH.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Un sheriff (Washington) y un detective de homicidios (Malek) han de colaborar juntos para intentar dar caza a un astuto asesino en serie.</info>
 	</item>
 	<item>
 		<title>PERDIENDO EL ESTE</title>
@@ -9008,7 +9242,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/c4pO6YmyuUexu6WVlMjfXg2e4Zp.jpg</fanart>
 		<date>2019</date>
 		<genre>Fantástico. Drama. Aventuras.Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Adaptación de la clásica historia del muñeco de madera llamado Pinocho, que desea ser un niño de carne y hueso.</info>
 	</item>
 	<item>
@@ -10165,7 +10399,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg</fanart>
 		<date>2020</date>
 		<genre>Infantil. Estreno</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Pixar te lleva en un viaje desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.</info>
 	</item>
 	<item>
@@ -10178,7 +10412,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/5XKMS1dJFfnEOrl1koJyb31p5js.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Jean es un mujer casada que lleva una vida cómoda dedicada a su marido Eddie y a su pequeño bebé. Hasta el día que su marido, un criminal, decide traicionar a sus socios y entonces Jean se ve obligada a huir con su bebé a cuestas.</info>
 	</item>
 	<item>
@@ -11937,9 +12171,22 @@
 		<info>En 1984, en plena Guerra Fría, Diana Prince, conocida como Wonder Woman, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas. </info>
 	</item>
 	<item>
+		<title>X- MEN: DEADPOOL 2</title>
+		<microhd>25ea06c4ad91438cc1934cb0e76be00182cd1357</microhd>
+		<fullhd>f024f6a29264e9ef8bbf11d7e758d53447dfffaf</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/lRPH3X1q0Pp3s27df1BveqwLBA8.jpg</fanart>
+		<date>2018</date>
+		<genre>Accion. Fantastico. Comedia. Saga</genre>
+		<extra>NA</extra>
+		<info>Wade Wilson (Ryan Reynolds), mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso con Deadpool 2 y en esta ocasión su misión será salvar a un chico llamado Russell (Julian Dennison) de las manos de un poderoso rival llamado Cable (Josh Brolin). En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force. Secuela de la exitosa película (recaudó más de 780 millones de dólares en todo el mundo) parodia de los superhéroes mutantes del 2016, también protagonizada por Reynolds.</info>
+	</item>
+	<item>
 		<title>X- MEN: LA DECISION FINAL</title>
 		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>45e0eb0a2caf0661227d16ba6f35f25c127f290c</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>9c6516003a4b3dbde581e4a4134c6bf04fd0e5d7</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/7qTwCZm0vQclAsKho0MIpafTv4i.jpg</thumbnail>
@@ -11952,7 +12199,7 @@
 	<item>
 		<title>X-MEN</title>
 		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>0ce63eb63b37896ca9c1cb99cf60e51d5c5291ee</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>839c3e713cdc7712eb275bc831bfdbbbccf71e83</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/5gmQsDWIIpeK1q2dEmXey14HaaH.jpg</thumbnail>
@@ -11976,6 +12223,19 @@
 		<info>Desde el inicio de los tiempos Apocalipsis, el mutante más poderoso que ha existido nunca, era adorado como un dios mientras acumulaba los poderes del resto de mutantes convirtiéndose en un ser inmortal. Tras miles de años dormido, despierta en un mundo que no le gusta y por ello recluta un equipo, encabezado por Magneto, para acabar con toda la humanidad y crear un nuevo orden mundial. Pero el Profesor X, con la ayuda de Mística, se unirá a un grupo de jóvenes mutantes para tratar de detener al mayor enemigo contra el que se hayan enfrentado jamás.</info>
 	</item>
 	<item>
+		<title>X-MEN: DEADPOOL</title>
+		<microhd>NA</microhd>
+		<fullhd>41d6fea7742368c679dd941f04672d6433c2491f</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/k2VX0gFu2BEJhvduQTq2ioYp8z7.jpg</fanart>
+		<date>2016</date>
+		<genre>Acción. Fantástico. Comedia . Saga</genre>
+		<extra>Mis</extra>
+		<info>Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida</info>
+	</item>
+	<item>
 		<title>X-MEN: DIAS DEL FUTURO PASADO</title>
 		<microhd>9d0485a59f8d0e1a318e1b7f1bbe9c9be018cb13</microhd>
 		<fullhd>057e036760e617d80b975bc53c4fd01de6445b02</fullhd>
@@ -11991,7 +12251,7 @@
 	<item>
 		<title>X-MEN: FENIX OSCURA</title>
 		<microhd>fda499c77b4fea590e5f6622b0c1a4126c12c155</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>a876ad8972b6e7cd658b1888b5d9379c09d749b4</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/cDStuAPuaK3aJRA3CMn1whCAGph.jpg</thumbnail>
@@ -12043,7 +12303,7 @@
 	<item>
 		<title>X-MEN: X-MEN 2</title>
 		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>097997ccf8deffb4695c10b54705481a86cfd1fc</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>42cf7932bbde358b0ac6f1c16cb732a348b99742</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/8JjzEdEjHCAd4VZCvgMz8M5ekFg.jpg</thumbnail>
@@ -12056,7 +12316,7 @@
 	<item>
 		<title>X-MEN:ORIGENES LOBEZNO</title>
 		<microhd>4fd4c546dca6d6c5b5d96c4a437ac2602333cf49</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>2e91ccf17828b536f110161cef0cebd821ecfb3a</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/8tzHWNz3jSFqfTsHxUc3Sel75n7.jpg</thumbnail>
