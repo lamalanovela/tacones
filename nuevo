@@ -1380,19 +1380,6 @@
 		<info>Ambientada en un presente alternativo donde los seres humanos, orcos, elfos y hadas han convivido desde el inicio de los tiempos, dos policías con perfiles muy distintos patrullan juntos. Uno es el humano Ward (Will Smith), y el otro el orco Jakoby (Joel Edgerton). Ambos inician una guardia nocturna que cambiará el futuro y el mundo que conocen. A pesar de sus diferencias personales, deberán trabajar juntos para proteger a una joven elfo y una misteriosa reliquia -una varita mágica- que, de caer en las manos equivocadas, podría destruirlo todo.</info>
 	</item>
 	<item>
-		<title>BUMBLEBEE</title>
-		<microhd>1538b90ddd0c18844e694d1dd46d4c46e028cffc</microhd>
-		<fullhd>6d28a155422b1bf4491c7498ef3d0fbd5db1d212</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://image.tmdb.org/t/p/original/jy1lwWSWQf5yqPOmPbXI5T7wRZW.jpg</thumbnail>
-		<fanart>https://image.tmdb.org/t/p/original/wtZj5nn6hVwgakPdg6y6gm3eFXU.jpg</fanart>
-		<date>2018</date>
-		<genre>Ciencia ficcion. Accion. Aventuras</genre>
-		<extra>NA</extra>
-		<info>Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld), a punto de cumplir 18 años y tratando de encontrar su lugar en el mundo, descubre a Bumblebee, dañado durante una batalla y descompuesto. Cuando Charlie lo revive, aprende rápidamente que éste no es un VolksWagen amarillo normal.</info>
-	</item>
-	<item>
 		<title>BUSCANDO A DORY</title>
 		<microhd>eee1069dc5acaa4b505df5f22efd20fd4db7b2c6</microhd>
 		<fullhd>NA</fullhd>
@@ -2926,6 +2913,19 @@
 		<genre>Fantástico. Acción</genre>
 		<extra>Culto</extra>
 		<info>Eric Draven y Shelly Webster están a punto de casarse, pero la noche antes del enlace son asesinados brutalmente. Un año después, el alma de Eric vuelve a la Tierra en forma de cuervo para vengarse.</info>
+	</item>
+	<item>
+		<title>EL DIA DEL SI</title>
+		<microhd>5e7245caa2ba0df0d4660d9e48cc53a54bc9a430</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/cJwkku3SPprS0Splfgh8VFRd0xn.jpg</fanart>
+		<date>2021</date>
+		<genre>Infantil</genre>
+		<extra>NA</extra>
+		<info>Sintiendo como si siempre dijeran NO a sus hijos y compañeros de trabajo, Allison y Carlos deciden dar a sus tres hijos un YES DAY, en el que durante 24 horas los niños mandarán. No se imaginaban que se embarcarían en una aventura vertiginosa en torno a Los Ángeles, que unirá a su familia más que nunca.</info>
 	</item>
 	<item>
 		<title>EL DIABLO A TODAS HORAS</title>
@@ -7322,6 +7322,32 @@
 		<info>Año 1910. En París, una anciana millonaria y excéntrica lleva una vida feliz con sus gatos en su enorme mansión, con la única ayuda de su fiel mayordomo Edgar. Allí, la gatita Duquesa vive con sus tres traviesos cachorros, sin saber que Edgar planea acabar con todos los gatos para convertirse en el único heredero de la enorme fortuna de la anciana, Madame Bonfamille. Con este propósito, los abandona en un lugar remoto, pero quiere la suerte que Duquesa se encuentren con Thomas O’Malley, un gato vagabundo y mundano. Desde el principio, O’Malley, atraído por la elegancia de Duquesa, se propone ayudarla a regresar a casa de Madame Bonfamille, aunque para ello tenga que enfrentarse con todos los peligros de la gran ciudad.</info>
 	</item>
 	<item>
+		<title>LOS CROODS:  UNA AVENTURA PREHISTORICA</title>
+		<microhd>27738397e1ba6957a1c664f6ed08a557b1b32cae</microhd>
+		<fullhd>57a5e4fb29bba9530862ec2d84b6c4784403844e</fullhd>
+		<tresd>ee05715d3421b0835eb46bd7f71866fe94d19fb0</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/bNgqt819qpHcszjCzLCG5y16ldF.jpg</fanart>
+		<date>2013</date>
+		<genre>Infantil. Saga</genre>
+		<extra>NA</extra>
+		<info>Prehistoria. Tras la destrucción de su hogar por un gran terremoto, Grug se ve obligado a emigrar con su familia. Mientras avanzan por un mundo desconocido y aterrador, se encuentran con un nómada de mente abierta que los deja a todos fascinados, sobre todo a la hija de Grug.</info>
+	</item>
+	<item>
+		<title>LOS CROODS: UNA NUEVA ERA</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>92b74ee581b3448880166db301da60b07f76f95b</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5uMWKEmegf5aTJnp1u98JF4QerP.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rCxdJkk5PMCWIzRWcpqIxUaWnf1.jpg</fanart>
+		<date>2020</date>
+		<genre>Infantil. Saga</genre>
+		<extra>NA</extra>
+		<info>Obligados a partir en busca de un nuevo lugar donde vivir, la primera familia prehistórica se aventura a explorar el mundo con el objetivo de localizar un lugar más seguro al que llamar hogar. Pero cuando encuentran un idílico paraíso amurallado que cumple con todas sus necesidades, se encuentran con que ese lugar esconde una sorpresa: hay otra familia que ya vive allí, los Masmejor. Y es que los Masmejor, con su elaborada casa en un árbol, sus asombrosas invenciones y sus enormes huertos, van un par de pasos por delante de los Croods en la escala evolutiva. Y cuando les reciben como sus primeros invitados, no tardan en surgir tensiones entre nuestros queridos cavernícolas y sus nuevos y modernos semejantes. Cuando todo parece perdido, una nueva amenaza embarca a las dos familias en una aventura épica más allá de la seguridad de la muralla, que les obligará a aparcar sus diferencias, aunar fuerzas y luchar por un futuro juntos.</info>
+	</item>
+	<item>
 		<title>LOS DIEZ MANDAMIENTOS</title>
 		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
@@ -11560,17 +11586,82 @@
 		<info>Mark Renton, un joven escocés de Edimburgo, y sus amigos son adictos a la heroína, lo que significa que viven fuera de la realidad, en un mundo aparte. Dentro del grupo hay un psicópata alcohólico y violento, un joven desesperado, un mujeriego con un conocimiento enciclopédico sobre Sean Connery y un entusiasta de las caminatas y de Iggy Pop. </info>
 	</item>
 	<item>
+		<title>TRANSFORMERS</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>d89ade1671acbe5a0960065c99e6f84d8fad72f5</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/qrqPcURobs7n1ivKiLcsyx1BwOA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg</fanart>
+		<date>2007</date>
+		<genre>Ciencia ficción. Acción. Saga</genre>
+		<extra>NA</extra>
+		<info>Dos razas de robots extraterrestres transformables (los villanos "decepticons" y los amistosos "autobots") llegan a la Tierra en busca de una misteriosa fuente de poder. En la guerra que estalla entre las dos razas, los hombres toman partido por los "autobots". Sam Witwicky (Shia LaBeouf), un avispado adolescente, que sólo desea conquistar a la bella Mikaela (Megan Fox), se convierte en la clave de una guerra que puede destruir a la humanidad. </info>
+	</item>
+	<item>
+		<title>TRANSFORMERS: BUMBLEBEE</title>
+		<microhd>1538b90ddd0c18844e694d1dd46d4c46e028cffc</microhd>
+		<fullhd>6d28a155422b1bf4491c7498ef3d0fbd5db1d212</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>3535f0f012933820e27c15a05815dfc4bcf1f4b1</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/jy1lwWSWQf5yqPOmPbXI5T7wRZW.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/wtZj5nn6hVwgakPdg6y6gm3eFXU.jpg</fanart>
+		<date>2018</date>
+		<genre>Ciencia ficcion. Accion. Aventuras</genre>
+		<extra>NA</extra>
+		<info>Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld), a punto de cumplir 18 años y tratando de encontrar su lugar en el mundo, descubre a Bumblebee, dañado durante una batalla y descompuesto. Cuando Charlie lo revive, aprende rápidamente que éste no es un VolksWagen amarillo normal.</info>
+	</item>
+	<item>
+		<title>TRANSFORMERS: EL LADO OSCURO DE LA LUNA</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>6d9a796902ba409350a965d3d18c1ebeafe828d5</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/2oCILhh9NDdoe2lNXcTL8sYFIBZ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg</fanart>
+		<date>2011</date>
+		<genre>Ciencia ficción. Acción. Saga</genre>
+		<extra>NA</extra>
+		<info>Tercera entrega de Transformers. En la Tierra, los Autobots y los Decepticons se ven envueltos en una peligrosa carrera espacial, entre los EE.UU. y la Unión Soviética, que podría desencadenar una guerra de tal magnitud que destruiría el planeta sin que ni siquiera los "transformers" pudieran impedirlo. Una vez más, Sam Witwicky se encuentra involuntariamente en medio del conflicto. </info>
+	</item>
+	<item>
 		<title>TRANSFORMERS: EL ULTIMO CABALLERO</title>
 		<microhd>98fca6fd1182b2186b0960445cc82142af730dac</microhd>
 		<fullhd>1c9d7db6179b3a43331d4c0b968ac43da4a02d82</fullhd>
 		<tresd>60b0a1eb662fc4071330975ef1b858f54e9b1c2d</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>e4495513422d3de9a2acbd3493f1a8f1b960f362</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/dTKoCaGc4mnfBXAz8A0Jq1WQ8Md.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/22dQXZG5pq5ETmE4RRjcSIh6lcM.jpg</fanart>
 		<date>2017</date>
-		<genre>Accion. Aventuras. Ciencia ficcion. Comedia</genre>
+		<genre>Accion. Aventuras. Ciencia ficcion. Comedia. Saga</genre>
 		<extra>NA</extra>
 		<info>Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra y Optimus Prime se ha ido. La llave para salvar nuestro futuro está enterrada en los secretos del pasado, en la historia oculta de los Transformers en la Tierra. Salvar a nuestro mundo está en manos de una alianza única: Cade Yeager (Mark Wahlberg); Bumblebee; un Lord Inglés (Sir Anthony Hopkins); y una profesora de la Universidad de Oxford (Laura Haddock). Hay un momento en la vida de todo ser humano en la que recibimos el llamado para hacer la diferencia. En Transformers: El Último Caballero los perseguidos se convertirán en héroes; los héroes se convertirán en villanos y sólo un mundo sobrevivirá: el de ellos o el nuestro. Quinta película de Transformers dirigida por Michael Bay.</info>
+	</item>
+	<item>
+		<title>TRANSFORMERS: LA ERA DE LA EXTINCION</title>
+		<microhd>7a8e9cb180ae691a800a23b2fadfa0bbe16cf918</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>6c2e702412e2272fbf5136cb288ce8248d1859d3</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/dvbXltyUfYjlWA9vhuIr7zNIucr.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/alItugxBbjNC10ezLSisplhSKJ.jpg</fanart>
+		<date>2014</date>
+		<genre>Ciencia ficción. Acción. Aventuras. Comedia.Saga</genre>
+		<extra>NA</extra>
+		<info>Han pasado 4 años desde la tragedia de Chicago y la humanidad sigue reparando los destrozos, pero tanto los Autobots como los Decepticons han desaparecido de la faz de la Tierra. Ahora el Gobierno de los Estados Unidos está utilizando la tecnología rescatada en el asedio de Chicago para desarrollar sus propios Transformers. Al frente del proyecto está Joshua Joyce (Stanley Tucci), un arrogante diseñador que piensa que los Autobots son "basura tecnológica" y se cree capaz de fabricar unos robots infinitamente más avanzados. Mientras tanto, Cade Yeager (Mark Wahlberg), un mécánico inventor, encuentra un Marmon semi-trailer. Al intentar repararlo, descubre que el camión no solo era un Transformer, sino también el mismísimo Optimus Prime, líder de los Autobots. Lo que Cade ignora son las consecuencias que pueden derivarse de este hallazgo.</info>
+	</item>
+	<item>
+		<title>TRANSFORMERS: LA VENGANZA DE LOS CAIDOS</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>11cf8798527e1ae26aef94a9a8f998ad652bf00e</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/pRGFjbsddmGotXkXlX12gxjxPqF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6bCbeby0e1yzYbsKIvwP0Z71GdC.jpg</fanart>
+		<date>2009</date>
+		<genre>Ciencia ficción. Acción .Saga</genre>
+		<extra>NA</extra>
+		<info>Han pasado dos años desde que el joven Sam Witwicky (Shia LaBeouf) salvara al universo de una decisiva batalla entre dos razas de alienígenas robóticos en guerra. Pese a su extrema heroicidad, Sam sigue siendo un adolescente normal con las preocupaciones cotidianas de prepararse para ir a la universidad, dejando atrás a su novia Mikaela (Megan Fox), y separándose por primera vez de sus padres. El objetivo de Sam es llevar una vida universitaria normal pero, para hacerlo, deberá olvidar su destino. Mientras Sam ha hecho todo lo posible por dejar atrás el conflicto de Mission City y volver a su rutina diaria, la batalla entre los Autobots y los Decepticons, aunque haya sido un incidente súper secreto, ha provocado muchos cambios. El Sector 7 ha sido desmantelado y el agente Simmons (John Turturro), despedido. En su lugar se ha creado una nueva agencia, NEST. Empleando mandos con experiencia de campo como Lennox (Josh Duhamel) y Epps (Tyrese Gibson), NEST pretende trabajar codo con codo con los Autobots para evitar otra confrontación mortal con los Decepticons. </info>
 	</item>
 	<item>
 		<title>TRES ANUNCIOS EN LAS AFUERAS</title>
