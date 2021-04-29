@@ -1,4 +1,5 @@
-
+W
+P
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -5389,7 +5390,7 @@
 		<microhd>34e610824dc9d6b28a1d361aa05b46d671d1739f</microhd>
 		<fullhd>77505a7d4f9ef577b85b4ffa3d9a0789a40d4de5</fullhd>
 		<tresd>949fa3d7136e2a34e0a4ce35e24abe49e6cc0a2e</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>a9e312efbef6495c948a6866449a2a7f70545ea1</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/w22GrhGKpi5jdAmE6tbWCHApiG4.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/pLgSLx9dn2YYbwVk8p0F28KIU8C.jpg</fanart>
 		<date>2016</date>
@@ -6612,7 +6613,7 @@
 		<fullhd>d64e98895e06521717a47edcd6adf4e28413631e</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
-		<thumbnail>https://image.tmdb.org/t/p/original/cV8UQKK8giYB2kA7wL6rtyoISD.jpg</thumbnail>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ahsMZ2PCIVi5qGoPKjjeG3ZznjA.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/rgyhSn3mINvkuy9iswZK0VLqQO3.jpg</fanart>
 		<date>2017</date>
 		<genre>Fantastico. Drama. Romance. Thriller</genre>
@@ -6910,7 +6911,7 @@
 		<microhd>cd096fa2d2a97479a665f3e7c6c54c87a79d999d</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>692c0fb195171a2fb7634ea006a3ca2c2857f320</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/1EFS40uFzv5ZVLSpu3xqYqnou67.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg</fanart>
 		<date>1999</date>
@@ -10505,6 +10506,19 @@
 		<genre>Thriller. Acción </genre>
 		<extra>Mis</extra>
 		<info>La lealtad de Evelyn Salt (Angelina Jolie), una agente de la CIA, es puesta a prueba cuando un desertor la acusa de ser una espía rusa. Entonces, se ve obligada a huir y a servirse de todos sus conocimientos y experiencia para evitar que la capturen. Sus esfuerzos para demostrar su inocencia son inútiles. Mientras tanto, continúa la caza para descubrir su verdadera identidad.</info>
+	</item>
+	<item>
+		<title>SALVAJE</title>
+		<microhd>03581207ce1135ad6c3443067fec92b34594e796</microhd>
+		<fullhd>e1d73484d5809ea73773c937be3d601e2a275a5d</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>910acd0df4a835b473ee5e6af37fff3ed1ccc37f</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/zmsAZfYMe3m9JkCLrY7dVQrM90P.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jP1bstw54tT4AhCDEp7K3gsMShE.jpg</fanart>
+		<date>2020</date>
+		<genre>Thriller. Acción</genre>
+		<extra>Estreno</extra>
+		<info>En medio de un atasco, una mujer conduciendo toca el claxon de su coche en el momento equivocado, al hombre equivocado.</info>
 	</item>
 	<item>
 		<title>SALVAR AL SOLDADO RYAN</title>
