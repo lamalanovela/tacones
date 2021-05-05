@@ -1,5 +1,4 @@
-W
-P
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -4294,6 +4293,19 @@ P
 		<info>Año 1757, hace tres años que franceses e ingleses luchan en tierras norteamericanas. Mientras que los franceses cuentan con el apoyo de los nativos, los ingleses reclutan a los colonos blancos. Hawkeye -Ojo de halcón- (Daniel Day-Lewis) es un hombre blanco que fue adoptado por los indios mohicanos. Tras salvar de una emboscada de los hurones a Cora Munro (Madeleine Stowe) y a su hermana pequeña Alice (Jodhi May), hijas de un oficial británico, las acompaña hasta el fuerte inglés William Henry, que está sufriendo el asedio de los franceses y los hurones.</info>
 	</item>
 	<item>
+		<title>EL ULTIMO SAMURAI</title>
+		<microhd>71a319a9a58f02629510a703185d6a8b93d8d7e4</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>91cedafdc4e676a4841f2cf525851d0c76da1a47</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/DfwutbQodAsYxdqJu7Cme5jifC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/z354BaTVzKj7E60WLzDoSmUuO4u.jpg</fanart>
+		<date>2003</date>
+		<genre>Aventuras. Acción. Drama</genre>
+		<extra>Mis</extra>
+		<info>Año 1876. El capitán Nathan Algren es un hombre que sobrevive atormentado por los recuerdos de la Guerra Civil (1861-1865) y de las campañas contra los indios, en las que participó arriesgando su vida. Desde entonces, el mundo ha cambiado radicalmente: el pragmatismo ha reemplazado al valor, el interés personal ha ocupado el lugar del sacrificio, y el sentido del honor ha desaparecido. En un país muy lejano, otro soldado ve también cómo su modo de vida está a punto de desintegrarse. Es Katsumoto, el último líder de un antiguo linaje de guerreros, los venerados samuráis, que dedicaron sus vidas a servir al emperador y a preservar el espíritu de la milenaria cultura japonesa.</info>
+	</item>
+	<item>
 		<title>EL VERANO QUE VIVIMOS</title>
 		<microhd>NA</microhd>
 		<fullhd>70d79bca2d39f3b27c23a0b57b97057dbbef803f</fullhd>
@@ -5737,6 +5749,19 @@ P
 		<info>Una chica adolescente (Rugaard) es criada en un refugio subterráneo por una madre robot. Pero el vínculo entre ambas se ve amenazado cuando entra en escena una mujer desconocida y ensangrentada (Swank) que pone en tela de juicio todo lo que su madre robótica le ha enseñado sobre el mundo exterior.</info>
 	</item>
 	<item>
+		<title>I CARE A LOT</title>
+		<microhd>NA</microhd>
+		<fullhd>bb99faaf274cf62e196ee581add9ba4371e7da18</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/92JqGDguuNiGT1njV8ieyik5qpf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vX5JtEcumMQvMCLVcIqfetc7hdg.jpg</fanart>
+		<date>2020</date>
+		<genre>Thriller. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Marla Grayson (Rosamund Pike) no tiene escrúpulos a la hora de beneficiarse de los demás. Después de haberse aprovechado de docenas de jubilados como tutora legal, ella y su compañera Fran (Eiza González) ven a Jennifer Peterson (Dianne Wiest) como la nueva víctima: una gallina de los huevos de oro a la que pueden desplumar fácilmente. Pero mientras intentan llevar a cabo su plan, Marla y Fran descubren que la señora Peterson no es lo que creían, y que sus actos han entorpecido la labor de un importante criminal (Peter Dinklage)</info>
+	</item>
+	<item>
 		<title>I LOVE DOGS</title>
 		<microhd>201202fd499e90246b0e2e8971adfe78aff2d6e9</microhd>
 		<fullhd>NA</fullhd>
@@ -6437,6 +6462,19 @@ P
 		<genre>Infantil.</genre>
 		<extra>NA</extra>
 		<info>Hodja es un niño de Pjort, que toma prestada una alfombra voladora para ver el mundo. A cambio, tiene que encontrar y devolver el "diamante" a su abuelo.</info>
+	</item>
+	<item>
+		<title>LA APARIENCIA DE LAS COSAS</title>
+		<microhd>NA</microhd>
+		<fullhd>e560f84e432d1648b3320876a707d56a4edb27f4</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1wDmFicGRYetVMXcDmz0CvM7ZOJ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/owOBJlzH3j3YHUbr3XqSH10CWzo.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror. Thriller </genre>
+		<extra>Estreno</extra>
+		<info>Una pareja de Manhattan se muda a una aldea histórica en el valle del Hudson y acaba descubriendo que su matrimonio oculta una siniestra oscuridad que rivaliza con la historia de su nuevo hogar.</info>
 	</item>
 	<item>
 		<title>LA BELLA Y LA BESTIA</title>
@@ -7423,7 +7461,7 @@ P
 		<fanart>https://www.themoviedb.org/t/p/original/udc1W1WEqVrZl4iyddFzYBut54W.jpg</fanart>
 		<date>2019</date>
 		<genre>Drama. Thriller </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>A comienzos de la Segunda Guerra Mundial, con Reino Unido llegando a la desesperación, Churchill ordena a su nueva agencia de espionaje que reclute y entrene a mujeres espía.</info>
 	</item>
 	<item>
@@ -10807,6 +10845,19 @@ P
 		<info>William Munny (Clint Eastwood) es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega (Morgan Freeman) y de un joven inexperto (Jaimz Woolvett), Munny tendrá que matar a dos hombres que cortaron la cara a una prostituta.</info>
 	</item>
 	<item>
+		<title>SIN REMORDIMIENTOS</title>
+		<microhd>238de72e2209ad0b37a07c4262fdfe077392fddd</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>a9f52920f8525a18294daf491ac3a855bc5d7615</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3A2owG58gqx8fzRWhVOMAO6lbWq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fPGeS6jgdLovQAKunNHX8l0avCy.jpg</fanart>
+		<date>2021</date>
+		<genre>Acción. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Un comando SEAL de élite descubre una conspiración internacional mientras busca hacer justicia por el asesinato de su mujer en Sin remordimientos, de Tom Clancy. El explosivo origen del héroe de acción John Clark, uno de los personajes más populares del universo Jack Ryan, del escritor Tom Clancy</info>
+	</item>
+	<item>
 		<title>SKIN</title>
 		<microhd>3a89d1b05603c358edd58e83904b593ce0e88806</microhd>
 		<fullhd>1be1222a594714e0998c8f951b02992ce73dc587</fullhd>
@@ -12456,6 +12507,19 @@ P
 		<genre>Thriller. Drama</genre>
 		<extra>Culto</extra>
 		<info>Henry Hill, hijo de padre irlandés y madre siciliana, vive en Brooklyn y se siente fascinado por la vida que llevan los gángsters de su barrio, donde la mayoría de los vecinos son inmigrantes. Paul Cicero, el patriarca de la familia Pauline, es el protector del barrio. A los trece años, Henry decide abandonar la escuela y entrar a formar parte de la organización mafiosa como chico de los recados; muy pronto se gana la confianza de sus jefes, gracias a lo cual irá subiendo de categoría.</info>
+	</item>
+	<item>
+		<title>UNO DE NOSOTROS</title>
+		<microhd>ce9df53bda514302343f941ef9c1a03d19490589</microhd>
+		<fullhd>e0f4c83a9a52f5a9c8f39c1227045e2294bd470c</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>c2cce58f8aa83c43264b16b41e2e9fea0069f691</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rMAeMVNJTlNG06zuKDe5KqArPhu.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/cSpwQ1BekQ6SL8JpUDmfsCBxJDz.jpg</fanart>
+		<date>2020</date>
+		<genre>Thriller. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Tras sufrir la pérdida de su hijo, el sheriff jubilado George Blackledge (Costner) y su mujer Margaret (Lane) dejan su rancho en Montana para tratar de rescatar a su nieto en Dakota. El niño está bajo la tutela de la poderosa familia Weboy, pues la nuera se ha vuelto a casar con otro hombre. La matriarca Blanche Weboy, tras descubrir las intenciones de los Blackledge, decide hacer todo lo posible para impedir que el niño regrese con sus abuelos.</info>
 	</item>
 	<item>
 		<title>UNO MAS DE LA FAMILIA</title>
