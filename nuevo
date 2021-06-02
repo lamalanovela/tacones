@@ -1,4 +1,4 @@
-w
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -3309,7 +3309,7 @@ w
 		<microhd>3b60383e1d4dd96db3eb46cbea207c2b200752c9</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>f0619d0fb0c9fc2a4ab4b4176d39aa1ea506e754</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/u7AE0gjhOKZ0hdhaaSAnCmZWVdJ.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg</fanart>
 		<date>1973</date>
@@ -3777,7 +3777,7 @@ w
 		<microhd>f725acf5c9ce97f4e22a3b566ae202844ee598ec</microhd>
 		<fullhd>65126d56790886a4dc6de74edd1ee7345426c91c</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>fc4803d97f849fcd5443135993192900d9461eea</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/3SozaNPOYUadcmTPgndDibMyDNC.jpg</fanart>
 		<date>2014</date>
@@ -3790,7 +3790,7 @@ w
 		<microhd>NA</microhd>
 		<fullhd>90472ef4182c1912f59bee93efbf6c07cddcdc89</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>8bd68496a4dbff67d703d23cf1ae43eba824afba</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/kZuR5hZ1dzXE2EEhOlWBLhcLelj.jpg</fanart>
 		<date>2011</date>
@@ -3842,7 +3842,7 @@ w
 		<microhd>eb3ae78f0e7e01f992fd2830fb5f64281a914683</microhd>
 		<fullhd>594b47aec6c46c724a00828d8b773cf56276b81a</fullhd>
 		<tresd>9a6d99510909f7140cf4431a49b78311431528c8</tresd>
-		<cuatrok>ea203926031758eddea8d7494d2890c3f8b7cbe1</cuatrok>
+		<cuatrok>231075c9194266bc41e3d1c8dd22dcb8f66032f1</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/lTwp3vdxcewkaLw41w0mVGRsHYw.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/ulMscezy9YX0bhknvJbZoUgQxO5.jpg</fanart>
 		<date>2017</date>
@@ -6516,30 +6516,30 @@ w
 		<info>Tres fareros llegan a una isla despoblada. Thomas, James y Donald comienzan sus tareas en el faro hasta que un día topan con algo extraño, algo que no es exactamente lo que un farero debería vigilar. Las cosas se complican cuando avistan un barco que podría tener todas las respuestas, desatando una serie de sucesos progresivamente trágicos. Basada en la leyenda de la isla de Flannan.</info>
 	</item>
 	<item>
-		<title>KILL BIL: VOLUMEN 2</title>
-		<microhd>NA</microhd>
-		<fullhd>184dfc49a6c348b035e616b5061286f1f724be75</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/e5BEz8Jq7xR2kzWab1GllAlLUf7.jpg</fanart>
-		<date>2004</date>
-		<genre>Acción. Thriller</genre>
-		<extra>Culto</extra>
-		<info>Tras eliminar a algunos miembros de la banda que intentaron asesinarla el día de su boda, "Mamba Negra" (Uma Thurman) intenta acabar con los demás, especialmente con Bill, su antiguo jefe (David Carradine), que la había dado por muerta.</info>
-	</item>
-	<item>
 		<title>KILL BILL: VOLUMEN 1</title>
 		<microhd>NA</microhd>
 		<fullhd>3b0a673e5c2767051b42c79f87b4f68dd906f87e</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>4334ea87fdc8f3b3cfa3827c4eef74762758a330</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/lfj709InbmljVqAXgUk2qjnujNN.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/fQ1IUeZCCLq7vI5xtylj6bHIuZF.jpg</fanart>
 		<date>2003</date>
 		<genre>Acción. Thriller</genre>
 		<extra>Culto</extra>
 		<info>El día de su boda, una asesina profesional (Thurman) sufre el ataque de algunos miembros de su propia banda, que obedecen las órdenes de Bill (David Carradine), el jefe de la organización criminal. Logra sobrevivir al ataque, aunque queda en coma. Cuatro años después despierta dominada por un gran deseo de venganza.</info>
+	</item>
+	<item>
+		<title>KILL BILL: VOLUMEN 2</title>
+		<microhd>NA</microhd>
+		<fullhd>184dfc49a6c348b035e616b5061286f1f724be75</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>af4b0cc551dcdcc83a865cac56ad281817ac2136</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/e5BEz8Jq7xR2kzWab1GllAlLUf7.jpg</fanart>
+		<date>2004</date>
+		<genre>Acción. Thriller</genre>
+		<extra>Culto</extra>
+		<info>Tras eliminar a algunos miembros de la banda que intentaron asesinarla el día de su boda, "Mamba Negra" (Uma Thurman) intenta acabar con los demás, especialmente con Bill, su antiguo jefe (David Carradine), que la había dado por muerta.</info>
 	</item>
 	<item>
 		<title>KILLERMAN</title>
@@ -7115,7 +7115,7 @@ w
 	</item>
 	<item>
 		<title>LA MILLA VERDE</title>
-		<microhd>cd096fa2d2a97479a665f3e7c6c54c87a79d999d</microhd>
+		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>692c0fb195171a2fb7634ea006a3ca2c2857f320</cuatrok>
@@ -8947,6 +8947,19 @@ w
 		<info>Un submarino de aguas profundas, que forma parte de un programa internacional, es atacado por una enorme criatura y queda averiado en el fondo de la fosa oceánica más profunda del Pacífico, con su tripulación atrapada en el interior. El tiempo se acaba y un oceanógrafo chino, el Dr. Chang, recluta a Jonas Taylor (Jason Statham), un especialista en rescate en aguas profundas, en contra de los deseos de su hija Suyin (Li Bingbing) que cree que puede rescatar a la tripulación por sus propios medios. Pero ambos deberán unir sus fuerzas para salvar a la tripulación y también al océano de una amenaza imparable: un tiburón prehistórico de 23 metros conocido con el nombre de Megalodón. Aunque se creía que estaba extinguido, el Meg está vivo y coleando... y está de caza. Cinco años antes, Jonas se había encontrado con esta misma criatura aterradora, pero nadie le creyó en ese momento. Ahora Jonas debe enfrentarse a sus miedos para volver a las profundidades marinas... donde volverá a verse cara a cara con el depredador más temible de todos los tiempos.</info>
 	</item>
 	<item>
+		<title>MELODIA DE SEDUCCION</title>
+		<microhd>NA</microhd>
+		<fullhd>2f8a688c450ace65dc0c246cfc8bdb246c4d8529</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/p9FecqQhylTZEgzl1nRkoD7LV5O.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/f2BSeNo3erIc9m8m4cjHBWRB7Te.jpg</fanart>
+		<date>1989</date>
+		<genre>Intriga. Thriller. Drama</genre>
+		<extra>Mis</extra>
+		<info>Un hombre aparece muerto en la cama de un tiro en la nuca. Frank (Al Pacino), el policía encargado del caso, sospecha que lo ha asesinado una mujer. Un compañero (John Goodman) que se ocupa de un caso idéntico coincide con su teoría. Las dos víctimas habían puesto sendos anuncios en verso en una revista de contactos. Poco después, otro hombre, que también publicó un anuncio similar en la misma revista, muere del mismo modo que los otros dos. Obviamente sólo hay un camino para llegar hasta el criminal: anunciarse en verso en la misma revista.</info>
+	</item>
+	<item>
 		<title>MEMENTO</title>
 		<microhd>d621da82a987bf65d4421033a0897eed2fe2aac8</microhd>
 		<fullhd>NA</fullhd>
@@ -10676,6 +10689,19 @@ w
 		<info>'Rocketman' es la historia de Elton John, desde sus años como niño prodigio del piano en la Royal Academy of Music hasta llegar a ser una superestrella de fama mundial gracias a su influyente y duradera asociación con su colaborador y letrista Bernie Taupin. </info>
 	</item>
 	<item>
+		<title>ROCKNROLLA</title>
+		<microhd>NA</microhd>
+		<fullhd>76c1f3b3c5ec71d436ce07acc09ef4d8b8656392</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/fToZMkSQ1xSrhETOfBIdNXQWCyp.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wqCNT7txsPOMxwac3aO9JFEYYt1.jpg</fanart>
+		<date>2008</date>
+		<genre>Thriller. Acción</genre>
+		<extra>Mis</extra>
+		<info>La noticia de que Uri Omovich (Karel Roden), un rico mafioso ruso, está montando un negocio multimillonario de compraventa ilegal de terrenos en Londres, hará que todos los delincuentes de la ciudad quieran participar en la operación. Uri le pide a Lenny Cole (Tom Wilkinson), un pez gordo de la mafia londinense, que se ocupe de todos los trámites burocráticos y compré a un concejal (Jimi Mistry). Lenny confía la operación a su lugarteniente Archy (Mark Strong). Por su parte, la contable de Uri, Stella (Thandie Newton), decide llevarse parte del botín; para ello, contrata a dos mafiosos, que tienen cuentas pendientes con Lenny.</info>
+	</item>
+	<item>
 		<title>ROMA</title>
 		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
@@ -11155,6 +11181,19 @@ w
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>Un hombre joven desamparado, criado por cabezas rapadas y conocido entre los supremacistas blancos, da la espalda al odio y a la violencia con la esperanza de transformar su vida. Para ello, cuenta con la ayuda de un activista negro y de la mujer a la que ama... inspirada en hechos reales.</info>
+	</item>
+	<item>
+		<title>SLEEPY HOLLOW</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>f4d04a43a685af5fb525eb38bef7ee697198655f</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qpg4Bbe1qCfaY0NluSJ15k4OhzM.jpg</fanart>
+		<date>1999</date>
+		<genre>Intriga. Aventuras. Terror. Fantástico </genre>
+		<extra>Mis</extra>
+		<info>Norteamérica, finales del siglo XVIII. El condestable Ichabod Crane (Johnny Depp), un investigador de Nueva York que utiliza avanzados métodos de averiguación, es enviado al pequeño y remoto pueblo de Sleepy Hollow para descubrir qué hay de verdad en la leyenda de un jinete sin cabeza que aterroriza a los habitantes del</info>
 	</item>
 	<item>
 		<title>SLENDER MAN</title>
@@ -11664,8 +11703,21 @@ w
 		<info>La vida de un apacible conductor de Uber, Stu (Kumail Nanjiani), cambia repentinamente cuando se sube a su vehículo un pasajero (Dave Bautista) que resulta ser un policía que sigue la pista a un brutal asesino. Stu se ve obligado a luchar por salvar la vida, protagonizando una misión en la que nunca pidió participar, y cuyo principal objetivo tiene claro desde que descubre lo que está sucediendo: obtener las cinco estrellas de calificación en este movido viaje.</info>
 	</item>
 	<item>
+		<title>SUPER 8</title>
+		<microhd>673a71b0a4a14657200eefdd9529b5ef184a345a</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>eb70b37873134c8ddafa6ed0cc5a15e15d4cd63d</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yuRzxw2zQNkiaEmbAIXEwIb6JLJ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qdoBaE4nFcSOIrS3TPUCJ1t8xOh.jpg</fanart>
+		<date>2011</date>
+		<genre>Ciencia ficción. Aventuras</genre>
+		<extra>Mis</extra>
+		<info>Año 1979, en una pequeña población de Ohio. Joe Lamb (Joel Courtney), un muchacho que vive en un pueblo de Ohio, acaba de perder a su madre en un accidente y vive con su padre, que es policía (Kyle Chandler). Meses después, durante el verano, Joe y sus amigos ruedan una película de zombis en Super 8 cuando contempla cómo una camioneta se estrella contra un tren de mercancías, provocando su descarrilamiento y un terrible accidente. A partir de ese momento cosas extrañas e inexplicables comienzan a suceder en el pueblo.</info>
+	</item>
+	<item>
 		<title>SUPERLOPEZ</title>
-		<microhd>ecd404c6b6a9af305b1147cad2696982bc4a5921</microhd>
+		<microhd>1c2d64a2aa987b1bfe5c5445ef74122d5c6e6520</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
@@ -11824,7 +11876,7 @@ w
 		<microhd>4786da130a04b7adc43b41727e2b34e2d529bfbd</microhd>
 		<fullhd> d93a5ce8491f4f9bb4ff5c703577f68bca0a6457</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>c8903d96b39ff218385179fe68541f71fe11a55e</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/qv9lAuQKPXFbOp59J1vqwXONxih.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg</fanart>
 		<date>1991</date>
@@ -13512,7 +13564,7 @@ w
 	<item>
 		<title>ZONA HOSTIL</title>
 		<microhd>ecc607e3083a860f567082b53af5b4cdccf24f53</microhd>
-		<fullhd>87c4fb1b85ebd7af80dc639da5cc0cd9e6700ed9</fullhd>
+		<fullhd>f60af11a1f333eee39c0002834918d52bd1d683f</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/q5wL8vigVtWBmyxbqMnvqIacxHE.jpg</thumbnail>
