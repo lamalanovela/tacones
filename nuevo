@@ -990,19 +990,6 @@
 		<info>La película retoma la historia de Disney desde el momento en que la madre de Bambi es capturada por los cazadores y el pequeño cervatillo tiene que aprender a valerse por si mismo con la ayuda de un padre poco habituado a tratar con pequeños. </info>
 	</item>
 	<item>
-		<title>BARRENDEROS ESPACIALES</title>
-		<microhd>028effc4b6598534dd97c6005ed6727011d5b50a</microhd>
-		<fullhd>c2092669882293887ebdbf45ab3e641550d471b5</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/9A9kcmNQjK0YB7j4qy5xc2yOlWV.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg</fanart>
-		<date>2021</date>
-		<genre>Ciencia ficción</genre>
-		<extra>NA</extra>
-		<info>Un grupo de astronautas se encuentran en una estación espacial. Tae Ho es un piloto de la nave 'Spaceship Victory' en la que la Capitana, Park Tigre y el robot son parte de la tripulación.</info>
-	</item>
-	<item>
 		<title>BARRY SEAL EL TRAFICANTE</title>
 		<microhd>2c341de116229bfb1dc611933bb955143d860ce3</microhd>
 		<fullhd>dec3e7053ac1f70c328099d76d486b3b8586caed</fullhd>
@@ -1935,7 +1922,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/uQtqiAu2bBlokqjlURVLEha6zoi.jpg</fanart>
 		<date>2021</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Cuenta la historia real de Nico Walker, que volvió de la guerra de Iraq con un trastorno de estrés postraumático no diagnosticado que le llevó primero a hacerse adicto al opio y posteriormente a robar bancos.</info>
 	</item>
 	<item>
@@ -2340,6 +2327,19 @@
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente Rocky Balboa está a su lado a lo largo de todo el camino, y juntos se cuestionarán por lo que vale la pena luchar y descubrirán que nada es más importante que la familia... Secuela de "Creed", el spin-off de Rocky que en 2015 obtuvo muy buenas críticas y dio inicio a una nueva saga.</info>
+	</item>
+	<item>
+		<title>CRISIS</title>
+		<microhd>40acabb80fff7c297c68a80b3bec1f3dd54c4fee</microhd>
+		<fullhd>cab16419619236e178abde9de4bb64fdafdba059</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ao4JajLcPITivfstlzENge3MPkq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gFDOQMQwo5UWegXE5kNEchn1eKx.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Tres historias sobre el mundo de los opiáceos chocan entre sí: un traficante de drogas planea una operación que implica a varios cárteles entre Canadá y los Estados Unidos; una arquitecta que se recupera de una fuerte adicción al OxyContin descubre la verdad que esconde su hijo de su relación con la droga; un profesor de universidad trata de averiguar qué relación une al gobierno con una compañía farmacéutica que está diseñando un nuevo analgésico que aseguran no "provoca ninguna adicción".</info>
 	</item>
 	<item>
 		<title>CRONICAS DE NAVIDAD</title>
@@ -3682,6 +3682,19 @@
 		<info>Mónica ve cómo, de repente, Clara, su hija, entra en un coma profundo e inexplicable. Cuando los médicos la dan por muerta, un desconocido le propone un pacto: él salvará a Clara pero, a cambio, Mónica deberá entregarle una vida. Mónica acepta y, contra todo pronóstico, su hija se salva. Ahora ella deberá entregarle otra vida a cambio.</info>
 	</item>
 	<item>
+		<title>EL PADRE</title>
+		<microhd>NA</microhd>
+		<fullhd>6d8a0e7192a2bd0feb4e274820608e88c462fe5e</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>2419be6fd35d2c2789a66d680e74726b43b81cb8</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yjY9ElmM48sZaW1xktVyM2aa5QB.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xaARARWguVSXtMlr4z6xMiePe2i.jpg</fanart>
+		<date>2020</date>
+		<genre>Estreno</genre>
+		<extra>Drama</extra>
+		<info>Anthony (Anthony Hopkins), un hombre de 80 años mordaz, algo travieso y que tercamente ha decidido vivir solo, rechaza todos y cada uno de las cuidadoras que su hija Anne (Olivia Colman) intenta contratar para que le ayuden en casa. Está desesperada porque ya no puede visitarle a diario y siente que la mente de su padre empieza a fallar y se desconecta cada vez más de la realidad. Anne sufre la paulatina pérdida de su padre a medida que la mente de éste se deteriora, pero también se aferra al derecho a vivir su propia vida.</info>
+	</item>
+	<item>
 		<title>EL PADRINO</title>
 		<microhd>161acc9453d65abe0ad2e2d8aa22348951bd43ad</microhd>
 		<fullhd>NA</fullhd>
@@ -4510,7 +4523,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/a9jZrU7LJk6mAUjmkbEmTiC52l0.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia . Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>El joven Peter se ve obligado a abandonar su habitación cuando su abuelo Ed (Robert De Niro), recientemente enviudado, se muda a su casa. Con la ayuda de sus amigos, Peter declara la guerra a su abuelo para hacerle abandonar la habitación, pero Ed es un testarudo y no va a ponérselo nada fácil.</info>
 	</item>
 	<item>
@@ -5316,7 +5329,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/pX0xvPSj6GUBRpf0thzZSZsekQK.jpg</fanart>
 		<date>2021</date>
 		<genre>Acción. Fantástico. Ciencia ficción </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Kong y sus protectores emprenderán un peligroso viaje para encontrar su verdadero hogar. Con ellos está Jia, una joven huérfana con la que el gigante tiene un vínculo único y poderoso. En el camino se cruzan inesperadamente con el de un Godzilla enfurecido que va causando destrucción a su paso por el mundo. El choque épico entre los dos titanes -provocado por fuerzas invisibles- es solo el comienzo del misterio que se esconde en las profundidades del núcleo de la Tierra.</info>
 	</item>
 	<item>
@@ -5654,7 +5667,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/vx4bevtt3ZVgezPZsuiVxm90l5E.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>El día que Ángel habló con Estrella en aquella discoteca, su vida cambió para siempre. Tras una pelea con Poli, el posesivo novio de la chica, éste le anima a unirse a una banda de atracadores que tiene en jaque a toda la policía de Madrid. Ángel comienza a escalar rápidamente en una pirámide de atracos, dinero negro, negocios turbios y abogados corruptos que le llevarán a ser acorralado por Duque, un incansable detective. Desoyendo los consejos de su gente, Ángel consigue ascender hasta convertirse en el protegido de Rogelio, uno de los tipos que controla el mercado negro de la ciudad. Con éste y Sole, hija del capo, Ángel descubrirá que el precio del poder es alto y que pronto tendrá que decidir entre su futuro como atracador y el amor de su vida, Estrella. Un viaje que empezó en el más sucio de los suburbios y que tiene como principal objetivo lo más alto: el cielo.</info>
 	</item>
 	<item>
@@ -5901,7 +5914,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/pgpOc0sGOiZ59omUh6xLMpbghiz.jpg</fanart>
 		<date>2019</date>
 		<genre>Drama . Musical</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Cuenta la historia de la cantante y activista Helen Reddy, que se dio a conocer durante la década de los años 70</info>
 	</item>
 	<item>
@@ -5914,7 +5927,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/vX5JtEcumMQvMCLVcIqfetc7hdg.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Marla Grayson (Rosamund Pike) no tiene escrúpulos a la hora de beneficiarse de los demás. Después de haberse aprovechado de docenas de jubilados como tutora legal, ella y su compañera Fran (Eiza González) ven a Jennifer Peterson (Dianne Wiest) como la nueva víctima: una gallina de los huevos de oro a la que pueden desplumar fácilmente. Pero mientras intentan llevar a cabo su plan, Marla y Fran descubren que la señora Peterson no es lo que creían, y que sus actos han entorpecido la labor de un importante criminal (Peter Dinklage)</info>
 	</item>
 	<item>
@@ -6020,6 +6033,58 @@
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>El hijo (Lucas Hedges) de un predicador baptista de una pequeña ciudad norteamericana, se ve obligado a participar en un programa para "curar" su homosexualidad, apoyado por la Iglesia. Cuando a los 19 años Jared Eamons (Lucas Hedges) cuenta a sus padres Nancy y Marshall Eamons (Nicole Kidman y Russell Crowe) que es gay, el joven comienza a ser presionado para que asista a un programa de terapia de conversión gay, o de lo contrario será rechazado por su familia, su amigos y la iglesia. Dentro del programa Jared entrará en conflicto con el terapeuta jefe Victor Sykes (Joel Edgerton).</info>
+	</item>
+	<item>
+		<title>INDIANA JONES EN BUSCA DEL ARCA PERDIDA</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>c6699d42f860ccd9d7bad858caf610137a027311</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg</fanart>
+		<date>1981</date>
+		<genre>Aventuras. Acción . Saga</genre>
+		<extra>NA</extra>
+		<info>Año 1936. Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.</info>
+	</item>
+	<item>
+		<title>INDIANA JONES Y EL REINO DE LA CALAVERA DE CRISTAL</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>5aa95f7dd6db3393e7248c043f82ce91f67eaca0</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eahWIgjttYQu4Ih8HwhF9sdexYk.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/p96949hcwUG2BwE6MgKmw0uYNCx.jpg</fanart>
+		<date>2008</date>
+		<genre>Aventuras. Acción. Ciencia ficción. Saga</genre>
+		<extra>NA</extra>
+		<info>Año 1957, en plena guerra fría. Indiana Jones (Harrison Ford) consigue de milagro salir ileso de una explosiva situación con unos agentes soviéticos en un remoto desierto al que llegó detenido junto a su amigo Mac (Ray Winstone). El decano de la Universidad (Jim Broadbent) le confiesa a su amigo el profesor Jones que las últimas misiones de Indy han fracasado, y que está a punto de ser despedido. Mientras tanto, Indiana conoce a Mutt (Shia LaBeouf), un joven rebelde que le propone un trato: si le ayuda a resolver un problema personal, él, a cambio, le facilitaría uno de los descubrimientos más espectaculares de la historia: la Calavera de Cristal de Akator, que se encuentra en un lugar remoto del Perú. Pero los agentes soviéticos, dirigidos por la fría y bella Irina Spalko (Cate Blanchett), tienen el mismo objetivo.</info>
+	</item>
+	<item>
+		<title>INDIANA JONES Y EL TEMPLO MALDITO</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>5b3b13c44cf9fd60f0d75b60d8fe67f0e8d38407</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg</fanart>
+		<date>1984</date>
+		<genre>Aventuras. Acción. Saga</genre>
+		<extra>NA</extra>
+		<info>1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.</info>
+	</item>
+	<item>
+		<title>INDIANA JONES Y LA ULTIMA CRUZADA</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>9ba556924bd4b17a886345aa8997a2b1a7a934c8</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/osKZUgKRUK1jwYMdsmlevK7zZIY.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/267Mdb5i1AXuVN64DhVEOUPmM25.jpg</fanart>
+		<date>1989</date>
+		<genre>Aventuras. Acción . Saga</genre>
+		<extra>NA</extra>
+		<info>En esta tercera entrega, el padre del protagonista (Harrison Ford), Henry Jones, también arqueólogo (Sean Connery), es secuestrado cuando buscaba el Santo Grial. Indiana tendrá que ir a rescatarlo y, de paso, intentar hacerse con la preciada reliquia, que también ambicionan los nazis.</info>
 	</item>
 	<item>
 		<title>INFIERNO BAJO EL AGUA</title>
@@ -6382,7 +6447,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/fatz1aegtBGh7KS0gipcsw9MqUn.jpg</fanart>
 		<date>2021</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Fred Hampton tenía 21 años cuando fue asesinado por el FBI, quien coaccionó a un delincuente menor llamado William O'Neal para ayudarlos a silenciarlo a él y al Partido Pantera Negra. Pero no pudieron matar el legado de Fred Hampton.</info>
 	</item>
 	<item>
@@ -6629,7 +6694,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/owOBJlzH3j3YHUbr3XqSH10CWzo.jpg</fanart>
 		<date>2021</date>
 		<genre>Terror. Thriller </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Una pareja de Manhattan se muda a una aldea histórica en el valle del Hudson y acaba descubriendo que su matrimonio oculta una siniestra oscuridad que rivaliza con la historia de su nuevo hogar.</info>
 	</item>
 	<item>
@@ -7786,7 +7851,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/y7b78soqvJq4aQ8G0Zt72inSQoE.jpg</fanart>
 		<date>2021</date>
 		<genre>Romance. Comedia. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Tras conocer y pasar una noche con Carla (Susana Abaitua), la chica de sus sueños, Adri (Álvaro Cervantes) descubre que se ha escapado de un hospital psiquiátrico. Locamente enamorado y dispuesto a hacer lo que sea para volver a verla, Adri se interna como un paciente más con el fin de conquistar a Carla y, de paso, escribir el mejor reportaje de su vida para la revista Load. Pero, una vez dentro, no solo descubre que su historia de amor no es como él esperaba, sino que no va a ser tan fácil salir de allí. Con la ayuda de Saúl (Luis Zahera), su compañero de habitación, Adri comenzará un viaje de aprendizaje que lo acercará al resto de pacientes y a Carla, y lo obligará a replantearse no solo su objetivo inicial sino su visión del mundo.</info>
 	</item>
 	<item>
@@ -9294,7 +9359,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg</fanart>
 		<date>2021</date>
 		<genre>Acción. Aventuras. Fantástico</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>En “Mortal Kombat”, Cole Young, el luchador de MMA (Artes Marciales Mixtas), acostumbrado a recibir palizas por dinero, desconoce su ascendencia, y tampoco sabe por qué el emperador Shang Tsung de Outworld ha enviado a su mejor guerrero, Sub-Zero, un Cryomancer sobrenatural, para dar caza a Cole. Cole teme por la seguridad de su familia y busca a Sonya Blade siguiendo las indicaciones de Jax, un comandante de las Fuerzas Especiales que tiene la misma extraña marca de dragón con la que nació Cole. No tarda en llegar al templo de Lord Raiden, un Dios Anciano y el protector de Earthrealm, que ofrece refugio a los que llevan la marca. Aquí, Cole entrena con los experimentados guerreros Liu Kang, Kung Lao y el mercenario rebelde Kano, mientras se prepara para enfrentarse a los mayores campeones de la Tierra contra los enemigos de Outworld (El Mundo Exterior) en una batalla de enorme envergadura por el universo. Veremos si los esfuerzos de Cole se ven recompensados y consigue desbloquear su arcana -ese inmenso poder que surge del interior de su alma— a tiempo de salvar no solo a su familia, sino para detener Outworld de una vez por todas.</info>
 	</item>
 	<item>
@@ -9437,7 +9502,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/ehpMUwekFSSlO7wtK2wdODbi7Hu.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Una mujer, después de perderlo todo durante la recesión, se embarca en un viaje hacia el Oeste americano viviendo como una nómada en una caravana. Tras el colapso económico que afectó también a su ciudad en la zona rural de Nevada, Fern toma su camioneta y se pone en camino para explorar una vida fuera de la sociedad convencional, como nómada moderna.</info>
 	</item>
 	<item>
@@ -9762,7 +9827,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/ha6qfRxIZhYMUjNkYV7xEPMcxTH.jpg</fanart>
 		<date>2021</date>
 		<genre>Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un sheriff (Washington) y un detective de homicidios (Malek) han de colaborar juntos para intentar dar caza a un astuto asesino en serie.</info>
 	</item>
 	<item>
@@ -10113,8 +10178,21 @@
 		<fanart>https://www.themoviedb.org/t/p/original/zToIeSFHFpclibA6zIjtCRo7AxM.jpg</fanart>
 		<date>2021</date>
 		<genre>Ciencia ficción </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>La tripulación de una nave espacial que se dirige a Marte descubre inesperadamente la presencia de un polizón a bordo que provoca accidentalmente daños graves en los sistemas de soporte vital de la nave. Sin combustible para regresar a la Tierra y sin medios suficientes para sobrevivir mucho tiempo a la deriva, los tripulantes deciden "acabar" con la presencia del intruso a cualquier precio. Sólo una investigadora médica (Kendrick) que viaja con ellos se opone a una decisión que traerá consecuencias funestas para sus tripulantes.</info>
+	</item>
+	<item>
+		<title>POSSESSOR UNCUT</title>
+		<microhd>d88f29dfbfffa2c532a6334bafca5fa677d888a0</microhd>
+		<fullhd>8f514d3f8aafc5e6a7b349f72269bd63b335909d</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>7473098da19dfcd079256c50071ba529ffb6d505</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5Xz9A54GMf0AHCmtK19pR2QWsJd.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/yfzmUolgUOfuYP1K7IQQMcf3Yn0.jpg</fanart>
+		<date>2020</date>
+		<genre>Ciencia ficción. Terror. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Tasya Vos (Riseborough) es una agente de una organización secreta que utiliza implantes cerebrales para controlar el movimiento corporal de otras personas, obligándolas a cometer asesinatos que benefician a toda clase de peces gordos del mundo corporativo. Un día, durante una misión rutinaria, algo sale mal. La agente Vos se ve atrapada dentro de la mente de uno de los sujetos que trataba de controlar (Abbot), cuyo apetito por la violencia se acaba convirtiendo en su peor aliado, superando incluso el suyo propio.</info>
 	</item>
 	<item>
 		<title>PREDATOR</title>
@@ -10451,7 +10529,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg</fanart>
 		<date>2021</date>
 		<genre>Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>En el fantástico mundo de Kumandra, humanos y dragones vivieron juntos hace mucho tiempo en perfecta armonía. Pero cuando unas fuerzas del mal amenazaron el territorio, los dragones se sacrificaron para salvar a la humanidad. Ahora, 500 años después, esas mismas fuerzas malignas han regresado y Raya, una guerrera solitaria, tendrá que encontrar al último y legendario dragón para reconstruir un mundo destruido y volver a unir a su pueblo.</info>
 	</item>
 	<item>
@@ -10767,6 +10845,19 @@
 		<info>“Ralph rompe Internet" sale de los recreativos, y se adentra en el mundo inexplorado, expansivo y emocionante de Internet. Ralph y su compañera Vanellope tendrán que jugárselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar más las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos está un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de “BuzzTube”, la página web de moda del momento</info>
 	</item>
 	<item>
+		<title>RUEGA POR NOSOTROS</title>
+		<microhd>85a3d4ced25377749d83b6bc52403b56654c282a</microhd>
+		<fullhd>659ac55a9bd3aa198dc4116293920f6ca4cad4de</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>e0b7208038326696a8f12b5b79204adfee8bfc83</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror</genre>
+		<extra>Estreno</extra>
+		<info>Un periodista en horas bajas descubre una serie de aparentes milagros de una joven que dice haber sido visitada por la Virgen María, milagros acaecidos en un pequeño pueblo de Nueva Inglaterra. El periodista intentará tener la exclusiva de la historia para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho más oscura de lo que él cree</info>
+	</item>
+	<item>
 		<title>RUTA SUICIDA</title>
 		<microhd>NA</microhd>
 		<fullhd>c6a2dc621bb15b936e79b6037975c0c231852ebf</fullhd>
@@ -10802,7 +10893,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/jP1bstw54tT4AhCDEp7K3gsMShE.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller. Acción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>En medio de un atasco, una mujer conduciendo toca el claxon de su coche en el momento equivocado, al hombre equivocado.</info>
 	</item>
 	<item>
@@ -10984,7 +11075,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/bT44cNbePL3UMCmYG19WxxZkBdP.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Julio (Javier Cámara) y Ana (Griselda Siciliani) hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva (Alberto San Juan) y Laura (Belén Cuesta), una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirà la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.</info>
 	</item>
 	<item>
@@ -12484,7 +12575,7 @@
 	</item>
 	<item>
 		<title>TRAINSPOTTING</title>
-		<microhd>702772342e4acb312cd41892c4b34a97d99c974d</microhd>
+		<microhd>d9631c785d16a0f886733fc045b647960c76d65a</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
@@ -12661,7 +12752,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/tlHSgvyEC6FAAiwv0kSuhpZGpno.jpg</fanart>
 		<date>2019</date>
 		<genre>Terror</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un asesino en serie acude todos los años a un pueblo pequeño de distintas comarcas para cometer una serie de horribles asesinatos. Al tratarse de distintos estados y jurisdicciones, no parecen tener relación entre sí. Aunque nadie cree que éstos puedan haber sido cometidos por la misma persona, el detective Mike Denver (Mulroney) ya se ha enfrentado a Trick antes. O al menos, así lo afirma todo el mundo que le conoce. </info>
 	</item>
 	<item>
@@ -12873,6 +12964,19 @@
 		<info>Una madre joven que recientemente se ha quedado viuda lo hará todo para proteger a su hija mientras intenta descubrir la verdad sobre el asesinato de su marido.</info>
 	</item>
 	<item>
+		<title>UNA NOCHE DE VENGANZA (VANQUISH)</title>
+		<microhd>a4eec660dc8a3295cdceff32605de3e75c805890</microhd>
+		<fullhd>a979897f29b5cd09c7f1f57569d421b316cf6799</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/wigMEbIKapuULU40ttlPBwJUJet.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/mYM8x2Atv4MaLulaV0KVJWI1Djv.jpg</fanart>
+		<date>2021</date>
+		<genre>Acción. Thriller </genre>
+		<extra>Estreno</extra>
+		<info>Un comisionado de policía retirado chantajea a su cuidador secuestrando a su hija para que lo ayude a traicionar a sus sucios socios en un intento por limpiar la ciudad antes de que sea demasiado tarde.</info>
+	</item>
+	<item>
 		<title>UNA VIDA A LO GRANDE</title>
 		<microhd>58cd5d9e3148acf7867db90b8336f905f94ac2fe</microhd>
 		<fullhd>0b31c1fc12fdc763e55beaa90e2f5d13ba7464b0</fullhd>
@@ -12921,7 +13025,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/cSpwQ1BekQ6SL8JpUDmfsCBxJDz.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Tras sufrir la pérdida de su hijo, el sheriff jubilado George Blackledge (Costner) y su mujer Margaret (Lane) dejan su rancho en Montana para tratar de rescatar a su nieto en Dakota. El niño está bajo la tutela de la poderosa familia Weboy, pues la nuera se ha vuelto a casar con otro hombre. La matriarca Blanche Weboy, tras descubrir las intenciones de los Blackledge, decide hacer todo lo posible para impedir que el niño regrese con sus abuelos.</info>
 	</item>
 	<item>
