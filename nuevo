@@ -1,5 +1,4 @@
 
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -675,7 +674,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg</fanart>
 		<date>2021</date>
 		<genre>Thriller </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Connor (Finn Little), un niño testigo de un asesinato, es perseguido por dos asesinos a través de las tierras salvajes de Montana. Aunque cuenta con Hannah (Angelina Jolie), una bombero y experta en supervivencia, para evitar que los secuaces le den caza, un peligroso incendio cercano amenaza con acabar con la vida de todos los implicados.</info>
 	</item>
 	<item>
@@ -1169,7 +1168,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/oazPqs1z78LcIOFslbKtJLGlueo.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia. Ciencia ficción </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>A dos aspirantes a rockero de San Dimas, California, les aseguraron una vez no hace mucho tiempo que serían los salvadores del mundo después de protagonizar un viaje en el tiempo, pero la realidad es que hoy son padres de mediana edad que pasan los días tratando de componer una canción que valga la pena y de hacer que su destino se haga realidad.</info>
 	</item>
 	<item>
@@ -1598,7 +1597,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/8YpXQS3zo25ZexQVkQyhsLlzINB.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Tras pasar 10 años en prisión, el gánster Al Capone, de 47 años, comienza a sufrir de demencia y su mente comienza a ser acosada por los recuerdos de su violento pasado.</info>
 	</item>
 	<item>
@@ -2860,7 +2859,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/zfrJMwj7lJcciE4ZxhShfex5VZA.jpg</fanart>
 		<date>2021</date>
 		<genre>Acción. Terror</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un grupo de mercenarios decide llevar a cabo el mayor atraco que jamás se haya realizado en la ciudad de Las Vegas justo después de que se produzca una epidemia de muertos vivientes. Para ello tendrán que adentrarse en una zona de cuarentena, con los riesgos que ello conlleva.</info>
 	</item>
 	<item>
@@ -3939,7 +3938,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/kgP4YOUWKhJZWL0Z8LJ6G6LBMEM.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Francia, 1942. Gilles es arrestado por soldados de las SS junto con otros judíos y enviado a un campo de concentración en Alemania. Allí consigue evitar la ejecución al jurar a los guardias que no es judío, sino persa. Gracias a esta artimaña, Gilles consigue mantenerse con vida, pero tendrá que enseñar un idioma que no conoce a uno de los oficiales del campo, interesado en aprenderlo. Al tiempo que la relación entre ellos aumenta, las sospechas de los soldados van en incremento.</info>
 	</item>
 	<item>
@@ -4818,7 +4817,7 @@
 		<microhd>c5f4c0c913f410ecd78777bc30272e8ee88e0c9b</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>590f53efb77b74af199665ebf175e6feba869fb4</cuatrok>
+		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/gcLGhjQTDOYYeCCx4EzVfSRWG43.jpg</fanart>
 		<date>2018</date>
@@ -5933,10 +5932,10 @@
 	</item>
 	<item>
 		<title>I CARE A LOT</title>
-		<microhd>NA</microhd>
-		<fullhd>bb99faaf274cf62e196ee581add9ba4371e7da18</fullhd>
+		<microhd>b69126f326c0ac29dd3b708f832bf02757f32535</microhd>
+		<fullhd>385a120e6e6c5af1f04bd5381647c4c22a509d96</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>cd661b59bdf46b0687e0dd6db49e817243d778e3</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/92JqGDguuNiGT1njV8ieyik5qpf.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/vX5JtEcumMQvMCLVcIqfetc7hdg.jpg</fanart>
 		<date>2020</date>
@@ -6196,7 +6195,7 @@
 		<microhd>3836c98bb7d1b74aa37e668a7246adbcb397652f</microhd>
 		<fullhd>2248bd22278676cce950f437e1981f968aca1a31</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>6d9298147e3f2d59b31c2115ee67307b34c2bbdc</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/2zfMa4IHBRPVV5zv6pE6epkzoBW.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/23NVxWSXvlCFA60gPqf0xXrAObB.jpg</fanart>
 		<date>1992</date>
@@ -7176,7 +7175,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/gWE2VGDx5FyVxSMv7tH38P6PFPm.jpg</fanart>
 		<date>2019</date>
 		<genre>Terror</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Samuel es un niño parapléjico que vive junto a su madre Elena en Lake Manor (Torino, Italia), dentro de una mansión alejada de la civilización. El chico ha recibido órdenes de no abandonar nunca su casa, por lo que se siente seguro pero algo frustrado y oprimido. Su situación cambia cuando llega Denise, una ayudante adolescente que le ayuda a cambiar su punto de vista sobre la relación que le une con su madre. Sin embargo, Elena hará todo lo posible por impedir que su hijo se vaya de su lado, algo que confunde tanto a Denise como al propio Samuel, que sospecha que su madre oculta algo. </info>
 	</item>
 	<item>
@@ -7254,7 +7253,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/6P5vjT157AqjXDfTzmEXmOL2CIf.jpg</fanart>
 		<date>2021</date>
 		<genre>Intriga. Thriller </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>La Dra. Anna Fox, que sufre de agorafobia, pasa sus días encerrada en su casa de Nueva York, bebiendo vino mientras ve viejas películas y espía a sus vecinos. Un día, mientras mira por la ventana, ve algo que sucede enfrente de su casa, en el hogar de los Russell, una familia a la que todo el barrio toma por ejemplar... Nueva adaptación del bestseller de A.J. Finn. Guion escrito por el actor y escritor -ganador del premio Pulitzer- Tracy Letts.</info>
 	</item>
 	<item>
@@ -9689,6 +9688,19 @@
 		<info>Madrid 2019. Un asesino en serie está sembrando el caos. Personas anónimas están siendo asesinadas imitando las primeras apariciones de los súper héroes más conocidos. Cosme es el mejor detective de su comisaría, y está a punto de jubilarse contra su voluntad. David es su relevo, y es joven e impulsivo. Ambos tendrán la misión de encajar las piezas en un juego del que desconocen las reglas. En su aventura contarán con la ayuda de Jorge Elías, hijo de Cosme, entrañable friki y dueño de una tienda de cómics y de Norma, jefa de ambos y amante del manga y del cosplay. Dicen que algunas veces hay que ponerse el traje y salir a hacer de este mundo un lugar mejor. Puede que esta sea una de ellas.</info>
 	</item>
 	<item>
+		<title>OTRA VUELTA DE TUERCA</title>
+		<microhd>NA</microhd>
+		<fullhd>0494e4abe73f6b1e3ff6790b055061c9ff433233</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>e1309e5deb3bae57c2fffdf1c1c9d891e265d1a0</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/fy588otBtZqI6UBsIrZmXS0nKCH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tYm0Yk9k9W0hb9Xy4coOXqoGfNT.jpg</fanart>
+		<date>2020</date>
+		<genre>Terror. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Una joven institutriz es contratada por un hombre que se ha convertido en el tutor de sus sobrinos tras las muerte de sus padres. Pronto descubrirá que tanto los niños como la casa esconden oscuros secretos y las cosas no son lo que aparentan. Adaptación moderna de la obra de Henry James, "The Turn of the Screw".</info>
+	</item>
+	<item>
 		<title>OVERLORD</title>
 		<microhd>567d2fc0b8998c9dc610aab38b6c149eae283668</microhd>
 		<fullhd>32cab6a5aa3eeebe5f78386bc2ea3118ad01898a</fullhd>
@@ -10612,6 +10624,19 @@
 		<info>Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.</info>
 	</item>
 	<item>
+		<title>RELIC</title>
+		<microhd>c32ac217ad6368054a79df4c0cb9b637585227f9</microhd>
+		<fullhd>44d19686ee2d68d532d2d35ab28b3de6a512e6e9</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>a246e3e539445ed1c9cdee0bd4c2e9437d631cf9</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/4TinKYaZtNThqo2sac1dHYv0yic.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vpUUznNzW85xo02H16RaSxRNS1.jpg</fanart>
+		<date>2020</date>
+		<genre>Thriller. Terror. Intriga </genre>
+		<extra>Estreno</extra>
+		<info>Una hija, una madre y una abuela son acosadas por un tipo de demencia que está consumiendo a la familia.</info>
+	</item>
+	<item>
 		<title>REPRISAL</title>
 		<microhd>373fb747626cfca3f6e2224dedc8d1cfb698545d</microhd>
 		<fullhd>bed17f14016d07c33b82a9b902a7d03dbbcc9b1f</fullhd>
@@ -10870,6 +10895,19 @@
 		<genre>Infantil.</genre>
 		<extra>NA</extra>
 		<info>“Ralph rompe Internet" sale de los recreativos, y se adentra en el mundo inexplorado, expansivo y emocionante de Internet. Ralph y su compañera Vanellope tendrán que jugárselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar más las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos está un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de “BuzzTube”, la página web de moda del momento</info>
+	</item>
+	<item>
+		<title>ROMPENIEVES (SNOWPIERCER)</title>
+		<microhd>2e40d9c733f003bc2c184a799ca183ea62e2a07e</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eaYBtWRXjnJNlP9sKmQUWcgvBFX.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/j5STRYdaQXGfkkwFKBHBEfnoEeu.jpg</fanart>
+		<date>2013</date>
+		<genre>Ciencia ficción. Thriller. Acción</genre>
+		<extra>NA</extra>
+		<info>Un fallido experimento para solucionar el problema del calentamiento global casi acabó destruyendo la vida sobre la Tierra. Los únicos supervivientes fueron los pasajeros del Snowpiercer, un tren que recorre el mundo impulsado por un motor de movimiento eterno. Adaptación de la novela gráfica "Le Trasperceneige", escrita por Jean-Marc Rochette y Jacques Loeb.</info>
 	</item>
 	<item>
 		<title>RUEGA POR NOSOTROS</title>
@@ -11310,7 +11348,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/fPGeS6jgdLovQAKunNHX8l0avCy.jpg</fanart>
 		<date>2021</date>
 		<genre>Acción. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un comando SEAL de élite descubre una conspiración internacional mientras busca hacer justicia por el asesinato de su mujer en Sin remordimientos, de Tom Clancy. El explosivo origen del héroe de acción John Clark, uno de los personajes más populares del universo Jack Ryan, del escritor Tom Clancy</info>
 	</item>
 	<item>
@@ -11921,7 +11959,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/4ChjBmofb6cnjAub6y1vP9aomjz.jpg</fanart>
 		<date>2020</date>
 		<genre>Ciencia ficción. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Dos paramédicos de Nueva Orleans ven cómo sus vidas cambian de la noche a la mañana tras descubrir una serie de terribles muertes, al parecer causadas por una nueva droga de diseño que está causando estragos en la ciudad. </info>
 	</item>
 	<item>
@@ -12883,7 +12921,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/bfOZuegasz1MMpWVq1iaKFDcj1O.jpg</fanart>
 		<date>2020</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Alfredo y Teresa son un matrimonio de Burgos que viaja a Nueva York con la intención de "desconectar" y hacer todos los planes que vienen en la guía. Pero nada más aterrizar empiezan a percibir señales, sutiles y no tanto, de que en realidad no están en la ciudad que les vendieron en la agencia. ¿Dónde están entonces?</info>
 	</item>
 	<item>
@@ -12904,13 +12942,26 @@
 		<microhd>b8954ad6444cf8527e918efd518b65bffbf05e81</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>fea6bea4746a1ea481f6b832d239a7caee027764</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/lMFgbCskJgsJdPH81SwVZOc1hNs.jpg</thumbnail>
 		<fanart>https://i.imgur.com/aVG7SiD.jpg</fanart>
 		<date>2018</date>
-		<genre>Terror. Intriga. Thriller. Fantastico</genre>
+		<genre>Terror. Intriga. Thriller. Fantastico. Saga</genre>
 		<extra>NA</extra>
 		<info>Sigue la historia de una familia que vive en una casa en el bosque cuidándose de no emitir ningún sonido. Si no te escuchan, no pueden cazarte...</info>
+	</item>
+	<item>
+		<title>UN LUGAR TRANQUILO 2</title>
+		<microhd>bfc5e0dbf4c74ea9e80fb0a07b2963c986839040</microhd>
+		<fullhd>1e23199ce47b6062ca87ee1a5b6dcb007b263604</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>1ce6e20fa6af2b3a616868e883fa3cde5db54c66</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/iNOCVFyrsykGqT48JNotgFF9XCf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/z2UtGA1WggESspi6KOXeo66lvLx.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror. Ciencia ficción. Thriller. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Tras los fatales acontecimientos sucedidos en la primera parte, la familia Abbot (Emily Blunt, Millicent Simmonds y Noah Jupe) debe enfrentarse a los peligros del mundo exterior mientras luchan en silencio por sobrevivir. Forzados a aventurarse en lo desconocido, pronto se dan cuenta de que las criaturas que cazan orientadas por el sonido no son la única amenaza que acecha más allá del camino de arena. Secuela de la exitosa producción "Un lugar tranquilo" (A Quiet Place, 2018)</info>
 	</item>
 	<item>
 		<title>UN MAL VIAJE</title>
