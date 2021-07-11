@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -7157,7 +7156,7 @@
 		<microhd>d9dc35ae6419cdcb9f766cb514067e38189a5010</microhd>
 		<fullhd>75213fbbbea08ad9ed33cd8dffe85af1e7432efa</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>be38eba58218c4810342d6dfa65e253d6d182912</cuatrok>
+		<cuatrok>ede305cfa07c3d62846fbbc0cd070efc7c72d755</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/9WoLTsRgrupkvCgs3bhsl2EjLhs.jpg</fanart>
 		<date>2021</date>
@@ -8921,6 +8920,19 @@
 		<info>Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.</info>
 	</item>
 	<item>
+		<title>MARVEL: W- VIUDA NEGRA</title>
+		<microhd>883592ad9d28e1f493aa0d20e53202d3a7ba609a</microhd>
+		<fullhd>47c059419b48adc38f3cdb1e994c1bf71104f0e2</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>f67abe7d968147a0975be01c1647e4682358e5da</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg</fanart>
+		<date>2021</date>
+		<genre>Acción. Aventuras. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Natasha Romanoff, alias Viuda Negra, se enfrenta a los capítulos más oscuros de su historia cuando surge una peligrosa conspiración relacionada con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe lidiar con su historia como espía y con la estela de relaciones destruidas que dejó atrás mucho antes de convertirse en Vengadora.</info>
+	</item>
+	<item>
 		<title>MARY SHELLEY</title>
 		<microhd>e634f1fed25003f457c1a7d0ba0ace4be4579cb1</microhd>
 		<fullhd>NA</fullhd>
@@ -9403,10 +9415,10 @@
 	</item>
 	<item>
 		<title>MORTAL KOMBAT</title>
-		<microhd>608a40120ea9498c901404caa4c76505349bf6b0</microhd>
+		<microhd>3b7c3746d9c21534e6561d7bfa2635e246c49abb</microhd>
 		<fullhd>69ba1a46c4f1561e7a032dacbdc6bae737ec20a3</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>5CDFB4BE958DD3B8F950A70D6BEE23AA0A973F93</cuatrok>
+		<cuatrok>e0f60c3402809b4c7c1cae42b9984957ea7bbe3a</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/2xmx8oPlbDaxTjHsIOZvOt5L3aJ.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg</fanart>
 		<date>2021</date>
@@ -11200,7 +11212,7 @@
 		<microhd>NA</microhd>
 		<fullhd>31dfbb5f03706e6be9fdd5d0d9cb6a9f449ab4ec</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>8fb661972950c43824242e3c7c37135e0187a2ca</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/2xbPhHkDYl26kRspYSAbL4WSYR3.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg</fanart>
 		<date>1995</date>
@@ -11421,7 +11433,7 @@
 		<microhd>NA</microhd>
 		<fullhd>a435015ee9de92bf64d91de9a0729797a187aea3</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>4ce17b567f37b8d489199ee97d29dc23119a0698</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/uk8MKxYrKzaH8blos3tGkP7JBlY.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/zfDunJqllYI4V5XE2PkKo3mZk6x.jpg</fanart>
 		<date>2000</date>
