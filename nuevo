@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<item>
@@ -1351,6 +1352,19 @@
 		<genre>Accion. Fantastico</genre>
 		<extra>NA</extra>
 		<info>Ray Garrison (Vin Diesel), también conocido como Bloodshot, es resucitado por la compañía Rising Spirit Technologies a través del uso de nanotecnología. Mientras lucha por recuperar la memoria, Ray trata de volver al ser el que era antes de sufrir el accidente que le dejó amnésico... Película basada en el cómic "Valiant".</info>
+	</item>
+	<item>
+		<title>BODY BROKERS ( EL TRAFICANTE )</title>
+		<microhd>d41fa53ec39d4c21c1e7359f47f541694c3a10b6</microhd>
+		<fullhd>21efe0dc15d756360cf163e929161b33d7446f7a</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rLUHMHWZzFN1g2EXOWDLAUKeTCF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/caWb61PBLJOdnnVYnL8WU6I80kE.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Utah (Jack Kilmer) y Opal (Alice Englert) son dos yonkis que viven en las calles de una zona rural de Ohio hasta que conocen al enigmático Wood (Michael Kenneth Williams), un hombre que les ofrece la posibilidad de viajar a Los Ángeles para ingresar en una clínica de rehabilitación. Pese a sus ilusiones, no tardan en descubrir que la clínica es en realidad un pretexto para un oscuro negocio.</info>
 	</item>
 	<item>
 		<title>BOHEMIAN RHAPSODY</title>
@@ -3460,6 +3474,19 @@
 		<info>Desde Krypton, un lejano planeta muy avanzado tecnológicamente, un bebé es enviado en una cápsula a través del espacio a la Tierra para que viva entre los humanos. Educado en una granja en Kansas en los valores de sus padres adoptivos, Martha (Diane Lane) y Jonathan Kent (Kevin Costner), el joven Clark Kent (Henry Cavill) comienza desde niño a desarrollar poderes sobrehumanos, y al llegar a la edad adulta llega a la conclusión de que esos poderes le exigen grandes responsabilidades, para proteger no sólo a los que quiere, sino también para representar una esperanza para el mundo.</info>
 	</item>
 	<item>
+		<title>EL HOMBRE DEL AGUA</title>
+		<microhd>45f6e640e705710e1677ad955fd54330a18636d4</microhd>
+		<fullhd>90700bf26c30a54f2de74e4122ac6d274ecfd8b5</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1lXwd3eZOE8KoLsmIw7evmiDFTF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/eXs3lQsZE8O9rUrwEryRsDmL9I6.jpg</fanart>
+		<date>2020</date>
+		<genre>Aventuras. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Un niño emprende la misión para intentar salvar a su madre enferma buscando una figura mítica que se dice que tiene poderes curativos mágicos.</info>
+	</item>
+	<item>
 		<title>EL HOMBRE DEL CORAZON DE HIERRO</title>
 		<microhd>e4ea6ec2b02d642d2a7845aaa246f1e69f175588</microhd>
 		<fullhd>NA</fullhd>
@@ -3614,6 +3641,19 @@
 		<genre>Infantil.</genre>
 		<extra>NA</extra>
 		<info>Mowgli (Neel Sethi), un niño criado en la selva por una manada de lobos, emprende un fascinante viaje de autodescubrimiento cuando se ve obligado a abandonar el único hogar que ha conocido en toda su vida. Nueva adaptación de la novela de Rudyard Kipling.</info>
+	</item>
+	<item>
+		<title>EL LOBO DE SNOW HOLLOW</title>
+		<microhd>a0b37351339e5ca9a358e82b557cb3453d84d9f8</microhd>
+		<fullhd>0aa68f3c24d99ec7fdfa47a563e93ad43de9d149</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/iVxiT6JxvrYelR1uDHbZQ0DYkYb.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/hLtv6gYV9hIPWPFDniLSCodhmq.jpg</fanart>
+		<date>2020</date>
+		<genre>Terror. Comedia. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>El terror se adueña de un pequeño pueblo al pie de las montañas cuando una serie de cadáveres son descubiertos tras la luna llena. Tras perder a su hija adolescente, incapaz de dormir y al cuidado de su padre enfermo, el oficial Marshall lucha para recordar cada día que no existe tal cosa como eso que llaman "hombres-lobo".</info>
 	</item>
 	<item>
 		<title>EL MAGNIFICO IVAN</title>
@@ -4049,7 +4089,7 @@
 		<microhd>4e572c1e29936f1bd4c3146b1e2d52a7d40d72b7</microhd>
 		<fullhd>7b19eb31f2c66bc9f89a08fc8441520b37f8159d</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>f53943096350fab1e49fbd5d8d734629c59b40cb</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/t81KcskqIsHnNvRfQAVw2nS9Wv7.jpg</fanart>
 		<date>2015</date>
@@ -4563,6 +4603,19 @@
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>Segunda Guerra Mundial. En Marsella, refugiados de toda Europa embarcan rumbo a América, huyendo de la ocupación Nazi. Entre ellos, el joven alemán Georg, que suplanta la identidad de un escritor muerto para utilizar su visado que le garantiza refugio en México. En Marsella Georg se enamora de Marie, una joven que busca desesperadamente al hombre a quien ama, sin el que no está dispuesta a irse.</info>
+	</item>
+	<item>
+		<title>EN UN BARRIO DE NUEVA YORK</title>
+		<microhd>6d784740726601aa0ca2508f15e3ccb963711ba1</microhd>
+		<fullhd>aaec19bc87746a5e2e44ad37913b053eb2926f04</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/nMeMxDRxQN9JlvAadduPDdkpxjh.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg</fanart>
+		<date>2021</date>
+		<genre>Musical. Romance. Drama. Comedia</genre>
+		<extra>Estreno</extra>
+		<info>Basado en el musical de Broadway, sigue a un grupo de vecinos del barrio Washington Heights, en Nueva York. El principal es Usnavi (Anthony Ramos), el simpático dueño de una bodega, criado por su abuela, que sueña con volver algún día a su República Dominicana de origen; la abuela Claudia, que desempeña el rol de abuela para muchos de los vecinos del barrio; Vanessa, de quien Usnavi está perdidamente enamorado; y Nina, una vieja amiga de Usnavi que regresa al barrio después de mucho tiempo, llevándole noticias inesperadas a sus padres, quienes han estado ahorrando toda la vida para darle una mejor educación académica de la que ellos tuvieron.</info>
 	</item>
 	<item>
 		<title>ENOLA HOLMES</title>
@@ -6606,6 +6659,19 @@
 		<info>Tres fareros llegan a una isla despoblada. Thomas, James y Donald comienzan sus tareas en el faro hasta que un día topan con algo extraño, algo que no es exactamente lo que un farero debería vigilar. Las cosas se complican cuando avistan un barco que podría tener todas las respuestas, desatando una serie de sucesos progresivamente trágicos. Basada en la leyenda de la isla de Flannan.</info>
 	</item>
 	<item>
+		<title>KENSHIN, EL GUERRERO SAMURAI: EL FINAL</title>
+		<microhd>31330c05d90546d78675b968a54b92c8f6256d16</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/w4eGNABnQLA38Lg7agGk9Agpaj5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/d17qispxVlOb1TLXMCBhLfe641W.jpg</fanart>
+		<date>2021</date>
+		<genre>Acción. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Kenshin Himura (Takeru Satoh) es un legendario espadachín. Tras la Restauración Meiji, ha dejado de matar con la espada. Intenta llevar una vida tranquila con Kaoru Kamiya que dirige una escuela de espadachines en el pueblo. Todo cambia cuando el restaurante Akabeko, que es el lugar favorito de Kenshin para comer, es destruido y él encuentra una nota en la que pone "Junchu".</info>
+	</item>
+	<item>
 		<title>KILL BILL: VOLUMEN 1</title>
 		<microhd>NA</microhd>
 		<fullhd>3b0a673e5c2767051b42c79f87b4f68dd906f87e</fullhd>
@@ -6747,6 +6813,45 @@
 		<genre>NA</genre>
 		<extra>NA</extra>
 		<info>Adaptación en imagen real del clásico de Disney "La bella y la bestia", que cuenta la historia de Bella (Emma Watson), una joven brillante y enérgica, que sueña con aventuras y un mundo que se extiende más allá de los confines de su pueblo en Francia. Independiente y reservada, Bella no quiere saber nada con el arrogante y engreído Gastón, quien la persigue sin descanso. Todo cambia un día cuando su padre Maurice (Kevin Kline) es encarcelado en el castillo de una horrible Bestia, y Bella se ofrece a intercambiarse con su padre y queda recluida en el castillo. Rápidamente se hace amiga del antiguo personal del lugar, que fue transformado en objetos del hogar tras una maldición lanzada por una hechicera. </info>
+	</item>
+	<item>
+		<title>LA CALLE DEL TERROR PARTE 1 1994</title>
+		<microhd>d27c95b94fad2c12164a6f2e9fd9bdd012983c12</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/2JG46f4JtCJTUf2z9UbiL9qusOP.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5C8bfwglg91uZhc2fbfpSjNGamV.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror. Thriller. Saga</genre>
+		<extra>Estreno</extra>
+		<info>En 1994, un grupo de adolescentes descubre que los sucesos que aterrorizan su ciudad desde hace generaciones podrían estar conectados. Además, puede que ahora les toque a ellos protagonizar la pesadilla. Primera parte de la trilogía basada en las famosas novelas de miedo de R. L. Stine.</info>
+	</item>
+	<item>
+		<title>LA CALLE DEL TERROR PARTE 2 1978</title>
+		<microhd>b374a23336daa05559e76ec514035eaecb14385a</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/i9CNNS5htRdTf11A63lNKQyYyhj.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7jpj6ek9dftr3IXm7Pnq2pkhir3.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror. Thriller. Saga</genre>
+		<extra>Estreno</extra>
+		<info>En 1978, Camp Nightwing está dividido en campistas que vinieron del pueblo oprimido de Shadyside y consejeros que vinieron del próspero pueblo de Sunnyvale. Cuando los horrores del pasado de ambos pueblos cogen fuerza, estos dos grupos deberán unirse para resolver un misterio terrorífico.</info>
+	</item>
+	<item>
+		<title>LA CALLE DEL TERROR PARTE 3 1666</title>
+		<microhd>c1219961be4588d983eda8040cae11f1c21088a1</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/aL0qzDQHjw0RQdMilhOQZSwK0KE.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6viJBbovWxJYavdjPy7UPTLvaOS.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror. Thriller. Saga</genre>
+		<extra>Estreno</extra>
+		<info>En 1666, un pueblo colonial sufre una caza de brujas que tiene consecuencias letales durante siglos. Está en manos de los jóvenes de 1994 poner fin a esta maldición.</info>
 	</item>
 	<item>
 		<title>LA CASA DEL RELOJ EN LA PARED</title>
@@ -7995,6 +8100,19 @@
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>Explora la relación que mantuvieron el Papa Benedicto XVI y su sucesor, el Papa Francisco, dos de los líderes más poderosos de la Iglesia Católica, que abordan sus propios pasados ​​y las demandas del mundo moderno para que la institución avance.</info>
+	</item>
+	<item>
+		<title>LOS ESTADOS UNIDOS CONTRA BILLIE HOLIDAY</title>
+		<microhd>7efd97336377426086b412435783915862091e37</microhd>
+		<fullhd>7e2c80c03fb23a46cd299ac74ac1c1e096618532</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ErczuRvIF4cd7IJNc04RO1RB5B.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3ntWQMZKZjYR0YFWjyTntUu8i6B.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>La legendaria Billie Holiday (Andra Day), una de las mejores intérpretes de jazz de todos los tiempos, pasó la mayor parte de su carrera siendo adorada por sus fans alrededor del globo. Todo mientras el Departamento Federal de Narcóticos de Estados Unidos la fijó como objetivo mediante una operación encubierta liderada por el Agente Federal Jimmy Fletcher (Trevante Rhodes), con quien Billie había tenido un tumultuoso romance.</info>
 	</item>
 	<item>
 		<title>LOS EXTRAÑOS CACERIA NOCTURNA</title>
@@ -9726,6 +9844,19 @@
 		<info>Madrid 2019. Un asesino en serie está sembrando el caos. Personas anónimas están siendo asesinadas imitando las primeras apariciones de los súper héroes más conocidos. Cosme es el mejor detective de su comisaría, y está a punto de jubilarse contra su voluntad. David es su relevo, y es joven e impulsivo. Ambos tendrán la misión de encajar las piezas en un juego del que desconocen las reglas. En su aventura contarán con la ayuda de Jorge Elías, hijo de Cosme, entrañable friki y dueño de una tienda de cómics y de Norma, jefa de ambos y amante del manga y del cosplay. Dicen que algunas veces hay que ponerse el traje y salir a hacer de este mundo un lugar mejor. Puede que esta sea una de ellas.</info>
 	</item>
 	<item>
+		<title>OTRA RONDA</title>
+		<microhd>0585db5d1c4ab6bf9af3bfd888e65afbab5ce076</microhd>
+		<fullhd>bad6bc2b9e04d8fb760c64c10c4009daeda48eb8</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3El9bWuGsaYwFu2TIksMdjgkPbR.jpg</fanart>
+		<date>2020</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.</info>
+	</item>
+	<item>
 		<title>OTRA VUELTA DE TUERCA</title>
 		<microhd>NA</microhd>
 		<fullhd>0494e4abe73f6b1e3ff6790b055061c9ff433233</fullhd>
@@ -10465,6 +10596,19 @@
 		<genre>Comedia</genre>
 		<extra>NA</extra>
 		<info>Una chica corriente (Amy Schumer), que se enfrenta cada día a sus inseguridades, despierta de una caída creyendo que de repente es la mujer más bella y segura del planeta. Con esta nueva confianza en sí misma se siente capaz de vivir su vida sin complejos ni limitaciones pero, ¿qué pasará cuando se dé cuenta de que su apariencia en realidad no ha cambiado?</info>
+	</item>
+	<item>
+		<title>QUE NADIE SE ENTERE</title>
+		<microhd>467ea1750dcc7255d89f6d11a28d23416c74a468</microhd>
+		<fullhd>541421b27abf336afc200ff4b0ccf9eeaec80fb6</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/dUQQ3q3UucGn6pdetjj6nDMvYWg.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fcargHvQcJlFOMtFwFQ80NSFFk2.jpg</fanart>
+		<date>2020</date>
+		<genre>Drama. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Dos hermanos adolescentes llamados Matt y Joey deciden robar algo de dinero para pagar las facturas médicas de su madre enferma. Cuando el guardia de seguridad, el Sr. Hamby, los persigue, termina atrapado en el fondo de un pozo.</info>
 	</item>
 	<item>
 		<title>QUEEN AND SLIM</title>
@@ -12309,7 +12453,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/mC66VIkvezxLb6g1ODPmBcHSghv.jpg</fanart>
 		<date>2021</date>
 		<genre>Drama </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Capturado por el gobierno de los Estados Unidos, Mohamedou Ould Slahi (Rahim) sobrevive en la prisión de Guantánamo donde lleva más de una década sin cargos ni juicio. Tras haber perdido toda esperanza, Slahi encuentra aliados en la abogada defensora Nancy Hollander (Foster) y su asociada Teri Duncan (Woodley). Juntos se enfrentan a innumerables obstáculos en una búsqueda desesperada de justicia.</info>
 	</item>
 	<item>
@@ -12582,7 +12726,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/7IrQ5vwmTHppBCf51HRFzSd7xMi.jpg</fanart>
 		<date>2021</date>
 		<genre>Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Adaptación del clásico propiedad de Hanna-Barbera, que revela cómo Tom y Jerry se conocieron y se desató su rivalidad.</info>
 	</item>
 	<item>
@@ -12820,6 +12964,19 @@
 		<info>Ha pasado ya un tiempo desde que la inspectora Amaia Salazar se enfrentó a su madre. Pero a pesar de que tanto la Guardia Civil como el juez Markina dan por cerrado el caso, Amaia siente que no está libre de peligro. La muerte súbita de una niña en Elizondo resulta sospechosa y los análisis forenses llevan a Amaia a investigar otras muertes de origen similar que conducirán a la inspectora a la resolución final de los sucesos que han asolado el valle de Baztán. Tercera entrega de la 'Trilogía del Baztán', basada en las novelas de Dolores Redondo.</info>
 	</item>
 	<item>
+		<title>TRILOGIA KENSHIN-EL GUERRERO SAMURAI</title>
+		<microhd>fe164e98faf983357c86991032ef3fef8f373ecc</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/v9znzqtCXhx1pkPa6ucU5w3LOik.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gTrzLPMfJXQ6wJa5GrPVCv148Fk.jpg</fanart>
+		<date>1996 - 1999</date>
+		<genre>Acción. Drama.Saga</genre>
+		<extra>NA</extra>
+		<info>Kenshin Himura (Takeru Sato) es un famoso samurái conocido por su destreza con la katana y su frialdad a la hora de matar. En el pasado estuvo al servicio de los Ishin Shishi, un grupo de patriotas que luchaban para devolver el poder al Emperador, librando cientos de batallas y cobrándose muchas vidas. Pero tras terminar todos los enfrentamientos, jura no volver a matar y decide pasar al anonimato para dedicarse a viajar por el país como un vagabundo ayudando a quien lo necesite, como penitencia por todas las muertes que provocó. Diez años después, en 1878, Kenshin llega a Tokio donde conoce a Kaoru (Emi Takei), quien le invita a quedarse en su dojo hasta que decida volver a vagabundear. Sin embargo, el pasado que Kenshin intentó dejar atrás pronto volverá para cobrarse venganza contra él. Adaptación del manga de Nobuhiro Watsuki.</info>
+	</item>
+	<item>
 		<title>TRIPLE FRONTERA</title>
 		<microhd>c829b04c764aa4eb931215cfd1ecebb74583c721</microhd>
 		<fullhd>NA</fullhd>
@@ -12928,7 +13085,7 @@
 		<microhd>3300c56ce2ac5652eaa735dd19f6efc5718ba4e3</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>8e0e1a465dbbee723b297d7bef3a30b922c65745</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/hd36jHrvGaxx7aKRWnrd3RmXP5I.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/mm3iHf4YhvcoINzKaWuFSSBXdeZ.jpg</fanart>
 		<date>2020</date>
@@ -13078,6 +13235,19 @@
 		<genre>Thriller</genre>
 		<extra>NA</extra>
 		<info>Una madre joven que recientemente se ha quedado viuda lo hará todo para proteger a su hija mientras intenta descubrir la verdad sobre el asesinato de su marido.</info>
+	</item>
+	<item>
+		<title>UNA JOVEN PROMETEDORA</title>
+		<microhd>19615cc8d4f0e4fa3f8f212d1f1421ed26cf8106</microhd>
+		<fullhd>afea2ff98585a5a06bd8e96ccddf7bc370078417</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>f941069fbfce6b4a9d9143a88b15d36c857a690b</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/dXujrgRtChV4TTCTiWKq4t8l1N2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7vSwsphE7NetDNiKpaTXp2EGy6c.jpg</fanart>
+		<date>2020</date>
+		<genre>Thriller. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Cassie tenía un brillante futuro por delante hasta que un desagradable incidente truncó su carrera. Ahora nada en su vida es lo que parece: es inteligente, audaz y vive una doble vida de noche. Cassie tiene la oportunidad de enmendar todo lo que no salió bien en su pasado... vengándose de los culpables.</info>
 	</item>
 	<item>
 		<title>UNA NOCHE DE VENGANZA (VANQUISH)</title>
