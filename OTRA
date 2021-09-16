@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
+
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]NECESARIO [/COLOR]        [COLOR red]ELEMENTUM  [/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
@@ -60,7 +60,14 @@
 <externallink>https://pastebin.com/raw/M59uHqqZ</externallink>
 </item>
 
-
+<item>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]ANDRES INIESTA: EL HEROE INESPERADO[/COLOR]   [COLOR red]2020[/COLOR][/B]<title>
+<info>Documental que ofrece una mirada íntima a la vida y carrera de Andrés Iniesta, abarcando el inicio de su trayectoria en La Masía, la academia juvenil del FC Barcelona, hasta su ascenso meteórico a la fama jugando para el Barça y la Selección Española, donde sus habilidades en el campo llevaron al conjunto nacional a llevarse el Mundial en 2010, y su llegada al Vissel Kobe en Japón. Junto al testimonio del propio Iniesta, el documental le rinde homenaje con entrevistas a jugadores de renombre mundial como Lionel Messi, Neymar, Luis Suárez, Pep Guardiola o Xavi Hernández. El documental está escrito por el periodista Marcos López, quien ha seguido de cerca la carrera de Iniesta y escribió su biografía oficial, "Andrés Iniesta: la jugada de mi vida".</info>
+<genre>Documental</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4AD798A8F6E50B3981719BAD3903C2494FEE9C8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/b1rVIl8DMtcJh2adu2SER4x3D3v.jpg</thumbnail>
+<fanart>https://i.imgur.com/VyjwYMM.jpg</fanart>
+</item>
 
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]ANTIDISTURBIOS[/COLOR]  [COLOR red]1 AL 6 [/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
@@ -71,16 +78,6 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d819a7a8e4f3cdefd5ec5b5cefea22eaef0dc42d</link>
 </item>
 
-<item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]ANDRES INIESTA: EL HEROE INESPERADO[/COLOR]   [COLOR red]2020[/COLOR][/B]<title>
-<info>Documental que ofrece una mirada íntima a la vida y carrera de Andrés Iniesta, abarcando el inicio de su trayectoria en La Masía, la academia juvenil del FC Barcelona, hasta su ascenso meteórico a la fama jugando para el Barça y la Selección Española, donde sus habilidades en el campo llevaron al conjunto nacional a llevarse el Mundial en 2010, y su llegada al Vissel Kobe en Japón. Junto al testimonio del propio Iniesta, el documental le rinde homenaje con entrevistas a jugadores de renombre mundial como Lionel Messi, Neymar, Luis Suárez, Pep Guardiola o Xavi Hernández. El documental está escrito por el periodista Marcos López, quien ha seguido de cerca la carrera de Iniesta y escribió su biografía oficial, "Andrés Iniesta: la jugada de mi vida".</info>
-<genre>Documental</genre>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4AD798A8F6E50B3981719BAD3903C2494FEE9C8</link>
-<thumbnail>https://image.tmdb.org/t/p/original/b1rVIl8DMtcJh2adu2SER4x3D3v.jpg</thumbnail>
-<fanart>https://i.imgur.com/VyjwYMM.jpg</fanart>
-</item>
- 
- 
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]AQUI Y AHORA ( WE ARE WHO WE ARE )[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
 <info>(2020).8 episodios.Dos adolescentes estadounidenses alcanzan la mayoría de edad mientras viven en una base militar estadounidense en Italia.</info>
@@ -98,7 +95,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/5qkuBn3l9ygXKFDKLSdn8NgJipD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9cigXKHyqtaP50auMpJbZ3WcRQ9.jpg</fanart>
 <link>http://ignoreme</link>
- <externallink>https://pastebin.com/raw/mP8XuK4s</externallink>https://pastebin.com/raw/mP8XuK4s
+ <externallink>https://pastebin.com/raw/mP8XuK4s</externallink>
 </item>
 
 
@@ -815,7 +812,6 @@ Estreno 2ª temporada: 2021.</info>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]HERIDAS ABIERTAS[/COLOR]  [COLOR red]1 AL 8 [/COLOR]   [COLOR red]2018[/COLOR][/B]</title> 
 <info> (2018). 8 episodios. Tras pasar un breve tiempo en un hospital psiquiátrico, la periodista Camille Preaker regresa a su pequeña ciudad natal para cubrir los asesinatos de dos chicas adolescentes. Durante años, Camille apenas ha hablado con Adora Crellin, su neurótica e hipocondríaca madre, que vive con su marido y con su hija Amma, hermanastra de Camille, una joven a la que apenas conoce. Instalada en su antiguo dormitorio en la mansión victoriana de su familia, Camille pronto se identifica con las jóvenes víctimas. Atrapada por sus propios demonios, debe desentrañar el rompecabezas psicológico de su propio pasado si quiere obtener una historia que escribir acerca de los crímenes.</info>
 <genre>Thriller. Drama</genre>
-<link>http://ignoreme</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1SGovj2qDdkJexvhFiXllj9EYfu.jpg</thumbnail>
 <fanart>https://s8.postimg.cc/ei53q5e91/heridas_fanart.jpg</fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:212c91383a9708779064123c08f4b1ecbaaef16c</link>
@@ -841,15 +837,14 @@ Estreno 2ª temporada: 2021.</info>
 </item> 
 
 <item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]HEROES: SILENCIO Y ROCK AND ROLL[/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]HEROES: SILENCIO Y ROCK & ROLL[/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
 <info>Documental que narra la historia de la agrupación musical Héroes del Silencio desde la creación de la banda. Está contada en primera persona por Enrique Bunbury, Juan Valdivia, Pedro Andreu y Joaquín Cardiel, y a través de ingente material videográfico y fotográfico, nunca visto antes, y generado en parte
 por los propios integrantes del grupo durante sus ensayos, giras, grabaciones y momentos íntimos y cotidianos.</info>
 <genre>Documental</genre>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:120024eca3dbc3bb5b363b3e1a590694177db080</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gshYpoEqTh3N2xMSr0TqCGDuruj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3vDBHplYDwTNqdHTB8M2KNVfGVc.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:120024eca3dbc3bb5b363b3e1a590694177db080</link>
 </item>
-
 
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]HIERRO[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
@@ -1288,6 +1283,16 @@ En medio de un brote de peste, varios miembros destacados de la sociedad sevilla
 </item>
 
 <item>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]LOS 100[/COLOR]   [COLOR red]2014[/COLOR][/B]</title>
+<info>(2014). 7 temporadas. 100 episodios. Situada 97 años después de una guerra nuclear que ha destruido la civilización, los supervivientes de una nave espacial, que han sobrevivido durante tres generaciones en el espacio, envían 100 delincuentes juveniles "para testear" las condiciones de la Tierra, con la esperanza de eventualmente volver a poblar el planeta. El grupo de jóvenes tratará de sobrevivir en un entorno desconocido y hostil a pesar de las brechas que se abren entre ellos, unos partidarios de seguir en conexión con la nave, otros a favor de empezar de cero sin depender de nadie. Mientras, en la nave, las luchas por el poder político se recrudecen, llevando a los dirigentes a situaciones extremas y difíciles decisiones. </info>
+<genre>Ciencia ficción</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/aeulzGaKp6b6cg6EO1qSZf3mESZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1uTcARwulQ9yJ56nqNkojbKBofE.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/mrYKawhP</externallink>
+</item>
+
+<item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]LOCKE & KEY[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
 <info>(2020). 10 episodios. Después de la muerte de su padre, los hijos de Locke regresan a su casa ancestral en Nueva Inglaterra para descubrir que están rodeados de magia, que sólo ellos pueden ver y contra la que están destinados a pelear para terminar con los horrores que pueblan la ciudad de Lovecraft, Massachusetts. </info>
 <genre>Fantástico. Terror. Drama</genre>
@@ -1481,7 +1486,7 @@ Estreno de la 2ª temporada: 2021.</info>
 <thumbnail>https://image.tmdb.org/t/p/original/xnXVRGzLRLWnwP38tbAR6hE4bFC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8o8K4gSA7LBBDITy2tv8zKZG0Tr.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/VEs9rqaW
+<externallink>https://pastebin.com/raw/VEs9rqaW<externallink>
 </item>
 
 <item>
@@ -1806,6 +1811,7 @@ Estreno de la 2ª temporada: 2021.</info>
 </item>
 
 
+
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]RIVERDALE[/COLOR]   [COLOR red]2017[/COLOR][/B]</title>
 <info> (2017). 5 temporadas. 77 episodios. Al mismo tiempo que un nuevo año escolar da comienzo, la ciudad de Riverdale aún está reponiéndose de la trágica muerte reciente de Jason Blossom. Por otro lado, durante el verano Archie Andrews (K.J. Apa) se ha dado cuenta de que quiere ser músico. Además a Archie aún le pesa haber roto su amistad con Jughead Jones (Cole Sprouse). Mientras tanto, Betty Cooper (Lili Reinhart) está ansiosa de ver a Archie, de quien está enamorada, pero aún no está lista para revelarle sus sentimientos. Cuando una nueva estudiante, Veronica Lodge (Camila Mendes), llega a Riverdale desde Nueva York junto a su madre, nace la chispa entre ella y Archie. Pero Veronica no quiere poner su nueva amistad con Betty en riesgo. Cheryl Blossom (Madelaine Petsch), la chica más popular de Riverdale, es feliz removiento las situaciones alrededor de Archie, Betty y Veronica para causar problemas. Pero Cheryl es una chica que guarda muchos secretos. </info>
@@ -1826,6 +1832,7 @@ Estreno de la 2ª temporada: 2021.</info>
 <externallink>https://pastebin.com/raw/8CydFdnJ</externallink>
 </item>
 
+
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]SEE[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
 <info>En el futuro, la raza humana ha perdido la capacidad de ver, y la sociedad ha encontrado nuevas formas de interactuar entre sí, de construir, de cazar y, sobre todo, de sobrevivir. Sin embargo, todo cambia tras el nacimiento de una pareja de gemelos que recobra la vista.
@@ -1836,7 +1843,8 @@ En la segunda temporada encontramos a Baba Voss luchando para reunir a su famili
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/iXmnU68A</externallink>
 </item>
- 
+
+
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]SERVANT[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
 <info>Una pareja de Philadelphia, de luto tras suceder una horrible tragedia, crea una grieta en su matrimonio que abre la puerta a una misteriosa fuerza que entra en su hogar.</info>
@@ -1898,6 +1906,16 @@ En la segunda temporada encontramos a Baba Voss luchando para reunir a su famili
 </item>
  
 <item>
+<title>[B][COLOR red]•[/COLOR]  [COLOR white]SOLO ASESINATOS EN EL EDIFICIO[/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
+<info>(2021) 10 Episodios. Tres extraños que comparten la obsesión por el "true crime" de repente se ven atrapados en uno.</info>
+<genre>Tres extraños que comparten la obsesión por el "true crime" de repente se ven atrapados en uno.</genre>
+<thumbnail>https://www.themoviedb.org/t/p/original/fOEiX00L6uw4GSYKD0JrxRr7Zrc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fgYfch0MGfNEpgzPst49ThKUqA4.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/WuWNUZVP</externallink>
+</item> 
+ 
+<item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]SOLOS[/COLOR]  [COLOR red]1 AL 7 [/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
 <info>Serie antológica de siete partes que explora el significado más profundo de la conexión humana a través de la visión individual de sus protagonistas.</info>
 <genre>Drama. Ciencia ficción. Fantástico</genre>
@@ -1939,7 +1957,7 @@ En la segunda temporada encontramos a Baba Voss luchando para reunir a su famili
 
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]SKY ROJO[/COLOR]   [COLOR red]2021[/COLOR][/B]</title>
-<info>Coral, Wendy y Gina emprenden una huida en busca de su libertad mientras son perseguidas por Moisés y Christian, los secuaces de Romeo, el proxeneta y dueño del Club Las Novias. Juntas iniciarán una carrera desesperada en la se enfrentarán a todo tipo de peligros y cuyo único objetivo será seguir vivas cinco minutos más</info>
+<info>(2021) 2 Temporadas 16 episodios. Coral, Wendy y Gina emprenden una huida en busca de su libertad mientras son perseguidas por Moisés y Christian, los secuaces de Romeo, el proxeneta y dueño del Club Las Novias. Juntas iniciarán una carrera desesperada en la se enfrentarán a todo tipo de peligros y cuyo único objetivo será seguir vivas cinco minutos más</info>
 <genre> Acción. Drama</genre>
 <thumbnail>https://www.themoviedb.org/t/p/original/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aqrvHKPWe5VedvvJIz7FWrtcoQh.jpg</fanart>
@@ -1969,7 +1987,7 @@ En la segunda temporada encontramos a Baba Voss luchando para reunir a su famili
  
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]STARGIRL[/COLOR]   [COLOR red]2020[/COLOR][/B]</title>
-<info>(2020). 13 episodios. Stargirl es una superheroína de DC Cómics que se oculta bajo la identidad de la estudiante de instituto Courtney Whitmore.</info>
+<info>(2020) 2 Temporadas 26 episodios. Stargirl es una superheroína de DC Cómics que se oculta bajo la identidad de la estudiante de instituto Courtney Whitmore.</info>
 <genre>Ciencia ficción</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/eD5QIAk9xfEcv7fCYEOhnbjItoJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/b5lKppEquuQWm6fTjGcu2g8FJgs.jpg</fanart>
@@ -2058,15 +2076,7 @@ En la segunda temporada encontramos a Baba Voss luchando para reunir a su famili
 <externallink>https://pastebin.com/raw/WRaPrQFU</externallink>
 </item>
 
-<item>
-<title>[B][COLOR red]•[/COLOR]  [COLOR white]THE 100[/COLOR]   [COLOR red]2014[/COLOR][/B]</title>
-<info>(2014). 7 temporadas. 100 episodios. Situada 97 años después de una guerra nuclear que ha destruido la civilización, los supervivientes de una nave espacial, que han sobrevivido durante tres generaciones en el espacio, envían 100 delincuentes juveniles "para testear" las condiciones de la Tierra, con la esperanza de eventualmente volver a poblar el planeta. El grupo de jóvenes tratará de sobrevivir en un entorno desconocido y hostil a pesar de las brechas que se abren entre ellos, unos partidarios de seguir en conexión con la nave, otros a favor de empezar de cero sin depender de nadie. Mientras, en la nave, las luchas por el poder político se recrudecen, llevando a los dirigentes a situaciones extremas y difíciles decisiones. </info>
-<genre>Ciencia ficción</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/aeulzGaKp6b6cg6EO1qSZf3mESZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1uTcARwulQ9yJ56nqNkojbKBofE.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/mrYKawhP</externallink>
-</item>
+
 
 <item>
 <title>[B][COLOR red]•[/COLOR]  [COLOR white]THE ACT[/COLOR]   [COLOR red]2019[/COLOR][/B]</title>
@@ -2550,4 +2560,3 @@ En la segunda temporada encontramos a Baba Voss luchando para reunir a su famili
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/4ur5qfpm</externallink>
 </item>
-</items>
