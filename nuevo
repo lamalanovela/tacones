@@ -5,7 +5,7 @@
 		<microhd>NA</microhd>
 		<fullhd>d52e8e0fc587a1663c5c00e1c9b22216d397f7ef</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>06a79f30c5c03096962431a557e9cc17ae0c7f58</cuatrok>
+		<cuatrok>c831823122bb345e15e7f62af3ff36baa753ec04</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/lGv19gokQvgC7jgjWqapIachnxU.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg</fanart>
 		<date>2006</date>
@@ -1830,7 +1830,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/7ZiMrbitgbyio4eOzFKRruPKu5G.jpg</fanart>
 		<date>2021</date>
 		<genre>Musical. Fantástico. Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Cenicienta (Cabello) es una joven ambiciosa cuyos sueños son más grandes de lo que el mundo le permite, pero que será capaz de perseverar y conseguir sus objetivos con la ayuda de su Fab G (Billy Porter).</info>
 	</item>
 	<item>
@@ -2702,7 +2702,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg</fanart>
 		<date>2021</date>
 		<genre>Thriller. Acción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>H (Jason Statham) es el misterioso tipo que acaba de incorporarse como guardia de seguridad en una compañía de furgones blindados. Durante un intento de atraco a su camión, sorprende a sus compañeros mostrando habilidades propias de un soldado profesional, dejando al resto del equipo preguntándose quién es realmente y de dónde viene.</info>
 	</item>
 	<item>
@@ -5449,6 +5449,19 @@
 		<info>Lars (Will Ferrell) y Sigrit (Rachel McAdams) son dos músicos islandeses desconocidos que tienen delante la oportunidad de su vida: representar a su país en el concurso musical más importante del mundo. Ahora podrán demostrar que hay sueños por los que vale la pena luchar.</info>
 	</item>
 	<item>
+		<title>FINCH</title>
+		<microhd>347826b85f005114421fac0f8aec0ee3c59938fe</microhd>
+		<fullhd>33e9fc4840565386dc703a0517c30f15cf4fa413</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>aaa42fe01b4c297bd6cb54466b0dc7e56f7e9a4d</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/akCtSzs2ln4lFWODXZ412lmsjUe.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/oE6bhqqVFyIECtBzqIuvh6JdaB5.jpg</fanart>
+		<date>2021</date>
+		<genre>Ciencia ficción. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Tom Hanks interpreta a Finch, un ingeniero especializado en robótica y uno de los pocos supervivientes de un cataclismo solar que ha convertido al mundo en un páramo. Pero Finch, que lleva una década viviendo en un búnker subterráneo, ha construido un mundo propio que comparte con su perro, Goodyear, y con un robot, interpretado por Caleb Landry Jones, que creó para que cuide de Goodyear cuando él ya no pueda hacerlo. Cuando el trío se embarca en un peligroso viaje al desolado oeste americano, Finch se esfuerza por mostrar a su creación, que se bautizó como Jeff, y la alegría y la maravilla que representan estar vivo. Su viaje está plagado de retos y de humor, ya que a Finch le resulta tan difícil lograr que Jeff y Goodyear se lleven bien como a él lidiar con los peligros de este nuevo mundo.</info>
+	</item>
+	<item>
 		<title>FIRST MAN</title>
 		<microhd>4a8c54fb2919e2c790e372f18552f3bad2cb92b4</microhd>
 		<fullhd>e5271b7d46a40ed584c69ce13150c8f0e5159048</fullhd>
@@ -8036,6 +8049,19 @@
 		<info>Higinio y Rosa llevan pocos meses casados cuando estalla la Guerra Civil, y la vida de él pasa a estar seriamente amenazada. Con ayuda de su mujer, decidirá utilizar un agujero cavado en su propia casa como escondite provisional. El miedo a las posibles represalias, así como el amor que sienten el uno por el otro, les condenará a un encierro que se prolongará durante más de 30 años.</info>
 	</item>
 	<item>
+		<title>LA ULTIMA GRAN ESTAFA</title>
+		<microhd>NA</microhd>
+		<fullhd>679bebf288c4e655d57f4ed6367ec7d5b8f69060</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/t8MS3MdQZa9UOdAcXx6lfCD7TiY.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wRrhiUWQSrmCzuVRTUfrei6p3VY.jpg</fanart>
+		<date>2020</date>
+		<genre>Comedia</genre>
+		<extra>Estreno</extra>
+		<info>Max Barber (Robert de Niro) es un productor de cine de Hollywood de serie B que necesita encontrar un nuevo proyecto que le permita saldar su deuda con un jefe de la mafia local (Morgan Freeman). Decide emprender la producción de una película con escenas de acción de alto riesgo, con el fin de provocar la muerte de su actor protagonista y poder cobrar así el altísimo seguro, solucionando definitivamente sus problemas económicos. El actor elegido es Duke Montana (Tommy Lee Jones), una vieja estrella deprimida con problemas con la bebida: el blanco perfecto para los planes de Max. Sin embargo, los días de rodaje pasan y no todo sale según lo planeado. </info>
+	</item>
+	<item>
 		<title>LA VENTANA INDISCRETA</title>
 		<microhd>08e84ef770b309c63f7691a7694ca4bd03607af2</microhd>
 		<fullhd>NA</fullhd>
@@ -10025,6 +10051,32 @@
 		<info>Detroit, año 1954. Unos delincuentes de poca monta son contratados para robar lo que creen que es un simple documento. Cuando su plan no sale como ellos esperaban, emprenden la búsqueda de quien los contrató y del propósito final.</info>
 	</item>
 	<item>
+		<title>NO RESPIRES</title>
+		<microhd>e83ffdf278512674457e50f139bd321e22917f14</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3A5sAyP9iENTRL5X86FUeYmo0wZ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/hvXWVpKvFWAqiGyTYloudgLXKMY.jpg</fanart>
+		<date>2016</date>
+		<genre>Thriller. Terror. Saga</genre>
+		<extra>NA</extra>
+		<info>Unos jóvenes ladrones creen haber encontrado la oportunidad de cometer el robo perfecto. Su objetivo será un ciego solitario, poseedor de miles de dólares ocultos. Pero tan pronto como entran en su casa serán conscientes de su error, pues se encontrarán atrapados y luchando por sobrevivir contra un psicópata con sus propios y temibles secretos.</info>
+	</item>
+	<item>
+		<title>NO RESPIRES 2</title>
+		<microhd>d4ac8235858004ef91cde31c6fa0fea7a016c578</microhd>
+		<fullhd>dd5866073f979eb91ed8923573da5e9338168230</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>0bdbe9091aa6c94f663524a83df0788043b7e55a</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1Sw8B0Jx1GD3079LSBowKrBEom6.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dUn7N9n50lcv9lAhU8cIEBHCsa4.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller. Terror. Saga</genre>
+		<extra>Estreno</extra>
+		<info>En esta secuela del filme de terror No respires (2016), el ex militar ciego que causó estragos en la primera entrega, volverá a verse envuelto en problemas. En aquella ocasión el hombre consiguió acabar de manera violenta con algunos de los jóvenes que tratan de entrar a robar a su hogar. Ahora, parece que un grupo de amigos ha entrado en su casa, pero con intenciones bien diferentes: van a tratar de tomarse venganza por sus malogrados colegas, en el asalto tiempo atrás. El realizador Fede Alvarez (Posesión infernal) cede el testigo al guionista Rodo Sayagues que hace su debut tras las cámaras. El actor Stephen Lang (Avatar) repite como el sanguinario invidente protagonista.</info>
+	</item>
+	<item>
 		<title>NO TE PREOCUPES NO LLEGARA LEJOS A PIE</title>
 		<microhd>ce0da480471d3d913b09fafc719fdad8f8ab91a7</microhd>
 		<fullhd>NA</fullhd>
@@ -10255,7 +10307,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/3El9bWuGsaYwFu2TIksMdjgkPbR.jpg</fanart>
 		<date>2020</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.</info>
 	</item>
 	<item>
@@ -11377,6 +11429,19 @@
 		<info>La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-, ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo, Alice tendrá que unir fuerzas con viejos amigos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad, que está al borde de la extinción.</info>
 	</item>
 	<item>
+		<title>RESPECT</title>
+		<microhd>NA</microhd>
+		<fullhd>c8224a9c02c86d5f918a8aef92d6915ff36fdf34</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>cc793c9a661a3a2b9ea3c5e3977e75ffdecc2804</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/iGSSAk4VOPJSmSM6JschRZATspk.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/m0ppE0yXQeFWzlwLdDUFRfanp9R.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Un recorrido por la vida de Aretha Franklin (Jennifer Hudson), desde que era una niña prodigio en Detroit y cantaba gospel en el coro de la iglesia, hasta convertirse en una superestrella internacional que conquistó un total de 18 Premios Grammy. Una historia de ascenso plagada de luchas y triunfos, con una vida personal turbulenta, de desavenencias y desdichas, que aún así la llevaron a alcanzar el éxito comercial gracias a canciones como Respect, Chain of Fools, Think o A Natural Woman.</info>
+	</item>
+	<item>
 		<title>REY ARTURO LA LEYENDA DE EXCALIBUR</title>
 		<microhd>78d07900785d094990561bd0be0c9903aa45b3c2</microhd>
 		<fullhd>f24a7fbe7df479e829f87c0e3270b1f4274e6032</fullhd>
@@ -11808,9 +11873,9 @@
 	<item>
 		<title>SHANG-CHI Y LA LEYENDA DE LOS DIEZ ANILLOS</title>
 		<microhd>83FD51CA0367B94B5A2701FECA641D1ECAD1196B</microhd>
-		<fullhd>NA</fullhd>
+		<fullhd>47ddecf4bbc634268c5c82d92de03e6af129beb0</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>ad9189243081d331e86c5eb4c60903805a1f02bd</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/9VqajJXm29uprSaxOcEh7O0d6E9.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/gdilvjBVZGoATDyXANofnPYUpyq.jpg</fanart>
 		<date>2021</date>
@@ -14001,6 +14066,19 @@
 		<genre>Ciencia ficcion. Fantastico. Accion</genre>
 		<extra>NA</extra>
 		<info>Como periodista, Eddie Brock (Tom Hardy) lleva tiempo intentando desenmascarar al creador de la Fundación Vida, el famoso genio científico Carlton Drake (Riz Ahmed), una obsesión que ha arruinado su carrera y su relación con su novia, Anne (Michelle Williams). Al investigar uno de los experimentos de Drake, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y el reportero adquiere de pronto nuevos e increíbles superpoderes, así como la oportunidad de hacer prácticamente lo que se le antoje. Retorcido, oscuro, impredecible e impulsado por la cólera, Venom obliga a Eddie a luchar por controlar unas habilidades sumamente peligrosas que, al mismo tiempo, también resultan embriagadoras y le hacen sentir poderoso. Dado que Eddie y Venom se necesitan mutuamente para conseguir lo que quieren, se van entremezclando cada vez más... ¿Dónde acaba Eddie y empieza Venom?</info>
+	</item>
+	<item>
+		<title>VENOM: HABRA MATANZA</title>
+		<microhd>794538e0bb521617539b0750ae222ea0d305427d</microhd>
+		<fullhd>33dfaf274b87421452b5da042b87a91dd7755b0f</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>ea2522ad211c1fd0b1d975af6b368c9791ed4dde</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/b0j9rHYpRML7dKm5xw9e97HTDJF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/uaFqlvWEB2DHDtdMMRXwURK7B64.jpg</fanart>
+		<date>2021</date>
+		<genre>Fantástico. Acción. Comedia</genre>
+		<extra>Estreno</extra>
+		<info>Eddie Brock (Tom Hardy) y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte (Woody Harrelson) se infecta con un simbionte propio.</info>
 	</item>
 	<item>
 		<title>VENTAJAS DE VIAJAR EN TREN</title>
